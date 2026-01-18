@@ -1,0 +1,5 @@
+,model_family,total_valid,within_20m,within_50m,within_100m,pct_within_20m,pct_within_50m,pct_within_100m
+0,claude-4.5-sonnet,572,0,0,0,0.0,0.0,0.0
+1,gemini-2.5-pro,577,0,0,0,0.0,0.0,0.0
+2,gpt-5.2,29,0,0,0,0.0,0.0,0.0
+3,qwen3-8b,280,0,0,0,0.0,0.0,0.0

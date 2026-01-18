@@ -1,0 +1,71 @@
+================================================================================
+COMPLETE ACCURATE METRICS FROM DATABASE
+================================================================================
+
+1. OVERALL PERFORMANCE BY MODEL
+--------------------------------------------------------------------------------
+            Model  MAE (m)  RMSE (m)  Coverage (%)  ±20m Acc (%)  ±50m Acc (%)  Valid Predictions  Total Predictions
+          gpt-5.2    23.41      39.5         100.0          76.0          83.0                 29                 29
+   gemini-2.5-pro    24.99      52.3         100.0          66.0          87.0                577                577
+claude-4.5-sonnet    26.67      50.6         100.0          63.0          87.0                572                572
+         qwen3-8b   114.56     176.1         100.0          11.0          26.0                280                280
+
+2. PROMPT PERFORMANCE
+--------------------------------------------------------------------------------
+   Prompt  MAE (m)  RMSE (m)  Std Dev (m)  Coverage (%)  ±20m Acc (%)  Improvement Over V1 (%)
+prompt_v1    50.97     118.0        106.6         100.0          52.0                      0.0
+prompt_v2    47.46      87.6         73.7         100.0          51.0                      6.9
+prompt_v3    42.69      83.5         71.9         100.0          53.0                     16.2
+prompt_v4    28.20      57.0         49.6         100.0          63.0                     44.7
+
+3. TOP 10 MODEL-PROMPT COMBINATIONS
+--------------------------------------------------------------------------------
+            Model    Prompt  MAE (m)  RMSE (m)   N
+          gpt-5.2 prompt_v1    19.00      19.0   1
+          gpt-5.2 prompt_v3    20.07      30.7  14
+   gemini-2.5-pro prompt_v4    22.98      54.8 145
+   gemini-2.5-pro prompt_v3    24.28      41.6 144
+          gpt-5.2 prompt_v4    25.08      46.4  12
+   gemini-2.5-pro prompt_v2    25.12      58.2 143
+claude-4.5-sonnet prompt_v3    26.13      49.3 144
+claude-4.5-sonnet prompt_v4    26.32      49.9 144
+claude-4.5-sonnet prompt_v2    26.96      51.0 143
+claude-4.5-sonnet prompt_v1    27.29      52.2 141
+
+4. ERROR PERCENTILES
+--------------------------------------------------------------------------------
+            Model  Min  25th  50th (Median)  75th  90th  95th  Max
+   gemini-2.5-pro    0     4             10    26    58    96  503
+          gpt-5.2    0     3             12    19    63    83  142
+claude-4.5-sonnet    0     5             15    29    55   106  372
+         qwen3-8b    1    50             96   122   186   329 1438
+
+5. CONFIDENCE CALIBRATION
+--------------------------------------------------------------------------------
+            Model Confidence  Count  MAE (m)
+claude-4.5-sonnet       High    209     24.3
+claude-4.5-sonnet     Medium    363     28.0
+   gemini-2.5-pro       High    532     25.1
+   gemini-2.5-pro     Medium     45     23.8
+          gpt-5.2       High      1      6.0
+          gpt-5.2     Medium     23     21.5
+          gpt-5.2        Low      5     35.8
+         qwen3-8b       High    211    110.8
+         qwen3-8b     Medium     69    126.0
+
+6. ACCURACY THRESHOLDS
+--------------------------------------------------------------------------------
+            Model  Total  ±10m  ±10m %  ±20m  ±20m %  ±50m  ±50m %  ±100m  ±100m %
+claude-4.5-sonnet    572   233    40.7   359    62.8   500    87.4    535     93.5
+   gemini-2.5-pro    577   292    50.6   381    66.0   500    86.7    551     95.5
+          gpt-5.2     29    13    44.8    22    75.9    24    82.8     28     96.6
+         qwen3-8b    280    18     6.4    31    11.1    74    26.4    145     51.8
+
+7. HALLUCINATION RATES
+--------------------------------------------------------------------------------
+            Model  Total Predictions  Errors >100m  % Hallucinations
+claude-4.5-sonnet                572            37               6.5
+   gemini-2.5-pro                577            26               4.5
+          gpt-5.2                 29             1               3.4
+         qwen3-8b                280           135              48.2
+

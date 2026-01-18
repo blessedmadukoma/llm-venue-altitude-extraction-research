@@ -1,0 +1,29 @@
+Altitude Prediction Analysis Results
+Generated (UTC): 2026-01-18T10:45:29.171793
+
+Model / Prompt Performance Ranking (lower score = better)
+ rank      model_family prompt_version        mae  pct_large_errors  pct_unknown  avg_cost_usd  total_cost_usd  count_valid  combined_score
+    1 claude-4.5-sonnet      prompt_v3  26.100694          0.062500     0.006897      0.002628        0.381009          144       46.178591
+    2 claude-4.5-sonnet      prompt_v4  26.302083          0.062500     0.006897      0.002674        0.387696          144       46.610566
+    3 claude-4.5-sonnet      prompt_v2  26.933566          0.062937     0.013793      0.002451        0.355440          143       46.863135
+    4 claude-4.5-sonnet      prompt_v1  27.258865          0.070922     0.027586      0.002353        0.341136          141       48.872995
+    5    gemini-2.5-pro      prompt_v4  22.948276          0.034483     0.000000      0.016147        2.341288          145      107.130621
+    6    gemini-2.5-pro      prompt_v3  24.281250          0.041667     0.006897      0.015995        2.319306          144      109.113641
+    7    gemini-2.5-pro      prompt_v2  25.115385          0.041958     0.013793      0.015765        2.285907          143      109.514878
+    8    gemini-2.5-pro      prompt_v1  27.541379          0.062069     0.000000      0.015410        2.234397          145      110.796448
+    9           gpt-5.2      prompt_v3  20.035714          0.000000     0.903448      0.005079        0.736395           14      135.773473
+   10           gpt-5.2      prompt_v1  19.000000          0.000000     0.993103      0.004312        0.625310            1      139.872759
+   11           gpt-5.2      prompt_v4  25.125000          0.083333     0.917241      0.004805        0.696761           12      149.208713
+   12           gpt-5.2      prompt_v2  39.000000          0.000000     0.986207      0.003954        0.573291            2      157.389345
+   13          qwen3-8b      prompt_v2 108.915000          0.480000     0.310345      0.000206        0.029876          100      188.979690
+   14          qwen3-8b      prompt_v4  74.500000          0.304348     0.841379      0.000214        0.031007           23      190.141921
+   15          qwen3-8b      prompt_v3 111.320513          0.487179     0.462069      0.000212        0.030759           78      207.306013
+   16          qwen3-8b      prompt_v1 136.626582          0.531646     0.455172      0.000243        0.035194           79      236.521967
+
+Recommended winner:
+→ claude-4.5-sonnet - prompt_v3
+   MAE: 26.10m
+   Large errors (>100m): 6.2%
+   Unknown rate: 0.7%
+   Avg cost per query: $0.002628
+   Combined score: 46.18

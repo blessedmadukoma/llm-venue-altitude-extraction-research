@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local files
+geonames_athletics_relevant.csv
+allCountries.txt
+geonames_athletics_relevant.parquet
+geoname_extraction/
+openrouter_activity_2026-01-15_old.csv

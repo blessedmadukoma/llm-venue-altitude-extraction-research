@@ -1,0 +1,1459 @@
+,canonical_venue,model_family,prompt_version,predicted_altitude,confidence_from_model,error_absolute,error_relative_pct,gold_altitude_m,gold_confidence
+0,"AIS Athletics Track, Canberra (AUS)",claude-4.5-sonnet,prompt_v1,580,high,,,609,medium
+1,"AIT International Arena, Athlone (IRL)",claude-4.5-sonnet,prompt_v1,60,medium,,,44,high
+2,"Aftab Enghelab Sport Complex, Tehran (IRI)",claude-4.5-sonnet,prompt_v1,1200,medium,,,1572,high
+3,"Alexander Stadium, Birmingham (GBR)",claude-4.5-sonnet,prompt_v1,140,medium,,,100,medium
+4,"Altice Forum, Braga (POR)",claude-4.5-sonnet,prompt_v1,200,medium,,,160,high
+5,"Arena Stade Couvert, Liévin (FRA)",claude-4.5-sonnet,prompt_v1,34,medium,,,71,high
+6,"Arena, Toruń (POL)",claude-4.5-sonnet,prompt_v1,65,medium,,,48,medium
+7,"Armory Track&Field Center, New York, NY (USA)",claude-4.5-sonnet,prompt_v1,10,high,,,65,medium
+8,"Ataköy Arena, Istanbul (TUR)",claude-4.5-sonnet,prompt_v1,10,medium,,,7,high
+9,"Atatürk Stadyumu, Izmir (TUR)",claude-4.5-sonnet,prompt_v1,25,medium,,,2,high
+10,"Atletická hala, Ostrava (CZE)",claude-4.5-sonnet,prompt_v1,260,medium,,,231,high
+11,"Atletický stadion Slavia Praha, Praha (CZE)",claude-4.5-sonnet,prompt_v1,220,medium,,,215,high
+12,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)",claude-4.5-sonnet,prompt_v1,5,medium,,,2,high
+13,"Atletska dvorana, Beograd (SRB)",claude-4.5-sonnet,prompt_v1,117,medium,,,138,high
+14,"Atletski Stadion, Kraljevo (SRB)",claude-4.5-sonnet,prompt_v1,200,medium,,,198,high
+15,"Atletski stadion, Sremska Mitrovica (SRB)",claude-4.5-sonnet,prompt_v1,82,medium,,,84,high
+16,"Bislett Stadion, Oslo (NOR)",claude-4.5-sonnet,prompt_v1,25,high,,,28,high
+17,"Boston Univ. Track & Tennis Center, Boston, MA (USA)",claude-4.5-sonnet,prompt_v1,6,high,,,10,high
+18,"Boudewijnstadion, Bruxelles (BEL)",claude-4.5-sonnet,prompt_v1,50,medium,,,52,low
+19,"Bærum Idrettspark, Rud, Bærum (NOR)",claude-4.5-sonnet,prompt_v1,134,medium,,,33,high
+20,"CNDA, Bragança Paulista (BRA)",claude-4.5-sonnet,prompt_v1,817,medium,,,855,high
+21,"Camille Chamoun Sports City Stadium, Beirut (LBN)",claude-4.5-sonnet,prompt_v1,25,medium,,,53,high
+22,"Campo Comunale, Modena (ITA)",claude-4.5-sonnet,prompt_v1,34,high,,,46,high
+23,"CeNARD, Buenos Aires (ARG)",claude-4.5-sonnet,prompt_v1,25,high,,,12,high
+24,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",claude-4.5-sonnet,prompt_v1,2240,high,,,2228,high
+25,"Centro Desportivo Nacional do Jamor, Lisboa (POR)",claude-4.5-sonnet,prompt_v1,50,medium,,,14,high
+26,"Centro Gabre Gabric, Brescia (ITA)",claude-4.5-sonnet,prompt_v1,149,medium,,,128,high
+27,"Centro Nacional de Lançamentos, Leiria (POR)",claude-4.5-sonnet,prompt_v1,134,medium,,,27,high
+28,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",claude-4.5-sonnet,prompt_v1,59,medium,,,239,high
+29,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)",claude-4.5-sonnet,prompt_v1,134,medium,,,135,high
+30,"Complexo Desportivo de Lousada, Lousada (POR)",claude-4.5-sonnet,prompt_v1,134,medium,,,335,high
+31,"Coque Sport Center, Luxembourg (LUX)",claude-4.5-sonnet,prompt_v1,300,medium,,,336,medium
+32,"Egyetemi Stadion, Veszprém (HUN)",claude-4.5-sonnet,prompt_v1,134,medium,,,276,medium
+33,"Eläintarhan urheilukenttä, Helsinki (FIN)",claude-4.5-sonnet,prompt_v1,10,medium,,,6,high
+34,"Estadio Atlético de la VIDENA, Lima (PER)",claude-4.5-sonnet,prompt_v1,134,high,,,174,high
+35,"Estadio Panamericano, La Habana (CUB)",claude-4.5-sonnet,prompt_v1,50,medium,,,32,high
+36,"Estadio Vallehermoso, Madrid (ESP)",claude-4.5-sonnet,prompt_v1,650,high,,,702,high
+37,"Estádio 1o de Maio, Braga (POR)",claude-4.5-sonnet,prompt_v1,200,medium,,,174,low
+38,"Estádio Municipal Fontelo, Viseu (POR)",claude-4.5-sonnet,prompt_v1,485,high,,,461,high
+39,"Estádio Municipal Manuela Machado, Viana do Castelo (POR)",claude-4.5-sonnet,prompt_v1,20,medium,,,33,low
+40,"Estádio Municipal de Vagos, Vagos (POR)",claude-4.5-sonnet,prompt_v1,20,medium,,,18,high
+41,"Expocentro, Pombal (POR)",claude-4.5-sonnet,prompt_v1,134,medium,,,117,high
+42,"Fana Stadion, Bergen (NOR)",claude-4.5-sonnet,prompt_v1,15,medium,,,38,high
+43,"Foothills Athletic Park, Calgary (CAN)",claude-4.5-sonnet,prompt_v1,1045,high,,,1096,high
+44,"Friidrottens Hus, Göteborg (SWE)",claude-4.5-sonnet,prompt_v1,10,medium,,,21,high
+45,"GPS Stadium, Nicosia (CYP)",claude-4.5-sonnet,prompt_v1,150,medium,,,183,high
+46,"Givat Ram Stadium, Jerusalem (ISR)",claude-4.5-sonnet,prompt_v1,750,medium,,,747,medium
+47,"Gobierno Autónomo Municipal de Cochabamba, Cochabamba (BOL)",claude-4.5-sonnet,prompt_v1,2558,high,,,2573,high
+48,"Golęcin Stadion, Poznan (POL)",claude-4.5-sonnet,prompt_v1,80,medium,,,71,high
+49,"Hadar Yosef Stadium, Tel Aviv (ISR)",claude-4.5-sonnet,prompt_v1,25,medium,,,12,high
+50,"Hayward Field, Eugene, OR (USA)",claude-4.5-sonnet,prompt_v1,134,high,,,128,low
+51,"Hvidovre Stadion, Hvidovre (DEN)",claude-4.5-sonnet,prompt_v1,10,medium,,,10,high
+52,"Icahn Stadium, New York, NY (USA)",claude-4.5-sonnet,prompt_v1,10,high,,,6,medium
+53,"Jāņa Daliņa Manēža, Valmiera (LAT)",claude-4.5-sonnet,prompt_v1,43,medium,,,49,high
+54,"Jāņa Daliņa Stadium, Valmiera (LAT)",claude-4.5-sonnet,prompt_v1,43,medium,,,39,high
+55,"KMSHVSM Arena, Kyiv (UKR)",claude-4.5-sonnet,prompt_v1,179,medium,,,158,high
+56,"Kadrioru staadion, Tallinn (EST)",claude-4.5-sonnet,prompt_v1,30,medium,,,8,high
+57,"Kirani James Athletic Stadium, St. George's (GRN)",claude-4.5-sonnet,prompt_v1,5,medium,,,8,high
+58,"LAZ Wien, Wien (AUT)",claude-4.5-sonnet,prompt_v1,200,medium,,,186,low
+59,"Lakeside Stadium, Melbourne (AUS)",claude-4.5-sonnet,prompt_v1,13,high,,,8,high
+60,"Lantos Mihály Sportközpont, Budapest (HUN)",claude-4.5-sonnet,prompt_v1,134,medium,,,108,high
+61,"Laugardalshöll, Reykjavík (ISL)",claude-4.5-sonnet,prompt_v1,20,medium,,,14,high
+62,"Lee Valley Athletics Centre, London (GBR)",claude-4.5-sonnet,prompt_v1,35,medium,,,19,high
+63,"Leichtathletikarena, Eisenstadt (AUT)",claude-4.5-sonnet,prompt_v1,182,medium,,,157,high
+64,"Liikuntamylly, Helsinki (FIN)",claude-4.5-sonnet,prompt_v1,10,medium,,,18,high
+65,"Longford Stadium Trafford, Manchester (GBR)",claude-4.5-sonnet,prompt_v1,38,medium,,,33,high
+66,"Loughborough University Track, Loughborough (GBR)",claude-4.5-sonnet,prompt_v1,134,high,,,55,high
+67,"Mahinda Rajapaksha Stadium, Diyagama (SRI)",claude-4.5-sonnet,prompt_v1,134,medium,,,16,high
+68,"Manchester Regional Arena, Manchester (GBR)",claude-4.5-sonnet,prompt_v1,38,medium,,,55,high
+69,"Marsa Athletics Track, Marsa (MLT)",claude-4.5-sonnet,prompt_v1,10,medium,,,5,high
+70,"McArthur Stadium, Potchefstroom (RSA)",claude-4.5-sonnet,prompt_v1,1350,high,,,1346,high
+71,"Mestský Stadion, Ostrava (CZE)",claude-4.5-sonnet,prompt_v1,260,high,,,230,high
+72,Montevideo (URU),claude-4.5-sonnet,prompt_v1,43,medium,,,45,high
+73,"Morton Stadium, Santry, Dublin (IRL)",claude-4.5-sonnet,prompt_v1,35,medium,,,51,high
+74,"Mt Smart Stadium, Auckland (NZL)",claude-4.5-sonnet,prompt_v1,30,medium,,,18,medium
+75,"Městský atletický stadion, Pardubice (CZE)",claude-4.5-sonnet,prompt_v1,225,medium,,,220,high
+76,"National Stadium, Kingston (JAM)",claude-4.5-sonnet,prompt_v1,9,high,,,78,low
+77,"National Stadium, Tokyo (JPN)",claude-4.5-sonnet,prompt_v1,50,medium,,,38,high
+78,"Newtown Park Stadium, Wellington (NZL)",claude-4.5-sonnet,prompt_v1,15,medium,,,39,low
+79,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",claude-4.5-sonnet,prompt_v1,107,medium,,,108,high
+80,"Ocean Breeze Athl. Complex, New York, NY (USA)",claude-4.5-sonnet,prompt_v1,5,high,,,5,high
+81,"Olympiastadion, Stockholm (SWE)",claude-4.5-sonnet,prompt_v1,44,high,,,25,high
+82,"Omnisport, Apeldoorn (NED)",claude-4.5-sonnet,prompt_v1,16,medium,,,9,high
+83,"Paavo Nurmen Stadion, Turku (FIN)",claude-4.5-sonnet,prompt_v1,10,medium,,,28,high
+84,"Philsport Track Oval, Pasig (PHI)",claude-4.5-sonnet,prompt_v1,20,medium,,,39,high
+85,"Pilditch Stadium, Pretoria (RSA)",claude-4.5-sonnet,prompt_v1,1339,high,,,1325,high
+86,"Pista Atlética Mario Recordón, Santiago de Chile (CHI)",claude-4.5-sonnet,prompt_v1,520,medium,,,571,medium
+87,"Pista Basilio Rodriguez, Carolina (PUR)",claude-4.5-sonnet,prompt_v1,10,medium,,,8,high
+88,"Pista Carlos Lopes, Torres Vedras (POR)",claude-4.5-sonnet,prompt_v1,20,medium,,,85,high
+89,"Pista Municipal Prof. Mário Moniz Pereira, Lisboa (POR)",claude-4.5-sonnet,prompt_v1,134,medium,,,61,high
+90,"Pista da Sogipa, Porto Alegre (BRA)",claude-4.5-sonnet,prompt_v1,10,medium,,,32,high
+91,"Pista de Atletismo Justo Román, Mar del Plata (ARG)",claude-4.5-sonnet,prompt_v1,25,medium,,,18,high
+92,"Pista de Atletismo SND, Asunción (PAR)",claude-4.5-sonnet,prompt_v1,43,medium,,,149,high
+93,"Pista de Atletismo da Universidade Federal do Mato Grosso, Cuiaba (BRA)",claude-4.5-sonnet,prompt_v1,165,medium,,,184,high
+94,"Pista de Atletismo da Universidade Federal do Rio Grande do Norte, Natal (BRA)",claude-4.5-sonnet,prompt_v1,30,medium,,,47,high
+95,"Pista de Atletismo do CIEF, Brasilia (BRA)",claude-4.5-sonnet,prompt_v1,1100,medium,,,1115,high
+96,"Pista de Atletismo do Parque Ayrton Senna, Campo Grande (BRA)",claude-4.5-sonnet,prompt_v1,532,medium,,,503,high
+97,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",claude-4.5-sonnet,prompt_v1,30,medium,,,48,high
+98,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",claude-4.5-sonnet,prompt_v1,50,medium,,,86,high
+99,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",claude-4.5-sonnet,prompt_v1,60,medium,,,84,medium
+100,"RG3 e Centro Desportivo da Madeira, Funchal (POR)",claude-4.5-sonnet,prompt_v1,134,medium,,,85,high
+101,"Regional Sport Complex, Brest (BLR)",claude-4.5-sonnet,prompt_v1,134,medium,,,142,high
+102,"SA Athletic Stadium, Adelaide (AUS)",claude-4.5-sonnet,prompt_v1,50,medium,,,28,low
+103,"Sala de Atletism Ioan Soter, Bucureşti (ROU)",claude-4.5-sonnet,prompt_v1,85,medium,,,78,high
+104,"Sollentunavallen, Sollentuna (SWE)",claude-4.5-sonnet,prompt_v1,25,medium,,,25,high
+105,"Spar Nord Arena, Skive (DEN)",claude-4.5-sonnet,prompt_v1,15,medium,,,6,high
+106,"Sportanlage Sihlhölzli, Zürich (SUI)",claude-4.5-sonnet,prompt_v1,410,high,,,417,high
+107,"Sports Park Mladost, Zagreb (CRO)",claude-4.5-sonnet,prompt_v1,134,medium,,,116,high
+108,"Staadion, Rakvere (EST)",claude-4.5-sonnet,prompt_v1,70,medium,,,67,high
+109,"Stade L. Achille, Fort-de-France (FRA)",claude-4.5-sonnet,prompt_v1,5,medium,,,11,high
+110,"Stade Olympique de la Pontaise, Lausanne (SUI)",claude-4.5-sonnet,prompt_v1,650,high,,,592,medium
+111,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",claude-4.5-sonnet,prompt_v1,80,medium,,,69,high
+112,"Stadio Comunale, Bellinzona (SUI)",claude-4.5-sonnet,prompt_v1,238,high,,,228,high
+113,"Stadio Guidobaldi, Rieti (ITA)",claude-4.5-sonnet,prompt_v1,402,high,,,386,high
+114,"Stadio M.S. Cozzoli, Molfetta (ITA)",claude-4.5-sonnet,prompt_v1,5,medium,,,7,high
+115,"Stadion BOSiR, Białystok (POL)",claude-4.5-sonnet,prompt_v1,150,medium,,,147,high
+116,"Stadion Radés, Radés (TUN)",claude-4.5-sonnet,prompt_v1,10,medium,,,20,low
+117,"Stadion Topolica, Bar (MNE)",claude-4.5-sonnet,prompt_v1,5,medium,,,4,medium
+118,"Stadion Zygmunta Szelesta, Warszawa (POL)",claude-4.5-sonnet,prompt_v1,107,medium,,,98,high
+119,"Stadion Śląski, Chorzów (POL)",claude-4.5-sonnet,prompt_v1,270,high,,,276,medium
+120,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",claude-4.5-sonnet,prompt_v1,85,medium,,,87,high
+121,"Stadium Pierre-Quinon, Nantes (FRA)",claude-4.5-sonnet,prompt_v1,11,medium,,,24,high
+122,"Suhaim bin Hamad Stadium, Doha (QAT)",claude-4.5-sonnet,prompt_v1,10,high,,,11,medium
+123,"T. Robinson Stadium, Nassau (BAH)",claude-4.5-sonnet,prompt_v1,5,high,,,6,high
+124,"Tamme staadion, Tartu (EST)",claude-4.5-sonnet,prompt_v1,40,medium,,,54,high
+125,"Terry Fox AF, Ottawa (CAN)",claude-4.5-sonnet,prompt_v1,70,medium,,,102,high
+126,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",claude-4.5-sonnet,prompt_v1,10,medium,,,47,medium
+127,"The Podium, Spokane, WA (USA)",claude-4.5-sonnet,prompt_v1,588,high,,,577,high
+128,"The Track at New Balance, Boston, MA (USA)",claude-4.5-sonnet,prompt_v1,6,high,,,12,high
+129,"TipsArena, Linz (AUT)",claude-4.5-sonnet,prompt_v1,262,high,,,319,high
+130,"Topsporthal Vlaanderen, Gent (BEL)",claude-4.5-sonnet,prompt_v1,10,medium,,,12,high
+131,"Toše Proeski Arena, Skopje (MKD)",claude-4.5-sonnet,prompt_v1,245,medium,,,253,medium
+132,"Track and Field Centre Outdoor Track, Toronto (CAN)",claude-4.5-sonnet,prompt_v1,76,high,,,198,medium
+133,"Track and Field Centre, Toronto (CAN)",claude-4.5-sonnet,prompt_v1,76,high,,,198,medium
+134,"Tullamore Harriers AC Stadium, Tullamore (IRL)",claude-4.5-sonnet,prompt_v1,70,medium,,,52,low
+135,"Uppsala Friidrottsarena, Uppsala (SWE)",claude-4.5-sonnet,prompt_v1,15,medium,,,20,high
+136,"WA Athletics Stadium, Perth (AUS)",claude-4.5-sonnet,prompt_v1,25,medium,,,21,high
+137,"Woodside Stadium, Watford (GBR)",claude-4.5-sonnet,prompt_v1,75,medium,,,77,high
+138,"Yanmar Stadium Nagai, Osaka (JPN)",claude-4.5-sonnet,prompt_v1,20,medium,,,23,high
+139,"Športová hala Elán, Bratislava (SVK)",claude-4.5-sonnet,prompt_v1,134,medium,,,137,high
+140,"Štadión SNP, Banská Bystrica (SVK)",claude-4.5-sonnet,prompt_v1,362,high,,,343,medium
+141,"AIS Athletics Track, Canberra (AUS)",claude-4.5-sonnet,prompt_v2,580,high,,,609,medium
+142,"AIT International Arena, Athlone (IRL)",claude-4.5-sonnet,prompt_v2,60,medium,,,44,high
+143,"Aftab Enghelab Sport Complex, Tehran (IRI)",claude-4.5-sonnet,prompt_v2,1200,medium,,,1572,high
+144,"Alexander Stadium, Birmingham (GBR)",claude-4.5-sonnet,prompt_v2,140,high,,,100,medium
+145,"Altice Forum, Braga (POR)",claude-4.5-sonnet,prompt_v2,200,medium,,,160,high
+146,"Arena Stade Couvert, Liévin (FRA)",claude-4.5-sonnet,prompt_v2,34,medium,,,71,high
+147,"Arena, Toruń (POL)",claude-4.5-sonnet,prompt_v2,65,medium,,,48,medium
+148,"Armory Track&Field Center, New York, NY (USA)",claude-4.5-sonnet,prompt_v2,34,high,,,65,medium
+149,"Ataköy Arena, Istanbul (TUR)",claude-4.5-sonnet,prompt_v2,10,medium,,,7,high
+150,"Atatürk Stadyumu, Izmir (TUR)",claude-4.5-sonnet,prompt_v2,25,medium,,,2,high
+151,"Atletická hala, Ostrava (CZE)",claude-4.5-sonnet,prompt_v2,210,medium,,,231,high
+152,"Atletický stadion Slavia Praha, Praha (CZE)",claude-4.5-sonnet,prompt_v2,270,medium,,,215,high
+153,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)",claude-4.5-sonnet,prompt_v2,5,medium,,,2,high
+154,"Atletska dvorana, Beograd (SRB)",claude-4.5-sonnet,prompt_v2,117,medium,,,138,high
+155,"Atletski Stadion, Kraljevo (SRB)",claude-4.5-sonnet,prompt_v2,200,medium,,,198,high
+156,"Atletski stadion, Sremska Mitrovica (SRB)",claude-4.5-sonnet,prompt_v2,82,medium,,,84,high
+157,"Bislett Stadion, Oslo (NOR)",claude-4.5-sonnet,prompt_v2,25,high,,,28,high
+158,"Boston Univ. Track & Tennis Center, Boston, MA (USA)",claude-4.5-sonnet,prompt_v2,6,medium,,,10,high
+159,"Boudewijnstadion, Bruxelles (BEL)",claude-4.5-sonnet,prompt_v2,50,medium,,,52,low
+160,"Bærum Idrettspark, Rud, Bærum (NOR)",claude-4.5-sonnet,prompt_v2,134,medium,,,33,high
+161,"CNDA, Bragança Paulista (BRA)",claude-4.5-sonnet,prompt_v2,817,high,,,855,high
+162,"Camille Chamoun Sports City Stadium, Beirut (LBN)",claude-4.5-sonnet,prompt_v2,25,medium,,,53,high
+163,"Campo Comunale, Modena (ITA)",claude-4.5-sonnet,prompt_v2,34,medium,,,46,high
+164,"CeNARD, Buenos Aires (ARG)",claude-4.5-sonnet,prompt_v2,25,high,,,12,high
+165,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",claude-4.5-sonnet,prompt_v2,2240,high,,,2228,high
+166,"Centro Desportivo Nacional do Jamor, Lisboa (POR)",claude-4.5-sonnet,prompt_v2,50,medium,,,14,high
+167,"Centro Gabre Gabric, Brescia (ITA)",claude-4.5-sonnet,prompt_v2,149,medium,,,128,high
+168,"Centro Nacional de Lançamentos, Leiria (POR)",claude-4.5-sonnet,prompt_v2,134,medium,,,27,high
+169,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",claude-4.5-sonnet,prompt_v2,59,medium,,,239,high
+170,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)",claude-4.5-sonnet,prompt_v2,134,medium,,,135,high
+171,"Complexo Desportivo de Lousada, Lousada (POR)",claude-4.5-sonnet,prompt_v2,134,medium,,,335,high
+172,"Coque Sport Center, Luxembourg (LUX)",claude-4.5-sonnet,prompt_v2,300,medium,,,336,medium
+173,"Egyetemi Stadion, Veszprém (HUN)",claude-4.5-sonnet,prompt_v2,134,medium,,,276,medium
+174,"Eläintarhan urheilukenttä, Helsinki (FIN)",claude-4.5-sonnet,prompt_v2,10,medium,,,6,high
+175,"Estadio Atlético de la VIDENA, Lima (PER)",claude-4.5-sonnet,prompt_v2,134,high,,,174,high
+176,"Estadio Panamericano, La Habana (CUB)",claude-4.5-sonnet,prompt_v2,50,medium,,,32,high
+177,"Estadio Vallehermoso, Madrid (ESP)",claude-4.5-sonnet,prompt_v2,650,high,,,702,high
+178,"Estádio 1o de Maio, Braga (POR)",claude-4.5-sonnet,prompt_v2,200,medium,,,174,low
+179,"Estádio Municipal Fontelo, Viseu (POR)",claude-4.5-sonnet,prompt_v2,485,high,,,461,high
+180,"Estádio Municipal Manuela Machado, Viana do Castelo (POR)",claude-4.5-sonnet,prompt_v2,15,medium,,,33,low
+181,"Estádio Municipal de Vagos, Vagos (POR)",claude-4.5-sonnet,prompt_v2,25,medium,,,18,high
+182,"Expocentro, Pombal (POR)",claude-4.5-sonnet,prompt_v2,134,medium,,,117,high
+183,"Fana Stadion, Bergen (NOR)",claude-4.5-sonnet,prompt_v2,15,medium,,,38,high
+184,"Foothills Athletic Park, Calgary (CAN)",claude-4.5-sonnet,prompt_v2,1045,high,,,1096,high
+185,"Friidrottens Hus, Göteborg (SWE)",claude-4.5-sonnet,prompt_v2,10,medium,,,21,high
+186,"GPS Stadium, Nicosia (CYP)",claude-4.5-sonnet,prompt_v2,150,medium,,,183,high
+187,"Givat Ram Stadium, Jerusalem (ISR)",claude-4.5-sonnet,prompt_v2,780,high,,,747,medium
+188,"Gobierno Autónomo Municipal de Cochabamba, Cochabamba (BOL)",claude-4.5-sonnet,prompt_v2,2558,high,,,2573,high
+189,"Golęcin Stadion, Poznan (POL)",claude-4.5-sonnet,prompt_v2,75,medium,,,71,high
+190,"Hadar Yosef Stadium, Tel Aviv (ISR)",claude-4.5-sonnet,prompt_v2,25,medium,,,12,high
+191,"Hayward Field, Eugene, OR (USA)",claude-4.5-sonnet,prompt_v2,134,high,,,128,low
+192,"Hvidovre Stadion, Hvidovre (DEN)",claude-4.5-sonnet,prompt_v2,5,medium,,,10,high
+193,"Icahn Stadium, New York, NY (USA)",claude-4.5-sonnet,prompt_v2,3,high,,,6,medium
+194,"Jāņa Daliņa Manēža, Valmiera (LAT)",claude-4.5-sonnet,prompt_v2,43,medium,,,49,high
+195,"Jāņa Daliņa Stadium, Valmiera (LAT)",claude-4.5-sonnet,prompt_v2,43,medium,,,39,high
+196,"KMSHVSM Arena, Kyiv (UKR)",claude-4.5-sonnet,prompt_v2,179,medium,,,158,high
+197,"Kadrioru staadion, Tallinn (EST)",claude-4.5-sonnet,prompt_v2,35,medium,,,8,high
+198,"Kirani James Athletic Stadium, St. George's (GRN)",claude-4.5-sonnet,prompt_v2,5,medium,,,8,high
+199,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",claude-4.5-sonnet,prompt_v2,10,medium,,,36,high
+200,"LAZ Wien, Wien (AUT)",claude-4.5-sonnet,prompt_v2,171,medium,,,186,low
+201,"Lakeside Stadium, Melbourne (AUS)",claude-4.5-sonnet,prompt_v2,13,high,,,8,high
+202,"Lantos Mihály Sportközpont, Budapest (HUN)",claude-4.5-sonnet,prompt_v2,134,medium,,,108,high
+203,"Laugardalshöll, Reykjavík (ISL)",claude-4.5-sonnet,prompt_v2,20,medium,,,14,high
+204,"Lee Valley Athletics Centre, London (GBR)",claude-4.5-sonnet,prompt_v2,35,high,,,19,high
+205,"Leichtathletikarena, Eisenstadt (AUT)",claude-4.5-sonnet,prompt_v2,182,medium,,,157,high
+206,"Liikuntamylly, Helsinki (FIN)",claude-4.5-sonnet,prompt_v2,10,medium,,,18,high
+207,"Longford Stadium Trafford, Manchester (GBR)",claude-4.5-sonnet,prompt_v2,35,medium,,,33,high
+208,"Loughborough University Track, Loughborough (GBR)",claude-4.5-sonnet,prompt_v2,100,medium,,,55,high
+209,"Mahinda Rajapaksha Stadium, Diyagama (SRI)",claude-4.5-sonnet,prompt_v2,10,medium,,,16,high
+210,"Manchester Regional Arena, Manchester (GBR)",claude-4.5-sonnet,prompt_v2,50,medium,,,55,high
+211,"Marsa Athletics Track, Marsa (MLT)",claude-4.5-sonnet,prompt_v2,10,medium,,,5,high
+212,"McArthur Stadium, Potchefstroom (RSA)",claude-4.5-sonnet,prompt_v2,1350,high,,,1346,high
+213,"Mestský Stadion, Ostrava (CZE)",claude-4.5-sonnet,prompt_v2,210,high,,,230,high
+214,Montevideo (URU),claude-4.5-sonnet,prompt_v2,43,high,,,45,high
+215,"Morton Stadium, Santry, Dublin (IRL)",claude-4.5-sonnet,prompt_v2,40,medium,,,51,high
+216,"Mt Smart Stadium, Auckland (NZL)",claude-4.5-sonnet,prompt_v2,20,medium,,,18,medium
+217,"Městský atletický stadion, Pardubice (CZE)",claude-4.5-sonnet,prompt_v2,225,high,,,220,high
+218,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",claude-4.5-sonnet,prompt_v2,60,medium,,,9,high
+219,"National Stadium, Kingston (JAM)",claude-4.5-sonnet,prompt_v2,10,high,,,78,low
+220,"National Stadium, Tokyo (JPN)",claude-4.5-sonnet,prompt_v2,44,high,,,38,high
+221,"Newtown Park Stadium, Wellington (NZL)",claude-4.5-sonnet,prompt_v2,10,medium,,,39,low
+222,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",claude-4.5-sonnet,prompt_v2,107,medium,,,108,high
+223,"Ocean Breeze Athl. Complex, New York, NY (USA)",claude-4.5-sonnet,prompt_v2,3,high,,,5,high
+224,"Olympiastadion, Stockholm (SWE)",claude-4.5-sonnet,prompt_v2,44,high,,,25,high
+225,"Omnisport, Apeldoorn (NED)",claude-4.5-sonnet,prompt_v2,16,medium,,,9,high
+226,"Paavo Nurmen Stadion, Turku (FIN)",claude-4.5-sonnet,prompt_v2,10,medium,,,28,high
+227,"Philsport Track Oval, Pasig (PHI)",claude-4.5-sonnet,prompt_v2,14,medium,,,39,high
+228,"Pilditch Stadium, Pretoria (RSA)",claude-4.5-sonnet,prompt_v2,1339,high,,,1325,high
+229,"Pista Atlética Mario Recordón, Santiago de Chile (CHI)",claude-4.5-sonnet,prompt_v2,520,medium,,,571,medium
+230,"Pista Basilio Rodriguez, Carolina (PUR)",claude-4.5-sonnet,prompt_v2,10,medium,,,8,high
+231,"Pista Carlos Lopes, Torres Vedras (POR)",claude-4.5-sonnet,prompt_v2,20,medium,,,85,high
+232,"Pista Municipal Prof. Mário Moniz Pereira, Lisboa (POR)",claude-4.5-sonnet,prompt_v2,134,medium,,,61,high
+233,"Pista da Sogipa, Porto Alegre (BRA)",claude-4.5-sonnet,prompt_v2,10,medium,,,32,high
+234,"Pista de Atletismo Justo Román, Mar del Plata (ARG)",claude-4.5-sonnet,prompt_v2,25,medium,,,18,high
+235,"Pista de Atletismo SND, Asunción (PAR)",claude-4.5-sonnet,prompt_v2,43,medium,,,149,high
+236,"Pista de Atletismo da Universidade Federal do Mato Grosso, Cuiaba (BRA)",claude-4.5-sonnet,prompt_v2,165,medium,,,184,high
+237,"Pista de Atletismo da Universidade Federal do Rio Grande do Norte, Natal (BRA)",claude-4.5-sonnet,prompt_v2,30,medium,,,47,high
+238,"Pista de Atletismo do CIEF, Brasilia (BRA)",claude-4.5-sonnet,prompt_v2,1100,medium,,,1115,high
+239,"Pista de Atletismo do Parque Ayrton Senna, Campo Grande (BRA)",claude-4.5-sonnet,prompt_v2,532,medium,,,503,high
+240,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",claude-4.5-sonnet,prompt_v2,30,medium,,,48,high
+241,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",claude-4.5-sonnet,prompt_v2,50,medium,,,86,high
+242,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",claude-4.5-sonnet,prompt_v2,40,medium,,,84,medium
+243,"RG3 e Centro Desportivo da Madeira, Funchal (POR)",claude-4.5-sonnet,prompt_v2,134,medium,,,85,high
+244,"Regional Sport Complex, Brest (BLR)",claude-4.5-sonnet,prompt_v2,141,medium,,,142,high
+245,"SA Athletic Stadium, Adelaide (AUS)",claude-4.5-sonnet,prompt_v2,50,medium,,,28,low
+246,"SOPAC, Sydney (AUS)",claude-4.5-sonnet,prompt_v2,3,high,,,30,high
+247,"Sala de Atletism Ioan Soter, Bucureşti (ROU)",claude-4.5-sonnet,prompt_v2,85,medium,,,78,high
+248,"Sollentunavallen, Sollentuna (SWE)",claude-4.5-sonnet,prompt_v2,30,medium,,,25,high
+249,"Spar Nord Arena, Skive (DEN)",claude-4.5-sonnet,prompt_v2,10,medium,,,6,high
+250,"Sportanlage Sihlhölzli, Zürich (SUI)",claude-4.5-sonnet,prompt_v2,408,high,,,417,high
+251,"Sports Park Mladost, Zagreb (CRO)",claude-4.5-sonnet,prompt_v2,122,medium,,,116,high
+252,"Staadion, Rakvere (EST)",claude-4.5-sonnet,prompt_v2,70,medium,,,67,high
+253,"Stade L. Achille, Fort-de-France (FRA)",claude-4.5-sonnet,prompt_v2,5,medium,,,11,high
+254,"Stade Olympique de la Pontaise, Lausanne (SUI)",claude-4.5-sonnet,prompt_v2,650,high,,,592,medium
+255,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",claude-4.5-sonnet,prompt_v2,80,medium,,,69,high
+256,"Stadio Comunale, Bellinzona (SUI)",claude-4.5-sonnet,prompt_v2,238,high,,,228,high
+257,"Stadio Guidobaldi, Rieti (ITA)",claude-4.5-sonnet,prompt_v2,405,high,,,386,high
+258,"Stadio M.S. Cozzoli, Molfetta (ITA)",claude-4.5-sonnet,prompt_v2,15,medium,,,7,high
+259,"Stadion BOSiR, Białystok (POL)",claude-4.5-sonnet,prompt_v2,150,medium,,,147,high
+260,"Stadion Radés, Radés (TUN)",claude-4.5-sonnet,prompt_v2,10,medium,,,20,low
+261,"Stadion Topolica, Bar (MNE)",claude-4.5-sonnet,prompt_v2,10,medium,,,4,medium
+262,"Stadion Zygmunta Szelesta, Warszawa (POL)",claude-4.5-sonnet,prompt_v2,100,medium,,,98,high
+263,"Stadion Śląski, Chorzów (POL)",claude-4.5-sonnet,prompt_v2,270,high,,,276,medium
+264,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",claude-4.5-sonnet,prompt_v2,75,medium,,,87,high
+265,"Stadium Pierre-Quinon, Nantes (FRA)",claude-4.5-sonnet,prompt_v2,10,medium,,,24,high
+266,"Suhaim bin Hamad Stadium, Doha (QAT)",claude-4.5-sonnet,prompt_v2,10,medium,,,11,medium
+267,"T. Robinson Stadium, Nassau (BAH)",claude-4.5-sonnet,prompt_v2,5,high,,,6,high
+268,"Tamme staadion, Tartu (EST)",claude-4.5-sonnet,prompt_v2,35,medium,,,54,high
+269,"Terry Fox AF, Ottawa (CAN)",claude-4.5-sonnet,prompt_v2,70,medium,,,102,high
+270,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",claude-4.5-sonnet,prompt_v2,10,medium,,,47,medium
+271,"The Podium, Spokane, WA (USA)",claude-4.5-sonnet,prompt_v2,588,high,,,577,high
+272,"The Track at New Balance, Boston, MA (USA)",claude-4.5-sonnet,prompt_v2,6,high,,,12,high
+273,"TipsArena, Linz (AUT)",claude-4.5-sonnet,prompt_v2,266,high,,,319,high
+274,"Topsporthal Vlaanderen, Gent (BEL)",claude-4.5-sonnet,prompt_v2,10,medium,,,12,high
+275,"Toše Proeski Arena, Skopje (MKD)",claude-4.5-sonnet,prompt_v2,245,high,,,253,medium
+276,"Track and Field Centre Outdoor Track, Toronto (CAN)",claude-4.5-sonnet,prompt_v2,76,high,,,198,medium
+277,"Track and Field Centre, Toronto (CAN)",claude-4.5-sonnet,prompt_v2,76,high,,,198,medium
+278,"Tullamore Harriers AC Stadium, Tullamore (IRL)",claude-4.5-sonnet,prompt_v2,70,medium,,,52,low
+279,"Uppsala Friidrottsarena, Uppsala (SWE)",claude-4.5-sonnet,prompt_v2,15,medium,,,20,high
+280,"WA Athletics Stadium, Perth (AUS)",claude-4.5-sonnet,prompt_v2,25,medium,,,21,high
+281,"Yanmar Stadium Nagai, Osaka (JPN)",claude-4.5-sonnet,prompt_v2,20,medium,,,23,high
+282,"Športová hala Elán, Bratislava (SVK)",claude-4.5-sonnet,prompt_v2,134,medium,,,137,high
+283,"Štadión SNP, Banská Bystrica (SVK)",claude-4.5-sonnet,prompt_v2,362,high,,,343,medium
+284,"AIS Athletics Track, Canberra (AUS)",claude-4.5-sonnet,prompt_v3,580,high,,,609,medium
+285,"AIT International Arena, Athlone (IRL)",claude-4.5-sonnet,prompt_v3,60,medium,,,44,high
+286,"Aftab Enghelab Sport Complex, Tehran (IRI)",claude-4.5-sonnet,prompt_v3,1200,medium,,,1572,high
+287,"Alexander Stadium, Birmingham (GBR)",claude-4.5-sonnet,prompt_v3,140,high,,,100,medium
+288,"Altice Forum, Braga (POR)",claude-4.5-sonnet,prompt_v3,200,medium,,,160,high
+289,"Arena Stade Couvert, Liévin (FRA)",claude-4.5-sonnet,prompt_v3,34,medium,,,71,high
+290,"Arena, Toruń (POL)",claude-4.5-sonnet,prompt_v3,65,high,,,48,medium
+291,"Armory Track&Field Center, New York, NY (USA)",claude-4.5-sonnet,prompt_v3,10,high,,,65,medium
+292,"Ataköy Arena, Istanbul (TUR)",claude-4.5-sonnet,prompt_v3,10,medium,,,7,high
+293,"Atatürk Stadyumu, Izmir (TUR)",claude-4.5-sonnet,prompt_v3,25,medium,,,2,high
+294,"Atletická hala, Ostrava (CZE)",claude-4.5-sonnet,prompt_v3,210,high,,,231,high
+295,"Atletický stadion Slavia Praha, Praha (CZE)",claude-4.5-sonnet,prompt_v3,191,high,,,215,high
+296,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)",claude-4.5-sonnet,prompt_v3,5,high,,,2,high
+297,"Atletska dvorana, Beograd (SRB)",claude-4.5-sonnet,prompt_v3,117,medium,,,138,high
+298,"Atletski Stadion, Kraljevo (SRB)",claude-4.5-sonnet,prompt_v3,200,medium,,,198,high
+299,"Atletski stadion, Sremska Mitrovica (SRB)",claude-4.5-sonnet,prompt_v3,82,medium,,,84,high
+300,"Bislett Stadion, Oslo (NOR)",claude-4.5-sonnet,prompt_v3,24,high,,,28,high
+301,"Boston Univ. Track & Tennis Center, Boston, MA (USA)",claude-4.5-sonnet,prompt_v3,6,high,,,10,high
+302,"Boudewijnstadion, Bruxelles (BEL)",claude-4.5-sonnet,prompt_v3,58,high,,,52,low
+303,"Bærum Idrettspark, Rud, Bærum (NOR)",claude-4.5-sonnet,prompt_v3,134,medium,,,33,high
+304,"CNDA, Bragança Paulista (BRA)",claude-4.5-sonnet,prompt_v3,817,high,,,855,high
+305,"COTP Stadium, São Paulo (BRA)",claude-4.5-sonnet,prompt_v3,760,high,,,758,high
+306,"Camille Chamoun Sports City Stadium, Beirut (LBN)",claude-4.5-sonnet,prompt_v3,34,medium,,,53,high
+307,"Campo Comunale, Modena (ITA)",claude-4.5-sonnet,prompt_v3,34,high,,,46,high
+308,"CeNARD, Buenos Aires (ARG)",claude-4.5-sonnet,prompt_v3,25,high,,,12,high
+309,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",claude-4.5-sonnet,prompt_v3,2240,high,,,2228,high
+310,"Centro Desportivo Nacional do Jamor, Lisboa (POR)",claude-4.5-sonnet,prompt_v3,50,medium,,,14,high
+311,"Centro Gabre Gabric, Brescia (ITA)",claude-4.5-sonnet,prompt_v3,149,medium,,,128,high
+312,"Centro Nacional de Lançamentos, Leiria (POR)",claude-4.5-sonnet,prompt_v3,134,medium,,,27,high
+313,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",claude-4.5-sonnet,prompt_v3,134,medium,,,239,high
+314,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)",claude-4.5-sonnet,prompt_v3,134,high,,,135,high
+315,"Complexo Desportivo de Lousada, Lousada (POR)",claude-4.5-sonnet,prompt_v3,134,medium,,,335,high
+316,"Coque Sport Center, Luxembourg (LUX)",claude-4.5-sonnet,prompt_v3,300,medium,,,336,medium
+317,"Egyetemi Stadion, Veszprém (HUN)",claude-4.5-sonnet,prompt_v3,134,medium,,,276,medium
+318,"Eläintarhan urheilukenttä, Helsinki (FIN)",claude-4.5-sonnet,prompt_v3,10,medium,,,6,high
+319,"Estadio Atlético de la VIDENA, Lima (PER)",claude-4.5-sonnet,prompt_v3,134,high,,,174,high
+320,"Estadio Panamericano, La Habana (CUB)",claude-4.5-sonnet,prompt_v3,50,medium,,,32,high
+321,"Estadio Vallehermoso, Madrid (ESP)",claude-4.5-sonnet,prompt_v3,650,high,,,702,high
+322,"Estádio 1o de Maio, Braga (POR)",claude-4.5-sonnet,prompt_v3,200,medium,,,174,low
+323,"Estádio Municipal Fontelo, Viseu (POR)",claude-4.5-sonnet,prompt_v3,485,high,,,461,high
+324,"Estádio Municipal Manuela Machado, Viana do Castelo (POR)",claude-4.5-sonnet,prompt_v3,25,medium,,,33,low
+325,"Estádio Municipal de Vagos, Vagos (POR)",claude-4.5-sonnet,prompt_v3,10,medium,,,18,high
+326,"Expocentro, Pombal (POR)",claude-4.5-sonnet,prompt_v3,134,medium,,,117,high
+327,"Fana Stadion, Bergen (NOR)",claude-4.5-sonnet,prompt_v3,12,medium,,,38,high
+328,"Foothills Athletic Park, Calgary (CAN)",claude-4.5-sonnet,prompt_v3,1045,high,,,1096,high
+329,"Friidrottens Hus, Göteborg (SWE)",claude-4.5-sonnet,prompt_v3,12,medium,,,21,high
+330,"GPS Stadium, Nicosia (CYP)",claude-4.5-sonnet,prompt_v3,150,medium,,,183,high
+331,"Givat Ram Stadium, Jerusalem (ISR)",claude-4.5-sonnet,prompt_v3,750,high,,,747,medium
+332,"Gobierno Autónomo Municipal de Cochabamba, Cochabamba (BOL)",claude-4.5-sonnet,prompt_v3,2558,high,,,2573,high
+333,"Golęcin Stadion, Poznan (POL)",claude-4.5-sonnet,prompt_v3,75,medium,,,71,high
+334,"Hadar Yosef Stadium, Tel Aviv (ISR)",claude-4.5-sonnet,prompt_v3,25,medium,,,12,high
+335,"Hayward Field, Eugene, OR (USA)",claude-4.5-sonnet,prompt_v3,134,high,,,128,low
+336,"Hvidovre Stadion, Hvidovre (DEN)",claude-4.5-sonnet,prompt_v3,10,high,,,10,high
+337,"Icahn Stadium, New York, NY (USA)",claude-4.5-sonnet,prompt_v3,10,high,,,6,medium
+338,"Jāņa Daliņa Manēža, Valmiera (LAT)",claude-4.5-sonnet,prompt_v3,42,medium,,,49,high
+339,"Jāņa Daliņa Stadium, Valmiera (LAT)",claude-4.5-sonnet,prompt_v3,43,medium,,,39,high
+340,"KMSHVSM Arena, Kyiv (UKR)",claude-4.5-sonnet,prompt_v3,179,medium,,,158,high
+341,"Kadrioru staadion, Tallinn (EST)",claude-4.5-sonnet,prompt_v3,30,medium,,,8,high
+342,"Kirani James Athletic Stadium, St. George's (GRN)",claude-4.5-sonnet,prompt_v3,5,medium,,,8,high
+343,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",claude-4.5-sonnet,prompt_v3,10,medium,,,36,high
+344,"LAZ Wien, Wien (AUT)",claude-4.5-sonnet,prompt_v3,171,medium,,,186,low
+345,"Lakeside Stadium, Melbourne (AUS)",claude-4.5-sonnet,prompt_v3,10,high,,,8,high
+346,"Lantos Mihály Sportközpont, Budapest (HUN)",claude-4.5-sonnet,prompt_v3,134,high,,,108,high
+347,"Laugardalshöll, Reykjavík (ISL)",claude-4.5-sonnet,prompt_v3,20,medium,,,14,high
+348,"Lee Valley Athletics Centre, London (GBR)",claude-4.5-sonnet,prompt_v3,15,high,,,19,high
+349,"Leichtathletikarena, Eisenstadt (AUT)",claude-4.5-sonnet,prompt_v3,182,high,,,157,high
+350,"Liikuntamylly, Helsinki (FIN)",claude-4.5-sonnet,prompt_v3,10,medium,,,18,high
+351,"Longford Stadium Trafford, Manchester (GBR)",claude-4.5-sonnet,prompt_v3,38,high,,,33,high
+352,"Loughborough University Track, Loughborough (GBR)",claude-4.5-sonnet,prompt_v3,100,medium,,,55,high
+353,"Mahinda Rajapaksha Stadium, Diyagama (SRI)",claude-4.5-sonnet,prompt_v3,10,medium,,,16,high
+354,"Manchester Regional Arena, Manchester (GBR)",claude-4.5-sonnet,prompt_v3,38,high,,,55,high
+355,"Marsa Athletics Track, Marsa (MLT)",claude-4.5-sonnet,prompt_v3,10,high,,,5,high
+356,"McArthur Stadium, Potchefstroom (RSA)",claude-4.5-sonnet,prompt_v3,1349,high,,,1346,high
+357,"Mestský Stadion, Ostrava (CZE)",claude-4.5-sonnet,prompt_v3,210,high,,,230,high
+358,Montevideo (URU),claude-4.5-sonnet,prompt_v3,43,high,,,45,high
+359,"Morton Stadium, Santry, Dublin (IRL)",claude-4.5-sonnet,prompt_v3,45,high,,,51,high
+360,"Mt Smart Stadium, Auckland (NZL)",claude-4.5-sonnet,prompt_v3,34,high,,,18,medium
+361,"Městský atletický stadion, Pardubice (CZE)",claude-4.5-sonnet,prompt_v3,225,high,,,220,high
+362,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",claude-4.5-sonnet,prompt_v3,50,medium,,,9,high
+363,"National Stadium, Kingston (JAM)",claude-4.5-sonnet,prompt_v3,10,high,,,78,low
+364,"National Stadium, Tokyo (JPN)",claude-4.5-sonnet,prompt_v3,35,high,,,38,high
+365,"Newtown Park Stadium, Wellington (NZL)",claude-4.5-sonnet,prompt_v3,10,high,,,39,low
+366,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",claude-4.5-sonnet,prompt_v3,134,medium,,,108,high
+367,"Ocean Breeze Athl. Complex, New York, NY (USA)",claude-4.5-sonnet,prompt_v3,3,high,,,5,high
+368,"Olympiastadion, Stockholm (SWE)",claude-4.5-sonnet,prompt_v3,44,high,,,25,high
+369,"Omnisport, Apeldoorn (NED)",claude-4.5-sonnet,prompt_v3,16,high,,,9,high
+370,"Paavo Nurmen Stadion, Turku (FIN)",claude-4.5-sonnet,prompt_v3,10,high,,,28,high
+371,"Philsport Track Oval, Pasig (PHI)",claude-4.5-sonnet,prompt_v3,14,medium,,,39,high
+372,"Pilditch Stadium, Pretoria (RSA)",claude-4.5-sonnet,prompt_v3,1339,high,,,1325,high
+373,"Pista Atlética Mario Recordón, Santiago de Chile (CHI)",claude-4.5-sonnet,prompt_v3,520,high,,,571,medium
+374,"Pista Basilio Rodriguez, Carolina (PUR)",claude-4.5-sonnet,prompt_v3,15,medium,,,8,high
+375,"Pista Carlos Lopes, Torres Vedras (POR)",claude-4.5-sonnet,prompt_v3,20,medium,,,85,high
+376,"Pista Municipal Prof. Mário Moniz Pereira, Lisboa (POR)",claude-4.5-sonnet,prompt_v3,134,medium,,,61,high
+377,"Pista da Sogipa, Porto Alegre (BRA)",claude-4.5-sonnet,prompt_v3,10,high,,,32,high
+378,"Pista de Atletismo Justo Román, Mar del Plata (ARG)",claude-4.5-sonnet,prompt_v3,25,medium,,,18,high
+379,"Pista de Atletismo SND, Asunción (PAR)",claude-4.5-sonnet,prompt_v3,43,medium,,,149,high
+380,"Pista de Atletismo da Universidade Federal do Mato Grosso, Cuiaba (BRA)",claude-4.5-sonnet,prompt_v3,165,medium,,,184,high
+381,"Pista de Atletismo da Universidade Federal do Rio Grande do Norte, Natal (BRA)",claude-4.5-sonnet,prompt_v3,30,medium,,,47,high
+382,"Pista de Atletismo do CIEF, Brasilia (BRA)",claude-4.5-sonnet,prompt_v3,1100,high,,,1115,high
+383,"Pista de Atletismo do Parque Ayrton Senna, Campo Grande (BRA)",claude-4.5-sonnet,prompt_v3,532,high,,,503,high
+384,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",claude-4.5-sonnet,prompt_v3,30,medium,,,48,high
+385,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",claude-4.5-sonnet,prompt_v3,40,high,,,86,high
+386,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",claude-4.5-sonnet,prompt_v3,40,high,,,84,medium
+387,"RG3 e Centro Desportivo da Madeira, Funchal (POR)",claude-4.5-sonnet,prompt_v3,134,medium,,,85,high
+388,"Regional Sport Complex, Brest (BLR)",claude-4.5-sonnet,prompt_v3,141,medium,,,142,high
+389,"SA Athletic Stadium, Adelaide (AUS)",claude-4.5-sonnet,prompt_v3,50,medium,,,28,low
+390,"Sala de Atletism Ioan Soter, Bucureşti (ROU)",claude-4.5-sonnet,prompt_v3,85,medium,,,78,high
+391,"Sollentunavallen, Sollentuna (SWE)",claude-4.5-sonnet,prompt_v3,30,medium,,,25,high
+392,"Spar Nord Arena, Skive (DEN)",claude-4.5-sonnet,prompt_v3,10,medium,,,6,high
+393,"Sportanlage Sihlhölzli, Zürich (SUI)",claude-4.5-sonnet,prompt_v3,408,high,,,417,high
+394,"Sports Park Mladost, Zagreb (CRO)",claude-4.5-sonnet,prompt_v3,134,high,,,116,high
+395,"Staadion, Rakvere (EST)",claude-4.5-sonnet,prompt_v3,70,medium,,,67,high
+396,"Stade L. Achille, Fort-de-France (FRA)",claude-4.5-sonnet,prompt_v3,5,medium,,,11,high
+397,"Stade Olympique de la Pontaise, Lausanne (SUI)",claude-4.5-sonnet,prompt_v3,650,high,,,592,medium
+398,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",claude-4.5-sonnet,prompt_v3,80,medium,,,69,high
+399,"Stadio Comunale, Bellinzona (SUI)",claude-4.5-sonnet,prompt_v3,238,high,,,228,high
+400,"Stadio Guidobaldi, Rieti (ITA)",claude-4.5-sonnet,prompt_v3,405,high,,,386,high
+401,"Stadio M.S. Cozzoli, Molfetta (ITA)",claude-4.5-sonnet,prompt_v3,15,medium,,,7,high
+402,"Stadion BOSiR, Białystok (POL)",claude-4.5-sonnet,prompt_v3,150,medium,,,147,high
+403,"Stadion Radés, Radés (TUN)",claude-4.5-sonnet,prompt_v3,10,high,,,20,low
+404,"Stadion Topolica, Bar (MNE)",claude-4.5-sonnet,prompt_v3,10,medium,,,4,medium
+405,"Stadion Zygmunta Szelesta, Warszawa (POL)",claude-4.5-sonnet,prompt_v3,100,medium,,,98,high
+406,"Stadion Śląski, Chorzów (POL)",claude-4.5-sonnet,prompt_v3,270,high,,,276,medium
+407,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",claude-4.5-sonnet,prompt_v3,85,medium,,,87,high
+408,"Stadium Pierre-Quinon, Nantes (FRA)",claude-4.5-sonnet,prompt_v3,8,medium,,,24,high
+409,"Suhaim bin Hamad Stadium, Doha (QAT)",claude-4.5-sonnet,prompt_v3,10,medium,,,11,medium
+410,"T. Robinson Stadium, Nassau (BAH)",claude-4.5-sonnet,prompt_v3,2,high,,,6,high
+411,"Tamme staadion, Tartu (EST)",claude-4.5-sonnet,prompt_v3,30,medium,,,54,high
+412,"Terry Fox AF, Ottawa (CAN)",claude-4.5-sonnet,prompt_v3,70,high,,,102,high
+413,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",claude-4.5-sonnet,prompt_v3,10,medium,,,47,medium
+414,"The Podium, Spokane, WA (USA)",claude-4.5-sonnet,prompt_v3,588,high,,,577,high
+415,"The Track at New Balance, Boston, MA (USA)",claude-4.5-sonnet,prompt_v3,6,high,,,12,high
+416,"TipsArena, Linz (AUT)",claude-4.5-sonnet,prompt_v3,262,high,,,319,high
+417,"Topsporthal Vlaanderen, Gent (BEL)",claude-4.5-sonnet,prompt_v3,9,medium,,,12,high
+418,"Toše Proeski Arena, Skopje (MKD)",claude-4.5-sonnet,prompt_v3,245,high,,,253,medium
+419,"Track and Field Centre Outdoor Track, Toronto (CAN)",claude-4.5-sonnet,prompt_v3,76,high,,,198,medium
+420,"Track and Field Centre, Toronto (CAN)",claude-4.5-sonnet,prompt_v3,76,high,,,198,medium
+421,"Tullamore Harriers AC Stadium, Tullamore (IRL)",claude-4.5-sonnet,prompt_v3,73,medium,,,52,low
+422,"Uppsala Friidrottsarena, Uppsala (SWE)",claude-4.5-sonnet,prompt_v3,15,medium,,,20,high
+423,"WA Athletics Stadium, Perth (AUS)",claude-4.5-sonnet,prompt_v3,20,high,,,21,high
+424,"Woodside Stadium, Watford (GBR)",claude-4.5-sonnet,prompt_v3,70,medium,,,77,high
+425,"Yanmar Stadium Nagai, Osaka (JPN)",claude-4.5-sonnet,prompt_v3,14,high,,,23,high
+426,"Športová hala Elán, Bratislava (SVK)",claude-4.5-sonnet,prompt_v3,134,high,,,137,high
+427,"Štadión SNP, Banská Bystrica (SVK)",claude-4.5-sonnet,prompt_v3,362,high,,,343,medium
+428,"AIS Athletics Track, Canberra (AUS)",claude-4.5-sonnet,prompt_v4,580,high,,,609,medium
+429,"AIT International Arena, Athlone (IRL)",claude-4.5-sonnet,prompt_v4,60,medium,,,44,high
+430,"Aftab Enghelab Sport Complex, Tehran (IRI)",claude-4.5-sonnet,prompt_v4,1200,medium,,,1572,high
+431,"Alexander Stadium, Birmingham (GBR)",claude-4.5-sonnet,prompt_v4,140,high,,,100,medium
+432,"Altice Forum, Braga (POR)",claude-4.5-sonnet,prompt_v4,200,medium,,,160,high
+433,"Arena Stade Couvert, Liévin (FRA)",claude-4.5-sonnet,prompt_v4,30,high,,,71,high
+434,"Arena, Toruń (POL)",claude-4.5-sonnet,prompt_v4,65,high,,,48,medium
+435,"Armory Track&Field Center, New York, NY (USA)",claude-4.5-sonnet,prompt_v4,10,high,,,65,medium
+436,"Ataköy Arena, Istanbul (TUR)",claude-4.5-sonnet,prompt_v4,10,medium,,,7,high
+437,"Atatürk Stadyumu, Izmir (TUR)",claude-4.5-sonnet,prompt_v4,25,medium,,,2,high
+438,"Atletická hala, Ostrava (CZE)",claude-4.5-sonnet,prompt_v4,260,high,,,231,high
+439,"Atletický stadion Slavia Praha, Praha (CZE)",claude-4.5-sonnet,prompt_v4,220,high,,,215,high
+440,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)",claude-4.5-sonnet,prompt_v4,5,high,,,2,high
+441,"Atletska dvorana, Beograd (SRB)",claude-4.5-sonnet,prompt_v4,117,medium,,,138,high
+442,"Atletski Stadion, Kraljevo (SRB)",claude-4.5-sonnet,prompt_v4,215,medium,,,198,high
+443,"Atletski stadion, Sremska Mitrovica (SRB)",claude-4.5-sonnet,prompt_v4,82,medium,,,84,high
+444,"Bislett Stadion, Oslo (NOR)",claude-4.5-sonnet,prompt_v4,26,high,,,28,high
+445,"Boston Univ. Track & Tennis Center, Boston, MA (USA)",claude-4.5-sonnet,prompt_v4,6,high,,,10,high
+446,"Boudewijnstadion, Bruxelles (BEL)",claude-4.5-sonnet,prompt_v4,50,high,,,52,low
+447,"Bærum Idrettspark, Rud, Bærum (NOR)",claude-4.5-sonnet,prompt_v4,150,medium,,,33,high
+448,"CNDA, Bragança Paulista (BRA)",claude-4.5-sonnet,prompt_v4,817,medium,,,855,high
+449,"Camille Chamoun Sports City Stadium, Beirut (LBN)",claude-4.5-sonnet,prompt_v4,10,medium,,,53,high
+450,"Campo Comunale, Modena (ITA)",claude-4.5-sonnet,prompt_v4,34,high,,,46,high
+451,"CeNARD, Buenos Aires (ARG)",claude-4.5-sonnet,prompt_v4,25,high,,,12,high
+452,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",claude-4.5-sonnet,prompt_v4,2240,high,,,2228,high
+453,"Centro Desportivo Nacional do Jamor, Lisboa (POR)",claude-4.5-sonnet,prompt_v4,50,high,,,14,high
+454,"Centro Gabre Gabric, Brescia (ITA)",claude-4.5-sonnet,prompt_v4,149,medium,,,128,high
+455,"Centro Nacional de Lançamentos, Leiria (POR)",claude-4.5-sonnet,prompt_v4,50,medium,,,27,high
+456,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",claude-4.5-sonnet,prompt_v4,59,high,,,239,high
+457,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)",claude-4.5-sonnet,prompt_v4,115,high,,,135,high
+458,"Complexo Desportivo de Lousada, Lousada (POR)",claude-4.5-sonnet,prompt_v4,200,medium,,,335,high
+459,"Coque Sport Center, Luxembourg (LUX)",claude-4.5-sonnet,prompt_v4,300,medium,,,336,medium
+460,"Egyetemi Stadion, Veszprém (HUN)",claude-4.5-sonnet,prompt_v4,120,medium,,,276,medium
+461,"Eläintarhan urheilukenttä, Helsinki (FIN)",claude-4.5-sonnet,prompt_v4,10,high,,,6,high
+462,"Estadio Atlético de la VIDENA, Lima (PER)",claude-4.5-sonnet,prompt_v4,150,medium,,,174,high
+463,"Estadio Panamericano, La Habana (CUB)",claude-4.5-sonnet,prompt_v4,50,medium,,,32,high
+464,"Estadio Vallehermoso, Madrid (ESP)",claude-4.5-sonnet,prompt_v4,680,high,,,702,high
+465,"Estádio 1o de Maio, Braga (POR)",claude-4.5-sonnet,prompt_v4,200,medium,,,174,low
+466,"Estádio Municipal Fontelo, Viseu (POR)",claude-4.5-sonnet,prompt_v4,485,high,,,461,high
+467,"Estádio Municipal Manuela Machado, Viana do Castelo (POR)",claude-4.5-sonnet,prompt_v4,25,medium,,,33,low
+468,"Estádio Municipal de Vagos, Vagos (POR)",claude-4.5-sonnet,prompt_v4,15,medium,,,18,high
+469,"Expocentro, Pombal (POR)",claude-4.5-sonnet,prompt_v4,230,medium,,,117,high
+470,"Fana Stadion, Bergen (NOR)",claude-4.5-sonnet,prompt_v4,15,medium,,,38,high
+471,"Foothills Athletic Park, Calgary (CAN)",claude-4.5-sonnet,prompt_v4,1084,high,,,1096,high
+472,"Friidrottens Hus, Göteborg (SWE)",claude-4.5-sonnet,prompt_v4,10,medium,,,21,high
+473,"GPS Stadium, Nicosia (CYP)",claude-4.5-sonnet,prompt_v4,150,medium,,,183,high
+474,"Givat Ram Stadium, Jerusalem (ISR)",claude-4.5-sonnet,prompt_v4,750,high,,,747,medium
+475,"Gobierno Autónomo Municipal de Cochabamba, Cochabamba (BOL)",claude-4.5-sonnet,prompt_v4,2558,medium,,,2573,high
+476,"Golęcin Stadion, Poznan (POL)",claude-4.5-sonnet,prompt_v4,75,medium,,,71,high
+477,"Hadar Yosef Stadium, Tel Aviv (ISR)",claude-4.5-sonnet,prompt_v4,20,medium,,,12,high
+478,"Hayward Field, Eugene, OR (USA)",claude-4.5-sonnet,prompt_v4,134,high,,,128,low
+479,"Hvidovre Stadion, Hvidovre (DEN)",claude-4.5-sonnet,prompt_v4,10,medium,,,10,high
+480,"Icahn Stadium, New York, NY (USA)",claude-4.5-sonnet,prompt_v4,5,high,,,6,medium
+481,"Jāņa Daliņa Manēža, Valmiera (LAT)",claude-4.5-sonnet,prompt_v4,43,medium,,,49,high
+482,"Jāņa Daliņa Stadium, Valmiera (LAT)",claude-4.5-sonnet,prompt_v4,43,medium,,,39,high
+483,"KMSHVSM Arena, Kyiv (UKR)",claude-4.5-sonnet,prompt_v4,179,medium,,,158,high
+484,"Kadrioru staadion, Tallinn (EST)",claude-4.5-sonnet,prompt_v4,35,high,,,8,high
+485,"Kirani James Athletic Stadium, St. George's (GRN)",claude-4.5-sonnet,prompt_v4,5,medium,,,8,high
+486,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",claude-4.5-sonnet,prompt_v4,10,medium,,,36,high
+487,"LAZ Wien, Wien (AUT)",claude-4.5-sonnet,prompt_v4,203,medium,,,186,low
+488,"Lakeside Stadium, Melbourne (AUS)",claude-4.5-sonnet,prompt_v4,13,high,,,8,high
+489,"Lantos Mihály Sportközpont, Budapest (HUN)",claude-4.5-sonnet,prompt_v4,104,medium,,,108,high
+490,"Laugardalshöll, Reykjavík (ISL)",claude-4.5-sonnet,prompt_v4,20,medium,,,14,high
+491,"Lee Valley Athletics Centre, London (GBR)",claude-4.5-sonnet,prompt_v4,35,high,,,19,high
+492,"Leichtathletikarena, Eisenstadt (AUT)",claude-4.5-sonnet,prompt_v4,182,high,,,157,high
+493,"Liikuntamylly, Helsinki (FIN)",claude-4.5-sonnet,prompt_v4,10,medium,,,18,high
+494,"Longford Stadium Trafford, Manchester (GBR)",claude-4.5-sonnet,prompt_v4,25,medium,,,33,high
+495,"Loughborough University Track, Loughborough (GBR)",claude-4.5-sonnet,prompt_v4,105,high,,,55,high
+496,"Mahinda Rajapaksha Stadium, Diyagama (SRI)",claude-4.5-sonnet,prompt_v4,10,medium,,,16,high
+497,"Manchester Regional Arena, Manchester (GBR)",claude-4.5-sonnet,prompt_v4,50,high,,,55,high
+498,"Marsa Athletics Track, Marsa (MLT)",claude-4.5-sonnet,prompt_v4,10,medium,,,5,high
+499,"McArthur Stadium, Potchefstroom (RSA)",claude-4.5-sonnet,prompt_v4,1352,high,,,1346,high
+500,"Mestský Stadion, Ostrava (CZE)",claude-4.5-sonnet,prompt_v4,210,high,,,230,high
+501,Montevideo (URU),claude-4.5-sonnet,prompt_v4,43,medium,,,45,high
+502,"Morton Stadium, Santry, Dublin (IRL)",claude-4.5-sonnet,prompt_v4,35,high,,,51,high
+503,"Mt Smart Stadium, Auckland (NZL)",claude-4.5-sonnet,prompt_v4,30,high,,,18,medium
+504,"Městský atletický stadion, Pardubice (CZE)",claude-4.5-sonnet,prompt_v4,225,high,,,220,high
+505,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",claude-4.5-sonnet,prompt_v4,45,medium,,,9,high
+506,"National Stadium, Kingston (JAM)",claude-4.5-sonnet,prompt_v4,10,high,,,78,low
+507,"National Stadium, Tokyo (JPN)",claude-4.5-sonnet,prompt_v4,44,high,,,38,high
+508,"Newtown Park Stadium, Wellington (NZL)",claude-4.5-sonnet,prompt_v4,10,high,,,39,low
+509,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",claude-4.5-sonnet,prompt_v4,118,medium,,,108,high
+510,"Ocean Breeze Athl. Complex, New York, NY (USA)",claude-4.5-sonnet,prompt_v4,3,high,,,5,high
+511,"Olympiastadion, Stockholm (SWE)",claude-4.5-sonnet,prompt_v4,44,high,,,25,high
+512,"Omnisport, Apeldoorn (NED)",claude-4.5-sonnet,prompt_v4,16,medium,,,9,high
+513,"Paavo Nurmen Stadion, Turku (FIN)",claude-4.5-sonnet,prompt_v4,10,high,,,28,high
+514,"Philsport Track Oval, Pasig (PHI)",claude-4.5-sonnet,prompt_v4,15,medium,,,39,high
+515,"Pilditch Stadium, Pretoria (RSA)",claude-4.5-sonnet,prompt_v4,1339,high,,,1325,high
+516,"Pista Atlética Mario Recordón, Santiago de Chile (CHI)",claude-4.5-sonnet,prompt_v4,520,medium,,,571,medium
+517,"Pista Basilio Rodriguez, Carolina (PUR)",claude-4.5-sonnet,prompt_v4,10,medium,,,8,high
+518,"Pista Carlos Lopes, Torres Vedras (POR)",claude-4.5-sonnet,prompt_v4,50,medium,,,85,high
+519,"Pista Municipal Prof. Mário Moniz Pereira, Lisboa (POR)",claude-4.5-sonnet,prompt_v4,25,medium,,,61,high
+520,"Pista da Sogipa, Porto Alegre (BRA)",claude-4.5-sonnet,prompt_v4,10,medium,,,32,high
+521,"Pista de Atletismo Justo Román, Mar del Plata (ARG)",claude-4.5-sonnet,prompt_v4,25,medium,,,18,high
+522,"Pista de Atletismo SND, Asunción (PAR)",claude-4.5-sonnet,prompt_v4,43,medium,,,149,high
+523,"Pista de Atletismo da Universidade Federal do Mato Grosso, Cuiaba (BRA)",claude-4.5-sonnet,prompt_v4,165,medium,,,184,high
+524,"Pista de Atletismo da Universidade Federal do Rio Grande do Norte, Natal (BRA)",claude-4.5-sonnet,prompt_v4,30,medium,,,47,high
+525,"Pista de Atletismo do CIEF, Brasilia (BRA)",claude-4.5-sonnet,prompt_v4,1100,medium,,,1115,high
+526,"Pista de Atletismo do Parque Ayrton Senna, Campo Grande (BRA)",claude-4.5-sonnet,prompt_v4,592,medium,,,503,high
+527,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",claude-4.5-sonnet,prompt_v4,30,medium,,,48,high
+528,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",claude-4.5-sonnet,prompt_v4,40,high,,,86,high
+529,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",claude-4.5-sonnet,prompt_v4,40,high,,,84,medium
+530,"RG3 e Centro Desportivo da Madeira, Funchal (POR)",claude-4.5-sonnet,prompt_v4,58,medium,,,85,high
+531,"Regional Sport Complex, Brest (BLR)",claude-4.5-sonnet,prompt_v4,141,medium,,,142,high
+532,"SA Athletic Stadium, Adelaide (AUS)",claude-4.5-sonnet,prompt_v4,50,medium,,,28,low
+533,"SOPAC, Sydney (AUS)",claude-4.5-sonnet,prompt_v4,10,high,,,30,high
+534,"Sala de Atletism Ioan Soter, Bucureşti (ROU)",claude-4.5-sonnet,prompt_v4,85,medium,,,78,high
+535,"Sollentunavallen, Sollentuna (SWE)",claude-4.5-sonnet,prompt_v4,35,medium,,,25,high
+536,"Spar Nord Arena, Skive (DEN)",claude-4.5-sonnet,prompt_v4,10,medium,,,6,high
+537,"Sportanlage Sihlhölzli, Zürich (SUI)",claude-4.5-sonnet,prompt_v4,408,high,,,417,high
+538,"Sports Park Mladost, Zagreb (CRO)",claude-4.5-sonnet,prompt_v4,122,medium,,,116,high
+539,"Staadion, Rakvere (EST)",claude-4.5-sonnet,prompt_v4,70,medium,,,67,high
+540,"Stade L. Achille, Fort-de-France (FRA)",claude-4.5-sonnet,prompt_v4,5,medium,,,11,high
+541,"Stade Olympique de la Pontaise, Lausanne (SUI)",claude-4.5-sonnet,prompt_v4,495,high,,,592,medium
+542,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",claude-4.5-sonnet,prompt_v4,80,medium,,,69,high
+543,"Stadio Comunale, Bellinzona (SUI)",claude-4.5-sonnet,prompt_v4,240,high,,,228,high
+544,"Stadio Guidobaldi, Rieti (ITA)",claude-4.5-sonnet,prompt_v4,402,high,,,386,high
+545,"Stadio M.S. Cozzoli, Molfetta (ITA)",claude-4.5-sonnet,prompt_v4,5,medium,,,7,high
+546,"Stadion BOSiR, Białystok (POL)",claude-4.5-sonnet,prompt_v4,150,medium,,,147,high
+547,"Stadion Radés, Radés (TUN)",claude-4.5-sonnet,prompt_v4,4,high,,,20,low
+548,"Stadion Topolica, Bar (MNE)",claude-4.5-sonnet,prompt_v4,5,medium,,,4,medium
+549,"Stadion Zygmunta Szelesta, Warszawa (POL)",claude-4.5-sonnet,prompt_v4,107,medium,,,98,high
+550,"Stadion Śląski, Chorzów (POL)",claude-4.5-sonnet,prompt_v4,270,high,,,276,medium
+551,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",claude-4.5-sonnet,prompt_v4,75,medium,,,87,high
+552,"Stadium Pierre-Quinon, Nantes (FRA)",claude-4.5-sonnet,prompt_v4,8,medium,,,24,high
+553,"Suhaim bin Hamad Stadium, Doha (QAT)",claude-4.5-sonnet,prompt_v4,10,high,,,11,medium
+554,"T. Robinson Stadium, Nassau (BAH)",claude-4.5-sonnet,prompt_v4,2,high,,,6,high
+555,"Tamme staadion, Tartu (EST)",claude-4.5-sonnet,prompt_v4,40,medium,,,54,high
+556,"Terry Fox AF, Ottawa (CAN)",claude-4.5-sonnet,prompt_v4,70,medium,,,102,high
+557,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",claude-4.5-sonnet,prompt_v4,15,medium,,,47,medium
+558,"The Podium, Spokane, WA (USA)",claude-4.5-sonnet,prompt_v4,588,high,,,577,high
+559,"The Track at New Balance, Boston, MA (USA)",claude-4.5-sonnet,prompt_v4,46,high,,,12,high
+560,"TipsArena, Linz (AUT)",claude-4.5-sonnet,prompt_v4,266,high,,,319,high
+561,"Topsporthal Vlaanderen, Gent (BEL)",claude-4.5-sonnet,prompt_v4,9,high,,,12,high
+562,"Toše Proeski Arena, Skopje (MKD)",claude-4.5-sonnet,prompt_v4,245,high,,,253,medium
+563,"Track and Field Centre Outdoor Track, Toronto (CAN)",claude-4.5-sonnet,prompt_v4,76,high,,,198,medium
+564,"Track and Field Centre, Toronto (CAN)",claude-4.5-sonnet,prompt_v4,76,high,,,198,medium
+565,"Tullamore Harriers AC Stadium, Tullamore (IRL)",claude-4.5-sonnet,prompt_v4,70,medium,,,52,low
+566,"Uppsala Friidrottsarena, Uppsala (SWE)",claude-4.5-sonnet,prompt_v4,15,medium,,,20,high
+567,"WA Athletics Stadium, Perth (AUS)",claude-4.5-sonnet,prompt_v4,35,high,,,21,high
+568,"Woodside Stadium, Watford (GBR)",claude-4.5-sonnet,prompt_v4,65,medium,,,77,high
+569,"Yanmar Stadium Nagai, Osaka (JPN)",claude-4.5-sonnet,prompt_v4,20,high,,,23,high
+570,"Športová hala Elán, Bratislava (SVK)",claude-4.5-sonnet,prompt_v4,140,medium,,,137,high
+571,"Štadión SNP, Banská Bystrica (SVK)",claude-4.5-sonnet,prompt_v4,362,high,,,343,medium
+572,"AIS Athletics Track, Canberra (AUS)",gemini-2.5-pro,prompt_v1,586,high,,,609,medium
+573,"AIT International Arena, Athlone (IRL)",gemini-2.5-pro,prompt_v1,59,high,,,44,high
+574,"Aftab Enghelab Sport Complex, Tehran (IRI)",gemini-2.5-pro,prompt_v1,1502,high,,,1572,high
+575,"Alexander Stadium, Birmingham (GBR)",gemini-2.5-pro,prompt_v1,134,high,,,100,medium
+576,"Altice Forum, Braga (POR)",gemini-2.5-pro,prompt_v1,134,high,,,160,high
+577,"Arena Stade Couvert, Liévin (FRA)",gemini-2.5-pro,prompt_v1,76,high,,,71,high
+578,"Arena, Toruń (POL)",gemini-2.5-pro,prompt_v1,66,high,,,48,medium
+579,"Armory Track&Field Center, New York, NY (USA)",gemini-2.5-pro,prompt_v1,41,high,,,65,medium
+580,"Ataköy Arena, Istanbul (TUR)",gemini-2.5-pro,prompt_v1,6,high,,,7,high
+581,"Atatürk Stadyumu, Izmir (TUR)",gemini-2.5-pro,prompt_v1,134,high,,,2,high
+582,"Atletická hala, Ostrava (CZE)",gemini-2.5-pro,prompt_v1,235,high,,,231,high
+583,"Atletický stadion Slavia Praha, Praha (CZE)",gemini-2.5-pro,prompt_v1,234,high,,,215,high
+584,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)",gemini-2.5-pro,prompt_v1,3,high,,,2,high
+585,"Atletska dvorana, Beograd (SRB)",gemini-2.5-pro,prompt_v1,134,high,,,138,high
+586,"Atletski Stadion, Kraljevo (SRB)",gemini-2.5-pro,prompt_v1,201,high,,,198,high
+587,"Atletski stadion, Sremska Mitrovica (SRB)",gemini-2.5-pro,prompt_v1,82,high,,,84,high
+588,"Bislett Stadion, Oslo (NOR)",gemini-2.5-pro,prompt_v1,23,high,,,28,high
+589,"Boston Univ. Track & Tennis Center, Boston, MA (USA)",gemini-2.5-pro,prompt_v1,6,high,,,10,high
+590,"Boudewijnstadion, Bruxelles (BEL)",gemini-2.5-pro,prompt_v1,76,high,,,52,low
+591,"Bærum Idrettspark, Rud, Bærum (NOR)",gemini-2.5-pro,prompt_v1,134,high,,,33,high
+592,"CNDA, Bragança Paulista (BRA)",gemini-2.5-pro,prompt_v1,879,high,,,855,high
+593,"COTP Stadium, São Paulo (BRA)",gemini-2.5-pro,prompt_v1,784,high,,,758,high
+594,"Camille Chamoun Sports City Stadium, Beirut (LBN)",gemini-2.5-pro,prompt_v1,34,high,,,53,high
+595,"Campo Comunale, Modena (ITA)",gemini-2.5-pro,prompt_v1,34,high,,,46,high
+596,"CeNARD, Buenos Aires (ARG)",gemini-2.5-pro,prompt_v1,13,high,,,12,high
+597,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",gemini-2.5-pro,prompt_v1,2277,high,,,2228,high
+598,"Centro Desportivo Nacional do Jamor, Lisboa (POR)",gemini-2.5-pro,prompt_v1,26,high,,,14,high
+599,"Centro Gabre Gabric, Brescia (ITA)",gemini-2.5-pro,prompt_v1,134,high,,,128,high
+600,"Centro Nacional de Lançamentos, Leiria (POR)",gemini-2.5-pro,prompt_v1,134,high,,,27,high
+601,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",gemini-2.5-pro,prompt_v1,134,high,,,239,high
+602,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)",gemini-2.5-pro,prompt_v1,134,high,,,135,high
+603,"Complexo Desportivo de Lousada, Lousada (POR)",gemini-2.5-pro,prompt_v1,134,high,,,335,high
+604,"Coque Sport Center, Luxembourg (LUX)",gemini-2.5-pro,prompt_v1,338,high,,,336,medium
+605,"Egyetemi Stadion, Veszprém (HUN)",gemini-2.5-pro,prompt_v1,278,high,,,276,medium
+606,"Eläintarhan urheilukenttä, Helsinki (FIN)",gemini-2.5-pro,prompt_v1,13,high,,,6,high
+607,"Estadio Atlético de la VIDENA, Lima (PER)",gemini-2.5-pro,prompt_v1,134,high,,,174,high
+608,"Estadio Panamericano, La Habana (CUB)",gemini-2.5-pro,prompt_v1,25,high,,,32,high
+609,"Estadio Vallehermoso, Madrid (ESP)",gemini-2.5-pro,prompt_v1,688,high,,,702,high
+610,"Estádio 1o de Maio, Braga (POR)",gemini-2.5-pro,prompt_v1,134,high,,,174,low
+611,"Estádio Municipal Fontelo, Viseu (POR)",gemini-2.5-pro,prompt_v1,485,high,,,461,high
+612,"Estádio Municipal Manuela Machado, Viana do Castelo (POR)",gemini-2.5-pro,prompt_v1,11,high,,,33,low
+613,"Estádio Municipal de Vagos, Vagos (POR)",gemini-2.5-pro,prompt_v1,13,high,,,18,high
+614,"Expocentro, Pombal (POR)",gemini-2.5-pro,prompt_v1,58,medium,,,117,high
+615,"Fana Stadion, Bergen (NOR)",gemini-2.5-pro,prompt_v1,134,high,,,38,high
+616,"Foothills Athletic Park, Calgary (CAN)",gemini-2.5-pro,prompt_v1,1085,high,,,1096,high
+617,"Friidrottens Hus, Göteborg (SWE)",gemini-2.5-pro,prompt_v1,5,high,,,21,high
+618,"GPS Stadium, Nicosia (CYP)",gemini-2.5-pro,prompt_v1,134,high,,,183,high
+619,"Givat Ram Stadium, Jerusalem (ISR)",gemini-2.5-pro,prompt_v1,798,high,,,747,medium
+620,"Gobierno Autónomo Municipal de Cochabamba, Cochabamba (BOL)",gemini-2.5-pro,prompt_v1,2570,high,,,2573,high
+621,"Golęcin Stadion, Poznan (POL)",gemini-2.5-pro,prompt_v1,87,high,,,71,high
+622,"Hadar Yosef Stadium, Tel Aviv (ISR)",gemini-2.5-pro,prompt_v1,13,high,,,12,high
+623,"Hayward Field, Eugene, OR (USA)",gemini-2.5-pro,prompt_v1,134,high,,,128,low
+624,"Hvidovre Stadion, Hvidovre (DEN)",gemini-2.5-pro,prompt_v1,7,high,,,10,high
+625,"Icahn Stadium, New York, NY (USA)",gemini-2.5-pro,prompt_v1,4,high,,,6,medium
+626,"Jāņa Daliņa Manēža, Valmiera (LAT)",gemini-2.5-pro,prompt_v1,52,medium,,,49,high
+627,"Jāņa Daliņa Stadium, Valmiera (LAT)",gemini-2.5-pro,prompt_v1,51,medium,,,39,high
+628,"KMSHVSM Arena, Kyiv (UKR)",gemini-2.5-pro,prompt_v1,134,high,,,158,high
+629,"Kadrioru staadion, Tallinn (EST)",gemini-2.5-pro,prompt_v1,8,high,,,8,high
+630,"Kirani James Athletic Stadium, St. George's (GRN)",gemini-2.5-pro,prompt_v1,134,high,,,8,high
+631,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",gemini-2.5-pro,prompt_v1,134,high,,,36,high
+632,"LAZ Wien, Wien (AUT)",gemini-2.5-pro,prompt_v1,164,high,,,186,low
+633,"Lakeside Stadium, Melbourne (AUS)",gemini-2.5-pro,prompt_v1,5,high,,,8,high
+634,"Lantos Mihály Sportközpont, Budapest (HUN)",gemini-2.5-pro,prompt_v1,134,high,,,108,high
+635,"Laugardalshöll, Reykjavík (ISL)",gemini-2.5-pro,prompt_v1,13,high,,,14,high
+636,"Lee Valley Athletics Centre, London (GBR)",gemini-2.5-pro,prompt_v1,13,high,,,19,high
+637,"Leichtathletikarena, Eisenstadt (AUT)",gemini-2.5-pro,prompt_v1,184,high,,,157,high
+638,"Liikuntamylly, Helsinki (FIN)",gemini-2.5-pro,prompt_v1,13,high,,,18,high
+639,"Longford Stadium Trafford, Manchester (GBR)",gemini-2.5-pro,prompt_v1,39,high,,,33,high
+640,"Loughborough University Track, Loughborough (GBR)",gemini-2.5-pro,prompt_v1,134,medium,,,55,high
+641,"Mahinda Rajapaksha Stadium, Diyagama (SRI)",gemini-2.5-pro,prompt_v1,134,high,,,16,high
+642,"Manchester Regional Arena, Manchester (GBR)",gemini-2.5-pro,prompt_v1,39,high,,,55,high
+643,"Marsa Athletics Track, Marsa (MLT)",gemini-2.5-pro,prompt_v1,13,high,,,5,high
+644,"McArthur Stadium, Potchefstroom (RSA)",gemini-2.5-pro,prompt_v1,1350,high,,,1346,high
+645,"Mestský Stadion, Ostrava (CZE)",gemini-2.5-pro,prompt_v1,241,high,,,230,high
+646,Montevideo (URU),gemini-2.5-pro,prompt_v1,43,high,,,45,high
+647,"Morton Stadium, Santry, Dublin (IRL)",gemini-2.5-pro,prompt_v1,53,high,,,51,high
+648,"Mt Smart Stadium, Auckland (NZL)",gemini-2.5-pro,prompt_v1,26,high,,,18,medium
+649,"Městský atletický stadion, Pardubice (CZE)",gemini-2.5-pro,prompt_v1,224,high,,,220,high
+650,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",gemini-2.5-pro,prompt_v1,134,medium,,,9,high
+651,"National Stadium, Kingston (JAM)",gemini-2.5-pro,prompt_v1,134,high,,,78,low
+652,"National Stadium, Tokyo (JPN)",gemini-2.5-pro,prompt_v1,21,high,,,38,high
+653,"Newtown Park Stadium, Wellington (NZL)",gemini-2.5-pro,prompt_v1,134,high,,,39,low
+654,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",gemini-2.5-pro,prompt_v1,134,high,,,108,high
+655,"Ocean Breeze Athl. Complex, New York, NY (USA)",gemini-2.5-pro,prompt_v1,5,high,,,5,high
+656,"Olympiastadion, Stockholm (SWE)",gemini-2.5-pro,prompt_v1,24,high,,,25,high
+657,"Omnisport, Apeldoorn (NED)",gemini-2.5-pro,prompt_v1,21,high,,,9,high
+658,"Paavo Nurmen Stadion, Turku (FIN)",gemini-2.5-pro,prompt_v1,13,high,,,28,high
+659,"Philsport Track Oval, Pasig (PHI)",gemini-2.5-pro,prompt_v1,13,high,,,39,high
+660,"Pilditch Stadium, Pretoria (RSA)",gemini-2.5-pro,prompt_v1,1307,high,,,1325,high
+661,"Pista Atlética Mario Recordón, Santiago de Chile (CHI)",gemini-2.5-pro,prompt_v1,651,high,,,571,medium
+662,"Pista Basilio Rodriguez, Carolina (PUR)",gemini-2.5-pro,prompt_v1,13,high,,,8,high
+663,"Pista Carlos Lopes, Torres Vedras (POR)",gemini-2.5-pro,prompt_v1,134,high,,,85,high
+664,"Pista Municipal Prof. Mário Moniz Pereira, Lisboa (POR)",gemini-2.5-pro,prompt_v1,134,high,,,61,high
+665,"Pista da Sogipa, Porto Alegre (BRA)",gemini-2.5-pro,prompt_v1,13,high,,,32,high
+666,"Pista de Atletismo Justo Román, Mar del Plata (ARG)",gemini-2.5-pro,prompt_v1,34,high,,,18,high
+667,"Pista de Atletismo SND, Asunción (PAR)",gemini-2.5-pro,prompt_v1,134,high,,,149,high
+668,"Pista de Atletismo da Universidade Federal do Mato Grosso, Cuiaba (BRA)",gemini-2.5-pro,prompt_v1,167,high,,,184,high
+669,"Pista de Atletismo da Universidade Federal do Rio Grande do Norte, Natal (BRA)",gemini-2.5-pro,prompt_v1,48,high,,,47,high
+670,"Pista de Atletismo do CIEF, Brasilia (BRA)",gemini-2.5-pro,prompt_v1,1158,high,,,1115,high
+671,"Pista de Atletismo do Parque Ayrton Senna, Campo Grande (BRA)",gemini-2.5-pro,prompt_v1,538,high,,,503,high
+672,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",gemini-2.5-pro,prompt_v1,34,high,,,48,high
+673,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",gemini-2.5-pro,prompt_v1,23,high,,,86,high
+674,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",gemini-2.5-pro,prompt_v1,46,high,,,84,medium
+675,"RG3 e Centro Desportivo da Madeira, Funchal (POR)",gemini-2.5-pro,prompt_v1,134,high,,,85,high
+676,"Regional Sport Complex, Brest (BLR)",gemini-2.5-pro,prompt_v1,134,high,,,142,high
+677,"SA Athletic Stadium, Adelaide (AUS)",gemini-2.5-pro,prompt_v1,5,high,,,28,low
+678,"SOPAC, Sydney (AUS)",gemini-2.5-pro,prompt_v1,9,high,,,30,high
+679,"Sala de Atletism Ioan Soter, Bucureşti (ROU)",gemini-2.5-pro,prompt_v1,84,high,,,78,high
+680,"Sollentunavallen, Sollentuna (SWE)",gemini-2.5-pro,prompt_v1,23,high,,,25,high
+681,"Spar Nord Arena, Skive (DEN)",gemini-2.5-pro,prompt_v1,13,high,,,6,high
+682,"Sportanlage Sihlhölzli, Zürich (SUI)",gemini-2.5-pro,prompt_v1,411,high,,,417,high
+683,"Sports Park Mladost, Zagreb (CRO)",gemini-2.5-pro,prompt_v1,117,medium,,,116,high
+684,"Staadion, Rakvere (EST)",gemini-2.5-pro,prompt_v1,84,high,,,67,high
+685,"Stade L. Achille, Fort-de-France (FRA)",gemini-2.5-pro,prompt_v1,13,medium,,,11,high
+686,"Stade Olympique de la Pontaise, Lausanne (SUI)",gemini-2.5-pro,prompt_v1,615,high,,,592,medium
+687,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",gemini-2.5-pro,prompt_v1,134,high,,,69,high
+688,"Stadio Comunale, Bellinzona (SUI)",gemini-2.5-pro,prompt_v1,234,high,,,228,high
+689,"Stadio Guidobaldi, Rieti (ITA)",gemini-2.5-pro,prompt_v1,395,high,,,386,high
+690,"Stadio M.S. Cozzoli, Molfetta (ITA)",gemini-2.5-pro,prompt_v1,16,high,,,7,high
+691,"Stadion BOSiR, Białystok (POL)",gemini-2.5-pro,prompt_v1,134,high,,,147,high
+692,"Stadion Radés, Radés (TUN)",gemini-2.5-pro,prompt_v1,10,high,,,20,low
+693,"Stadion Topolica, Bar (MNE)",gemini-2.5-pro,prompt_v1,5,high,,,4,medium
+694,"Stadion Zygmunta Szelesta, Warszawa (POL)",gemini-2.5-pro,prompt_v1,109,high,,,98,high
+695,"Stadion Śląski, Chorzów (POL)",gemini-2.5-pro,prompt_v1,284,high,,,276,medium
+696,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",gemini-2.5-pro,prompt_v1,85,high,,,87,high
+697,"Stadium Pierre-Quinon, Nantes (FRA)",gemini-2.5-pro,prompt_v1,28,high,,,24,high
+698,"Suhaim bin Hamad Stadium, Doha (QAT)",gemini-2.5-pro,prompt_v1,13,high,,,11,medium
+699,"T. Robinson Stadium, Nassau (BAH)",gemini-2.5-pro,prompt_v1,4,high,,,6,high
+700,"Tamme staadion, Tartu (EST)",gemini-2.5-pro,prompt_v1,66,high,,,54,high
+701,"Terry Fox AF, Ottawa (CAN)",gemini-2.5-pro,prompt_v1,76,high,,,102,high
+702,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",gemini-2.5-pro,prompt_v1,34,high,,,47,medium
+703,"The Podium, Spokane, WA (USA)",gemini-2.5-pro,prompt_v1,175,high,,,577,high
+704,"The Track at New Balance, Boston, MA (USA)",gemini-2.5-pro,prompt_v1,5,high,,,12,high
+705,"TipsArena, Linz (AUT)",gemini-2.5-pro,prompt_v1,264,high,,,319,high
+706,"Topsporthal Vlaanderen, Gent (BEL)",gemini-2.5-pro,prompt_v1,7,high,,,12,high
+707,"Toše Proeski Arena, Skopje (MKD)",gemini-2.5-pro,prompt_v1,238,high,,,253,medium
+708,"Track and Field Centre Outdoor Track, Toronto (CAN)",gemini-2.5-pro,prompt_v1,188,high,,,198,medium
+709,"Track and Field Centre, Toronto (CAN)",gemini-2.5-pro,prompt_v1,185,high,,,198,medium
+710,"Tullamore Harriers AC Stadium, Tullamore (IRL)",gemini-2.5-pro,prompt_v1,74,high,,,52,low
+711,"Uppsala Friidrottsarena, Uppsala (SWE)",gemini-2.5-pro,prompt_v1,15,high,,,20,high
+712,"WA Athletics Stadium, Perth (AUS)",gemini-2.5-pro,prompt_v1,13,high,,,21,high
+713,"Woodside Stadium, Watford (GBR)",gemini-2.5-pro,prompt_v1,134,high,,,77,high
+714,"Yanmar Stadium Nagai, Osaka (JPN)",gemini-2.5-pro,prompt_v1,13,high,,,23,high
+715,"Športová hala Elán, Bratislava (SVK)",gemini-2.5-pro,prompt_v1,134,high,,,137,high
+716,"Štadión SNP, Banská Bystrica (SVK)",gemini-2.5-pro,prompt_v1,345,high,,,343,medium
+717,"AIS Athletics Track, Canberra (AUS)",gemini-2.5-pro,prompt_v2,585,high,,,609,medium
+718,"AIT International Arena, Athlone (IRL)",gemini-2.5-pro,prompt_v2,56,high,,,44,high
+719,"Aftab Enghelab Sport Complex, Tehran (IRI)",gemini-2.5-pro,prompt_v2,1307,high,,,1572,high
+720,"Alexander Stadium, Birmingham (GBR)",gemini-2.5-pro,prompt_v2,134,high,,,100,medium
+721,"Altice Forum, Braga (POR)",gemini-2.5-pro,prompt_v2,134,high,,,160,high
+722,"Arena Stade Couvert, Liévin (FRA)",gemini-2.5-pro,prompt_v2,66,high,,,71,high
+723,"Arena, Toruń (POL)",gemini-2.5-pro,prompt_v2,55,high,,,48,medium
+724,"Armory Track&Field Center, New York, NY (USA)",gemini-2.5-pro,prompt_v2,37,high,,,65,medium
+725,"Ataköy Arena, Istanbul (TUR)",gemini-2.5-pro,prompt_v2,8,high,,,7,high
+726,"Atatürk Stadyumu, Izmir (TUR)",gemini-2.5-pro,prompt_v2,12,high,,,2,high
+727,"Atletická hala, Ostrava (CZE)",gemini-2.5-pro,prompt_v2,236,high,,,231,high
+728,"Atletický stadion Slavia Praha, Praha (CZE)",gemini-2.5-pro,prompt_v2,234,high,,,215,high
+729,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)",gemini-2.5-pro,prompt_v2,3,high,,,2,high
+730,"Atletska dvorana, Beograd (SRB)",gemini-2.5-pro,prompt_v2,134,high,,,138,high
+731,"Atletski Stadion, Kraljevo (SRB)",gemini-2.5-pro,prompt_v2,201,high,,,198,high
+732,"Atletski stadion, Sremska Mitrovica (SRB)",gemini-2.5-pro,prompt_v2,81,high,,,84,high
+733,"Bislett Stadion, Oslo (NOR)",gemini-2.5-pro,prompt_v2,23,high,,,28,high
+734,"Boston Univ. Track & Tennis Center, Boston, MA (USA)",gemini-2.5-pro,prompt_v2,6,high,,,10,high
+735,"Boudewijnstadion, Bruxelles (BEL)",gemini-2.5-pro,prompt_v2,77,high,,,52,low
+736,"Bærum Idrettspark, Rud, Bærum (NOR)",gemini-2.5-pro,prompt_v2,134,high,,,33,high
+737,"CNDA, Bragança Paulista (BRA)",gemini-2.5-pro,prompt_v2,878,high,,,855,high
+738,"COTP Stadium, São Paulo (BRA)",gemini-2.5-pro,prompt_v2,788,high,,,758,high
+739,"Camille Chamoun Sports City Stadium, Beirut (LBN)",gemini-2.5-pro,prompt_v2,34,high,,,53,high
+740,"Campo Comunale, Modena (ITA)",gemini-2.5-pro,prompt_v2,34,high,,,46,high
+741,"CeNARD, Buenos Aires (ARG)",gemini-2.5-pro,prompt_v2,13,high,,,12,high
+742,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",gemini-2.5-pro,prompt_v2,2277,high,,,2228,high
+743,"Centro Desportivo Nacional do Jamor, Lisboa (POR)",gemini-2.5-pro,prompt_v2,24,high,,,14,high
+744,"Centro Gabre Gabric, Brescia (ITA)",gemini-2.5-pro,prompt_v2,134,high,,,128,high
+745,"Centro Nacional de Lançamentos, Leiria (POR)",gemini-2.5-pro,prompt_v2,134,high,,,27,high
+746,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",gemini-2.5-pro,prompt_v2,134,high,,,239,high
+747,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)",gemini-2.5-pro,prompt_v2,134,high,,,135,high
+748,"Complexo Desportivo de Lousada, Lousada (POR)",gemini-2.5-pro,prompt_v2,134,high,,,335,high
+749,"Coque Sport Center, Luxembourg (LUX)",gemini-2.5-pro,prompt_v2,338,high,,,336,medium
+750,"Egyetemi Stadion, Veszprém (HUN)",gemini-2.5-pro,prompt_v2,267,high,,,276,medium
+751,"Eläintarhan urheilukenttä, Helsinki (FIN)",gemini-2.5-pro,prompt_v2,11,high,,,6,high
+752,"Estadio Atlético de la VIDENA, Lima (PER)",gemini-2.5-pro,prompt_v2,134,high,,,174,high
+753,"Estadio Panamericano, La Habana (CUB)",gemini-2.5-pro,prompt_v2,36,high,,,32,high
+754,"Estadio Vallehermoso, Madrid (ESP)",gemini-2.5-pro,prompt_v2,697,high,,,702,high
+755,"Estádio 1o de Maio, Braga (POR)",gemini-2.5-pro,prompt_v2,134,high,,,174,low
+756,"Estádio Municipal Fontelo, Viseu (POR)",gemini-2.5-pro,prompt_v2,483,high,,,461,high
+757,"Estádio Municipal Manuela Machado, Viana do Castelo (POR)",gemini-2.5-pro,prompt_v2,11,high,,,33,low
+758,"Estádio Municipal de Vagos, Vagos (POR)",gemini-2.5-pro,prompt_v2,13,high,,,18,high
+759,"Expocentro, Pombal (POR)",gemini-2.5-pro,prompt_v2,56,high,,,117,high
+760,"Fana Stadion, Bergen (NOR)",gemini-2.5-pro,prompt_v2,44,high,,,38,high
+761,"Foothills Athletic Park, Calgary (CAN)",gemini-2.5-pro,prompt_v2,1076,high,,,1096,high
+762,"Friidrottens Hus, Göteborg (SWE)",gemini-2.5-pro,prompt_v2,13,high,,,21,high
+763,"GPS Stadium, Nicosia (CYP)",gemini-2.5-pro,prompt_v2,134,high,,,183,high
+764,"Givat Ram Stadium, Jerusalem (ISR)",gemini-2.5-pro,prompt_v2,798,high,,,747,medium
+765,"Gobierno Autónomo Municipal de Cochabamba, Cochabamba (BOL)",gemini-2.5-pro,prompt_v2,2570,high,,,2573,high
+766,"Golęcin Stadion, Poznan (POL)",gemini-2.5-pro,prompt_v2,91,high,,,71,high
+767,"Hadar Yosef Stadium, Tel Aviv (ISR)",gemini-2.5-pro,prompt_v2,13,high,,,12,high
+768,"Hayward Field, Eugene, OR (USA)",gemini-2.5-pro,prompt_v2,134,high,,,128,low
+769,"Hvidovre Stadion, Hvidovre (DEN)",gemini-2.5-pro,prompt_v2,7,high,,,10,high
+770,"Icahn Stadium, New York, NY (USA)",gemini-2.5-pro,prompt_v2,4,high,,,6,medium
+771,"Jāņa Daliņa Manēža, Valmiera (LAT)",gemini-2.5-pro,prompt_v2,52,high,,,49,high
+772,"Jāņa Daliņa Stadium, Valmiera (LAT)",gemini-2.5-pro,prompt_v2,51,high,,,39,high
+773,"KMSHVSM Arena, Kyiv (UKR)",gemini-2.5-pro,prompt_v2,134,high,,,158,high
+774,"Kadrioru staadion, Tallinn (EST)",gemini-2.5-pro,prompt_v2,7,high,,,8,high
+775,"Kirani James Athletic Stadium, St. George's (GRN)",gemini-2.5-pro,prompt_v2,4,high,,,8,high
+776,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",gemini-2.5-pro,prompt_v2,34,high,,,36,high
+777,"LAZ Wien, Wien (AUT)",gemini-2.5-pro,prompt_v2,163,high,,,186,low
+778,"Lakeside Stadium, Melbourne (AUS)",gemini-2.5-pro,prompt_v2,5,high,,,8,high
+779,"Lantos Mihály Sportközpont, Budapest (HUN)",gemini-2.5-pro,prompt_v2,134,high,,,108,high
+780,"Laugardalshöll, Reykjavík (ISL)",gemini-2.5-pro,prompt_v2,13,high,,,14,high
+781,"Lee Valley Athletics Centre, London (GBR)",gemini-2.5-pro,prompt_v2,12,high,,,19,high
+782,"Leichtathletikarena, Eisenstadt (AUT)",gemini-2.5-pro,prompt_v2,182,high,,,157,high
+783,"Liikuntamylly, Helsinki (FIN)",gemini-2.5-pro,prompt_v2,28,high,,,18,high
+784,"Longford Stadium Trafford, Manchester (GBR)",gemini-2.5-pro,prompt_v2,39,high,,,33,high
+785,"Loughborough University Track, Loughborough (GBR)",gemini-2.5-pro,prompt_v2,56,high,,,55,high
+786,"Mahinda Rajapaksha Stadium, Diyagama (SRI)",gemini-2.5-pro,prompt_v2,13,high,,,16,high
+787,"Manchester Regional Arena, Manchester (GBR)",gemini-2.5-pro,prompt_v2,39,high,,,55,high
+788,"Marsa Athletics Track, Marsa (MLT)",gemini-2.5-pro,prompt_v2,13,high,,,5,high
+789,"McArthur Stadium, Potchefstroom (RSA)",gemini-2.5-pro,prompt_v2,1349,high,,,1346,high
+790,"Mestský Stadion, Ostrava (CZE)",gemini-2.5-pro,prompt_v2,251,high,,,230,high
+791,Montevideo (URU),gemini-2.5-pro,prompt_v2,44,high,,,45,high
+792,"Morton Stadium, Santry, Dublin (IRL)",gemini-2.5-pro,prompt_v2,49,high,,,51,high
+793,"Mt Smart Stadium, Auckland (NZL)",gemini-2.5-pro,prompt_v2,27,high,,,18,medium
+794,"Městský atletický stadion, Pardubice (CZE)",gemini-2.5-pro,prompt_v2,225,high,,,220,high
+795,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",gemini-2.5-pro,prompt_v2,86,high,,,9,high
+796,"National Stadium, Kingston (JAM)",gemini-2.5-pro,prompt_v2,134,high,,,78,low
+797,"National Stadium, Tokyo (JPN)",gemini-2.5-pro,prompt_v2,22,high,,,38,high
+798,"Newtown Park Stadium, Wellington (NZL)",gemini-2.5-pro,prompt_v2,134,high,,,39,low
+799,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",gemini-2.5-pro,prompt_v2,134,high,,,108,high
+800,"Ocean Breeze Athl. Complex, New York, NY (USA)",gemini-2.5-pro,prompt_v2,7,medium,,,5,high
+801,"Olympiastadion, Stockholm (SWE)",gemini-2.5-pro,prompt_v2,25,high,,,25,high
+802,"Omnisport, Apeldoorn (NED)",gemini-2.5-pro,prompt_v2,21,high,,,9,high
+803,"Paavo Nurmen Stadion, Turku (FIN)",gemini-2.5-pro,prompt_v2,9,high,,,28,high
+804,"Philsport Track Oval, Pasig (PHI)",gemini-2.5-pro,prompt_v2,19,high,,,39,high
+805,"Pilditch Stadium, Pretoria (RSA)",gemini-2.5-pro,prompt_v2,1333,high,,,1325,high
+806,"Pista Atlética Mario Recordón, Santiago de Chile (CHI)",gemini-2.5-pro,prompt_v2,650,high,,,571,medium
+807,"Pista Basilio Rodriguez, Carolina (PUR)",gemini-2.5-pro,prompt_v2,13,high,,,8,high
+808,"Pista Carlos Lopes, Torres Vedras (POR)",gemini-2.5-pro,prompt_v2,134,high,,,85,high
+809,"Pista Municipal Prof. Mário Moniz Pereira, Lisboa (POR)",gemini-2.5-pro,prompt_v2,134,high,,,61,high
+810,"Pista da Sogipa, Porto Alegre (BRA)",gemini-2.5-pro,prompt_v2,5,high,,,32,high
+811,"Pista de Atletismo Justo Román, Mar del Plata (ARG)",gemini-2.5-pro,prompt_v2,34,high,,,18,high
+812,"Pista de Atletismo SND, Asunción (PAR)",gemini-2.5-pro,prompt_v2,134,high,,,149,high
+813,"Pista de Atletismo da Universidade Federal do Mato Grosso, Cuiaba (BRA)",gemini-2.5-pro,prompt_v2,167,high,,,184,high
+814,"Pista de Atletismo da Universidade Federal do Rio Grande do Norte, Natal (BRA)",gemini-2.5-pro,prompt_v2,53,high,,,47,high
+815,"Pista de Atletismo do Parque Ayrton Senna, Campo Grande (BRA)",gemini-2.5-pro,prompt_v2,534,high,,,503,high
+816,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",gemini-2.5-pro,prompt_v2,34,high,,,48,high
+817,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",gemini-2.5-pro,prompt_v2,21,high,,,86,high
+818,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",gemini-2.5-pro,prompt_v2,46,high,,,84,medium
+819,"RG3 e Centro Desportivo da Madeira, Funchal (POR)",gemini-2.5-pro,prompt_v2,588,high,,,85,high
+820,"Regional Sport Complex, Brest (BLR)",gemini-2.5-pro,prompt_v2,134,high,,,142,high
+821,"SA Athletic Stadium, Adelaide (AUS)",gemini-2.5-pro,prompt_v2,46,high,,,28,low
+822,"SOPAC, Sydney (AUS)",gemini-2.5-pro,prompt_v2,9,high,,,30,high
+823,"Sala de Atletism Ioan Soter, Bucureşti (ROU)",gemini-2.5-pro,prompt_v2,89,high,,,78,high
+824,"Sollentunavallen, Sollentuna (SWE)",gemini-2.5-pro,prompt_v2,23,high,,,25,high
+825,"Spar Nord Arena, Skive (DEN)",gemini-2.5-pro,prompt_v2,11,high,,,6,high
+826,"Sportanlage Sihlhölzli, Zürich (SUI)",gemini-2.5-pro,prompt_v2,413,high,,,417,high
+827,"Sports Park Mladost, Zagreb (CRO)",gemini-2.5-pro,prompt_v2,119,high,,,116,high
+828,"Staadion, Rakvere (EST)",gemini-2.5-pro,prompt_v2,84,high,,,67,high
+829,"Stade L. Achille, Fort-de-France (FRA)",gemini-2.5-pro,prompt_v2,5,high,,,11,high
+830,"Stade Olympique de la Pontaise, Lausanne (SUI)",gemini-2.5-pro,prompt_v2,645,high,,,592,medium
+831,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",gemini-2.5-pro,prompt_v2,134,high,,,69,high
+832,"Stadio Comunale, Bellinzona (SUI)",gemini-2.5-pro,prompt_v2,234,high,,,228,high
+833,"Stadio Guidobaldi, Rieti (ITA)",gemini-2.5-pro,prompt_v2,400,high,,,386,high
+834,"Stadio M.S. Cozzoli, Molfetta (ITA)",gemini-2.5-pro,prompt_v2,14,high,,,7,high
+835,"Stadion BOSiR, Białystok (POL)",gemini-2.5-pro,prompt_v2,134,high,,,147,high
+836,"Stadion Radés, Radés (TUN)",gemini-2.5-pro,prompt_v2,5,high,,,20,low
+837,"Stadion Topolica, Bar (MNE)",gemini-2.5-pro,prompt_v2,5,high,,,4,medium
+838,"Stadion Zygmunta Szelesta, Warszawa (POL)",gemini-2.5-pro,prompt_v2,105,high,,,98,high
+839,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",gemini-2.5-pro,prompt_v2,86,high,,,87,high
+840,"Stadium Pierre-Quinon, Nantes (FRA)",gemini-2.5-pro,prompt_v2,27,high,,,24,high
+841,"Suhaim bin Hamad Stadium, Doha (QAT)",gemini-2.5-pro,prompt_v2,13,high,,,11,medium
+842,"T. Robinson Stadium, Nassau (BAH)",gemini-2.5-pro,prompt_v2,4,high,,,6,high
+843,"Tamme staadion, Tartu (EST)",gemini-2.5-pro,prompt_v2,64,high,,,54,high
+844,"Terry Fox AF, Ottawa (CAN)",gemini-2.5-pro,prompt_v2,134,medium,,,102,high
+845,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",gemini-2.5-pro,prompt_v2,44,high,,,47,medium
+846,"The Podium, Spokane, WA (USA)",gemini-2.5-pro,prompt_v2,584,high,,,577,high
+847,"The Track at New Balance, Boston, MA (USA)",gemini-2.5-pro,prompt_v2,5,high,,,12,high
+848,"TipsArena, Linz (AUT)",gemini-2.5-pro,prompt_v2,267,high,,,319,high
+849,"Topsporthal Vlaanderen, Gent (BEL)",gemini-2.5-pro,prompt_v2,7,high,,,12,high
+850,"Toše Proeski Arena, Skopje (MKD)",gemini-2.5-pro,prompt_v2,241,high,,,253,medium
+851,"Track and Field Centre Outdoor Track, Toronto (CAN)",gemini-2.5-pro,prompt_v2,184,high,,,198,medium
+852,"Track and Field Centre, Toronto (CAN)",gemini-2.5-pro,prompt_v2,184,high,,,198,medium
+853,"Tullamore Harriers AC Stadium, Tullamore (IRL)",gemini-2.5-pro,prompt_v2,76,high,,,52,low
+854,"Uppsala Friidrottsarena, Uppsala (SWE)",gemini-2.5-pro,prompt_v2,20,high,,,20,high
+855,"WA Athletics Stadium, Perth (AUS)",gemini-2.5-pro,prompt_v2,63,high,,,21,high
+856,"Woodside Stadium, Watford (GBR)",gemini-2.5-pro,prompt_v2,134,high,,,77,high
+857,"Yanmar Stadium Nagai, Osaka (JPN)",gemini-2.5-pro,prompt_v2,29,high,,,23,high
+858,"Športová hala Elán, Bratislava (SVK)",gemini-2.5-pro,prompt_v2,134,high,,,137,high
+859,"Štadión SNP, Banská Bystrica (SVK)",gemini-2.5-pro,prompt_v2,338,high,,,343,medium
+860,"AIS Athletics Track, Canberra (AUS)",gemini-2.5-pro,prompt_v3,588,high,,,609,medium
+861,"AIT International Arena, Athlone (IRL)",gemini-2.5-pro,prompt_v3,63,high,,,44,high
+862,"Aftab Enghelab Sport Complex, Tehran (IRI)",gemini-2.5-pro,prompt_v3,1374,high,,,1572,high
+863,"Alexander Stadium, Birmingham (GBR)",gemini-2.5-pro,prompt_v3,134,high,,,100,medium
+864,"Altice Forum, Braga (POR)",gemini-2.5-pro,prompt_v3,196,high,,,160,high
+865,"Arena Stade Couvert, Liévin (FRA)",gemini-2.5-pro,prompt_v3,74,high,,,71,high
+866,"Arena, Toruń (POL)",gemini-2.5-pro,prompt_v3,69,high,,,48,medium
+867,"Armory Track&Field Center, New York, NY (USA)",gemini-2.5-pro,prompt_v3,41,high,,,65,medium
+868,"Ataköy Arena, Istanbul (TUR)",gemini-2.5-pro,prompt_v3,8,high,,,7,high
+869,"Atatürk Stadyumu, Izmir (TUR)",gemini-2.5-pro,prompt_v3,134,high,,,2,high
+870,"Atletická hala, Ostrava (CZE)",gemini-2.5-pro,prompt_v3,233,high,,,231,high
+871,"Atletický stadion Slavia Praha, Praha (CZE)",gemini-2.5-pro,prompt_v3,225,high,,,215,high
+872,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)",gemini-2.5-pro,prompt_v3,3,high,,,2,high
+873,"Atletska dvorana, Beograd (SRB)",gemini-2.5-pro,prompt_v3,134,high,,,138,high
+874,"Atletski Stadion, Kraljevo (SRB)",gemini-2.5-pro,prompt_v3,201,high,,,198,high
+875,"Atletski stadion, Sremska Mitrovica (SRB)",gemini-2.5-pro,prompt_v3,82,high,,,84,high
+876,"Bislett Stadion, Oslo (NOR)",gemini-2.5-pro,prompt_v3,23,high,,,28,high
+877,"Boston Univ. Track & Tennis Center, Boston, MA (USA)",gemini-2.5-pro,prompt_v3,5,high,,,10,high
+878,"Boudewijnstadion, Bruxelles (BEL)",gemini-2.5-pro,prompt_v3,76,high,,,52,low
+879,"Bærum Idrettspark, Rud, Bærum (NOR)",gemini-2.5-pro,prompt_v3,134,high,,,33,high
+880,"CNDA, Bragança Paulista (BRA)",gemini-2.5-pro,prompt_v3,875,high,,,855,high
+881,"COTP Stadium, São Paulo (BRA)",gemini-2.5-pro,prompt_v3,786,high,,,758,high
+882,"Camille Chamoun Sports City Stadium, Beirut (LBN)",gemini-2.5-pro,prompt_v3,36,high,,,53,high
+883,"Campo Comunale, Modena (ITA)",gemini-2.5-pro,prompt_v3,34,high,,,46,high
+884,"CeNARD, Buenos Aires (ARG)",gemini-2.5-pro,prompt_v3,13,high,,,12,high
+885,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",gemini-2.5-pro,prompt_v3,2286,high,,,2228,high
+886,"Centro Desportivo Nacional do Jamor, Lisboa (POR)",gemini-2.5-pro,prompt_v3,36,high,,,14,high
+887,"Centro Gabre Gabric, Brescia (ITA)",gemini-2.5-pro,prompt_v3,134,high,,,128,high
+888,"Centro Nacional de Lançamentos, Leiria (POR)",gemini-2.5-pro,prompt_v3,134,high,,,27,high
+889,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",gemini-2.5-pro,prompt_v3,134,high,,,239,high
+890,"Complexo Desportivo de Lousada, Lousada (POR)",gemini-2.5-pro,prompt_v3,134,high,,,335,high
+891,"Coque Sport Center, Luxembourg (LUX)",gemini-2.5-pro,prompt_v3,338,high,,,336,medium
+892,"Egyetemi Stadion, Veszprém (HUN)",gemini-2.5-pro,prompt_v3,266,high,,,276,medium
+893,"Eläintarhan urheilukenttä, Helsinki (FIN)",gemini-2.5-pro,prompt_v3,16,high,,,6,high
+894,"Estadio Atlético de la VIDENA, Lima (PER)",gemini-2.5-pro,prompt_v3,134,high,,,174,high
+895,"Estadio Panamericano, La Habana (CUB)",gemini-2.5-pro,prompt_v3,25,high,,,32,high
+896,"Estadio Vallehermoso, Madrid (ESP)",gemini-2.5-pro,prompt_v3,685,high,,,702,high
+897,"Estádio 1o de Maio, Braga (POR)",gemini-2.5-pro,prompt_v3,134,high,,,174,low
+898,"Estádio Municipal Fontelo, Viseu (POR)",gemini-2.5-pro,prompt_v3,486,high,,,461,high
+899,"Estádio Municipal Manuela Machado, Viana do Castelo (POR)",gemini-2.5-pro,prompt_v3,4,high,,,33,low
+900,"Estádio Municipal de Vagos, Vagos (POR)",gemini-2.5-pro,prompt_v3,13,high,,,18,high
+901,"Expocentro, Pombal (POR)",gemini-2.5-pro,prompt_v3,58,high,,,117,high
+902,"Fana Stadion, Bergen (NOR)",gemini-2.5-pro,prompt_v3,134,high,,,38,high
+903,"Foothills Athletic Park, Calgary (CAN)",gemini-2.5-pro,prompt_v3,1088,high,,,1096,high
+904,"Friidrottens Hus, Göteborg (SWE)",gemini-2.5-pro,prompt_v3,13,high,,,21,high
+905,"GPS Stadium, Nicosia (CYP)",gemini-2.5-pro,prompt_v3,134,high,,,183,high
+906,"Givat Ram Stadium, Jerusalem (ISR)",gemini-2.5-pro,prompt_v3,808,high,,,747,medium
+907,"Gobierno Autónomo Municipal de Cochabamba, Cochabamba (BOL)",gemini-2.5-pro,prompt_v3,2570,high,,,2573,high
+908,"Golęcin Stadion, Poznan (POL)",gemini-2.5-pro,prompt_v3,88,high,,,71,high
+909,"Hadar Yosef Stadium, Tel Aviv (ISR)",gemini-2.5-pro,prompt_v3,13,high,,,12,high
+910,"Hayward Field, Eugene, OR (USA)",gemini-2.5-pro,prompt_v3,134,high,,,128,low
+911,"Hvidovre Stadion, Hvidovre (DEN)",gemini-2.5-pro,prompt_v3,5,high,,,10,high
+912,"Icahn Stadium, New York, NY (USA)",gemini-2.5-pro,prompt_v3,3,high,,,6,medium
+913,"Jāņa Daliņa Manēža, Valmiera (LAT)",gemini-2.5-pro,prompt_v3,52,high,,,49,high
+914,"Jāņa Daliņa Stadium, Valmiera (LAT)",gemini-2.5-pro,prompt_v3,49,high,,,39,high
+915,"KMSHVSM Arena, Kyiv (UKR)",gemini-2.5-pro,prompt_v3,184,high,,,158,high
+916,"Kadrioru staadion, Tallinn (EST)",gemini-2.5-pro,prompt_v3,8,high,,,8,high
+917,"Kirani James Athletic Stadium, St. George's (GRN)",gemini-2.5-pro,prompt_v3,4,high,,,8,high
+918,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",gemini-2.5-pro,prompt_v3,134,high,,,36,high
+919,"LAZ Wien, Wien (AUT)",gemini-2.5-pro,prompt_v3,266,high,,,186,low
+920,"Lakeside Stadium, Melbourne (AUS)",gemini-2.5-pro,prompt_v3,5,high,,,8,high
+921,"Lantos Mihály Sportközpont, Budapest (HUN)",gemini-2.5-pro,prompt_v3,134,high,,,108,high
+922,"Laugardalshöll, Reykjavík (ISL)",gemini-2.5-pro,prompt_v3,29,high,,,14,high
+923,"Lee Valley Athletics Centre, London (GBR)",gemini-2.5-pro,prompt_v3,13,high,,,19,high
+924,"Leichtathletikarena, Eisenstadt (AUT)",gemini-2.5-pro,prompt_v3,183,high,,,157,high
+925,"Liikuntamylly, Helsinki (FIN)",gemini-2.5-pro,prompt_v3,13,high,,,18,high
+926,"Longford Stadium Trafford, Manchester (GBR)",gemini-2.5-pro,prompt_v3,35,high,,,33,high
+927,"Loughborough University Track, Loughborough (GBR)",gemini-2.5-pro,prompt_v3,51,high,,,55,high
+928,"Mahinda Rajapaksha Stadium, Diyagama (SRI)",gemini-2.5-pro,prompt_v3,13,high,,,16,high
+929,"Manchester Regional Arena, Manchester (GBR)",gemini-2.5-pro,prompt_v3,38,high,,,55,high
+930,"Marsa Athletics Track, Marsa (MLT)",gemini-2.5-pro,prompt_v3,13,high,,,5,high
+931,"McArthur Stadium, Potchefstroom (RSA)",gemini-2.5-pro,prompt_v3,1351,high,,,1346,high
+932,"Mestský Stadion, Ostrava (CZE)",gemini-2.5-pro,prompt_v3,228,high,,,230,high
+933,Montevideo (URU),gemini-2.5-pro,prompt_v3,46,high,,,45,high
+934,"Morton Stadium, Santry, Dublin (IRL)",gemini-2.5-pro,prompt_v3,55,high,,,51,high
+935,"Mt Smart Stadium, Auckland (NZL)",gemini-2.5-pro,prompt_v3,23,high,,,18,medium
+936,"Městský atletický stadion, Pardubice (CZE)",gemini-2.5-pro,prompt_v3,224,high,,,220,high
+937,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",gemini-2.5-pro,prompt_v3,67,high,,,9,high
+938,"National Stadium, Kingston (JAM)",gemini-2.5-pro,prompt_v3,134,high,,,78,low
+939,"National Stadium, Tokyo (JPN)",gemini-2.5-pro,prompt_v3,34,high,,,38,high
+940,"Newtown Park Stadium, Wellington (NZL)",gemini-2.5-pro,prompt_v3,134,high,,,39,low
+941,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",gemini-2.5-pro,prompt_v3,134,high,,,108,high
+942,"Ocean Breeze Athl. Complex, New York, NY (USA)",gemini-2.5-pro,prompt_v3,5,high,,,5,high
+943,"Olympiastadion, Stockholm (SWE)",gemini-2.5-pro,prompt_v3,22,high,,,25,high
+944,"Omnisport, Apeldoorn (NED)",gemini-2.5-pro,prompt_v3,17,high,,,9,high
+945,"Paavo Nurmen Stadion, Turku (FIN)",gemini-2.5-pro,prompt_v3,5,high,,,28,high
+946,"Philsport Track Oval, Pasig (PHI)",gemini-2.5-pro,prompt_v3,13,high,,,39,high
+947,"Pilditch Stadium, Pretoria (RSA)",gemini-2.5-pro,prompt_v3,1324,high,,,1325,high
+948,"Pista Atlética Mario Recordón, Santiago de Chile (CHI)",gemini-2.5-pro,prompt_v3,651,high,,,571,medium
+949,"Pista Basilio Rodriguez, Carolina (PUR)",gemini-2.5-pro,prompt_v3,13,high,,,8,high
+950,"Pista Carlos Lopes, Torres Vedras (POR)",gemini-2.5-pro,prompt_v3,134,high,,,85,high
+951,"Pista Municipal Prof. Mário Moniz Pereira, Lisboa (POR)",gemini-2.5-pro,prompt_v3,134,high,,,61,high
+952,"Pista da Sogipa, Porto Alegre (BRA)",gemini-2.5-pro,prompt_v3,4,high,,,32,high
+953,"Pista de Atletismo Justo Román, Mar del Plata (ARG)",gemini-2.5-pro,prompt_v3,28,high,,,18,high
+954,"Pista de Atletismo SND, Asunción (PAR)",gemini-2.5-pro,prompt_v3,134,high,,,149,high
+955,"Pista de Atletismo da Universidade Federal do Mato Grosso, Cuiaba (BRA)",gemini-2.5-pro,prompt_v3,169,high,,,184,high
+956,"Pista de Atletismo da Universidade Federal do Rio Grande do Norte, Natal (BRA)",gemini-2.5-pro,prompt_v3,51,high,,,47,high
+957,"Pista de Atletismo do CIEF, Brasilia (BRA)",gemini-2.5-pro,prompt_v3,1158,high,,,1115,high
+958,"Pista de Atletismo do Parque Ayrton Senna, Campo Grande (BRA)",gemini-2.5-pro,prompt_v3,589,high,,,503,high
+959,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",gemini-2.5-pro,prompt_v3,34,high,,,48,high
+960,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",gemini-2.5-pro,prompt_v3,24,high,,,86,high
+961,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",gemini-2.5-pro,prompt_v3,45,high,,,84,medium
+962,"RG3 e Centro Desportivo da Madeira, Funchal (POR)",gemini-2.5-pro,prompt_v3,134,high,,,85,high
+963,"Regional Sport Complex, Brest (BLR)",gemini-2.5-pro,prompt_v3,134,high,,,142,high
+964,"SA Athletic Stadium, Adelaide (AUS)",gemini-2.5-pro,prompt_v3,46,high,,,28,low
+965,"SOPAC, Sydney (AUS)",gemini-2.5-pro,prompt_v3,7,high,,,30,high
+966,"Sala de Atletism Ioan Soter, Bucureşti (ROU)",gemini-2.5-pro,prompt_v3,89,high,,,78,high
+967,"Sollentunavallen, Sollentuna (SWE)",gemini-2.5-pro,prompt_v3,21,high,,,25,high
+968,"Spar Nord Arena, Skive (DEN)",gemini-2.5-pro,prompt_v3,13,high,,,6,high
+969,"Sportanlage Sihlhölzli, Zürich (SUI)",gemini-2.5-pro,prompt_v3,412,high,,,417,high
+970,"Sports Park Mladost, Zagreb (CRO)",gemini-2.5-pro,prompt_v3,118,high,,,116,high
+971,"Staadion, Rakvere (EST)",gemini-2.5-pro,prompt_v3,86,high,,,67,high
+972,"Stade L. Achille, Fort-de-France (FRA)",gemini-2.5-pro,prompt_v3,4,high,,,11,high
+973,"Stade Olympique de la Pontaise, Lausanne (SUI)",gemini-2.5-pro,prompt_v3,604,high,,,592,medium
+974,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",gemini-2.5-pro,prompt_v3,91,high,,,69,high
+975,"Stadio Comunale, Bellinzona (SUI)",gemini-2.5-pro,prompt_v3,234,high,,,228,high
+976,"Stadio Guidobaldi, Rieti (ITA)",gemini-2.5-pro,prompt_v3,402,high,,,386,high
+977,"Stadio M.S. Cozzoli, Molfetta (ITA)",gemini-2.5-pro,prompt_v3,16,high,,,7,high
+978,"Stadion BOSiR, Białystok (POL)",gemini-2.5-pro,prompt_v3,134,high,,,147,high
+979,"Stadion Radés, Radés (TUN)",gemini-2.5-pro,prompt_v3,10,high,,,20,low
+980,"Stadion Topolica, Bar (MNE)",gemini-2.5-pro,prompt_v3,4,high,,,4,medium
+981,"Stadion Zygmunta Szelesta, Warszawa (POL)",gemini-2.5-pro,prompt_v3,108,high,,,98,high
+982,"Stadion Śląski, Chorzów (POL)",gemini-2.5-pro,prompt_v3,289,high,,,276,medium
+983,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",gemini-2.5-pro,prompt_v3,85,high,,,87,high
+984,"Stadium Pierre-Quinon, Nantes (FRA)",gemini-2.5-pro,prompt_v3,28,high,,,24,high
+985,"Suhaim bin Hamad Stadium, Doha (QAT)",gemini-2.5-pro,prompt_v3,11,high,,,11,medium
+986,"T. Robinson Stadium, Nassau (BAH)",gemini-2.5-pro,prompt_v3,3,high,,,6,high
+987,"Tamme staadion, Tartu (EST)",gemini-2.5-pro,prompt_v3,66,high,,,54,high
+988,"Terry Fox AF, Ottawa (CAN)",gemini-2.5-pro,prompt_v3,79,high,,,102,high
+989,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",gemini-2.5-pro,prompt_v3,16,high,,,47,medium
+990,"The Podium, Spokane, WA (USA)",gemini-2.5-pro,prompt_v3,577,high,,,577,high
+991,"The Track at New Balance, Boston, MA (USA)",gemini-2.5-pro,prompt_v3,7,high,,,12,high
+992,"TipsArena, Linz (AUT)",gemini-2.5-pro,prompt_v3,268,high,,,319,high
+993,"Topsporthal Vlaanderen, Gent (BEL)",gemini-2.5-pro,prompt_v3,6,high,,,12,high
+994,"Toše Proeski Arena, Skopje (MKD)",gemini-2.5-pro,prompt_v3,243,high,,,253,medium
+995,"Track and Field Centre Outdoor Track, Toronto (CAN)",gemini-2.5-pro,prompt_v3,134,medium,,,198,medium
+996,"Track and Field Centre, Toronto (CAN)",gemini-2.5-pro,prompt_v3,181,high,,,198,medium
+997,"Tullamore Harriers AC Stadium, Tullamore (IRL)",gemini-2.5-pro,prompt_v3,74,high,,,52,low
+998,"Uppsala Friidrottsarena, Uppsala (SWE)",gemini-2.5-pro,prompt_v3,13,high,,,20,high
+999,"WA Athletics Stadium, Perth (AUS)",gemini-2.5-pro,prompt_v3,19,high,,,21,high
+1000,"Woodside Stadium, Watford (GBR)",gemini-2.5-pro,prompt_v3,134,high,,,77,high
+1001,"Yanmar Stadium Nagai, Osaka (JPN)",gemini-2.5-pro,prompt_v3,13,high,,,23,high
+1002,"Športová hala Elán, Bratislava (SVK)",gemini-2.5-pro,prompt_v3,134,high,,,137,high
+1003,"Štadión SNP, Banská Bystrica (SVK)",gemini-2.5-pro,prompt_v3,343,high,,,343,medium
+1004,"AIS Athletics Track, Canberra (AUS)",gemini-2.5-pro,prompt_v4,588,high,,,609,medium
+1005,"AIT International Arena, Athlone (IRL)",gemini-2.5-pro,prompt_v4,59,high,,,44,high
+1006,"Aftab Enghelab Sport Complex, Tehran (IRI)",gemini-2.5-pro,prompt_v4,1280,high,,,1572,high
+1007,"Alexander Stadium, Birmingham (GBR)",gemini-2.5-pro,prompt_v4,134,high,,,100,medium
+1008,"Altice Forum, Braga (POR)",gemini-2.5-pro,prompt_v4,197,high,,,160,high
+1009,"Arena Stade Couvert, Liévin (FRA)",gemini-2.5-pro,prompt_v4,74,high,,,71,high
+1010,"Arena, Toruń (POL)",gemini-2.5-pro,prompt_v4,59,high,,,48,medium
+1011,"Armory Track&Field Center, New York, NY (USA)",gemini-2.5-pro,prompt_v4,43,high,,,65,medium
+1012,"Ataköy Arena, Istanbul (TUR)",gemini-2.5-pro,prompt_v4,6,high,,,7,high
+1013,"Atatürk Stadyumu, Izmir (TUR)",gemini-2.5-pro,prompt_v4,4,high,,,2,high
+1014,"Atletická hala, Ostrava (CZE)",gemini-2.5-pro,prompt_v4,238,high,,,231,high
+1015,"Atletický stadion Slavia Praha, Praha (CZE)",gemini-2.5-pro,prompt_v4,237,high,,,215,high
+1016,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)",gemini-2.5-pro,prompt_v4,3,high,,,2,high
+1017,"Atletska dvorana, Beograd (SRB)",gemini-2.5-pro,prompt_v4,134,high,,,138,high
+1018,"Atletski Stadion, Kraljevo (SRB)",gemini-2.5-pro,prompt_v4,199,medium,,,198,high
+1019,"Atletski stadion, Sremska Mitrovica (SRB)",gemini-2.5-pro,prompt_v4,81,high,,,84,high
+1020,"Bislett Stadion, Oslo (NOR)",gemini-2.5-pro,prompt_v4,23,high,,,28,high
+1021,"Boston Univ. Track & Tennis Center, Boston, MA (USA)",gemini-2.5-pro,prompt_v4,4,high,,,10,high
+1022,"Boudewijnstadion, Bruxelles (BEL)",gemini-2.5-pro,prompt_v4,77,high,,,52,low
+1023,"Bærum Idrettspark, Rud, Bærum (NOR)",gemini-2.5-pro,prompt_v4,134,high,,,33,high
+1024,"CNDA, Bragança Paulista (BRA)",gemini-2.5-pro,prompt_v4,878,high,,,855,high
+1025,"COTP Stadium, São Paulo (BRA)",gemini-2.5-pro,prompt_v4,790,high,,,758,high
+1026,"Camille Chamoun Sports City Stadium, Beirut (LBN)",gemini-2.5-pro,prompt_v4,48,high,,,53,high
+1027,"Campo Comunale, Modena (ITA)",gemini-2.5-pro,prompt_v4,39,high,,,46,high
+1028,"CeNARD, Buenos Aires (ARG)",gemini-2.5-pro,prompt_v4,12,medium,,,12,high
+1029,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",gemini-2.5-pro,prompt_v4,2278,high,,,2228,high
+1030,"Centro Desportivo Nacional do Jamor, Lisboa (POR)",gemini-2.5-pro,prompt_v4,11,high,,,14,high
+1031,"Centro Gabre Gabric, Brescia (ITA)",gemini-2.5-pro,prompt_v4,134,high,,,128,high
+1032,"Centro Nacional de Lançamentos, Leiria (POR)",gemini-2.5-pro,prompt_v4,58,medium,,,27,high
+1033,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",gemini-2.5-pro,prompt_v4,106,medium,,,239,high
+1034,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)",gemini-2.5-pro,prompt_v4,155,high,,,135,high
+1035,"Complexo Desportivo de Lousada, Lousada (POR)",gemini-2.5-pro,prompt_v4,134,high,,,335,high
+1036,"Coque Sport Center, Luxembourg (LUX)",gemini-2.5-pro,prompt_v4,338,high,,,336,medium
+1037,"Egyetemi Stadion, Veszprém (HUN)",gemini-2.5-pro,prompt_v4,278,high,,,276,medium
+1038,"Eläintarhan urheilukenttä, Helsinki (FIN)",gemini-2.5-pro,prompt_v4,11,high,,,6,high
+1039,"Estadio Atlético de la VIDENA, Lima (PER)",gemini-2.5-pro,prompt_v4,133,high,,,174,high
+1040,"Estadio Panamericano, La Habana (CUB)",gemini-2.5-pro,prompt_v4,10,high,,,32,high
+1041,"Estadio Vallehermoso, Madrid (ESP)",gemini-2.5-pro,prompt_v4,672,high,,,702,high
+1042,"Estádio 1o de Maio, Braga (POR)",gemini-2.5-pro,prompt_v4,195,high,,,174,low
+1043,"Estádio Municipal Fontelo, Viseu (POR)",gemini-2.5-pro,prompt_v4,490,medium,,,461,high
+1044,"Estádio Municipal Manuela Machado, Viana do Castelo (POR)",gemini-2.5-pro,prompt_v4,5,medium,,,33,low
+1045,"Estádio Municipal de Vagos, Vagos (POR)",gemini-2.5-pro,prompt_v4,13,high,,,18,high
+1046,"Expocentro, Pombal (POR)",gemini-2.5-pro,prompt_v4,60,medium,,,117,high
+1047,"Fana Stadion, Bergen (NOR)",gemini-2.5-pro,prompt_v4,56,high,,,38,high
+1048,"Foothills Athletic Park, Calgary (CAN)",gemini-2.5-pro,prompt_v4,1085,high,,,1096,high
+1049,"Friidrottens Hus, Göteborg (SWE)",gemini-2.5-pro,prompt_v4,11,high,,,21,high
+1050,"GPS Stadium, Nicosia (CYP)",gemini-2.5-pro,prompt_v4,166,high,,,183,high
+1051,"Givat Ram Stadium, Jerusalem (ISR)",gemini-2.5-pro,prompt_v4,808,high,,,747,medium
+1052,"Gobierno Autónomo Municipal de Cochabamba, Cochabamba (BOL)",gemini-2.5-pro,prompt_v4,2570,high,,,2573,high
+1053,"Golęcin Stadion, Poznan (POL)",gemini-2.5-pro,prompt_v4,90,high,,,71,high
+1054,"Hadar Yosef Stadium, Tel Aviv (ISR)",gemini-2.5-pro,prompt_v4,13,medium,,,12,high
+1055,"Hayward Field, Eugene, OR (USA)",gemini-2.5-pro,prompt_v4,134,high,,,128,low
+1056,"Hvidovre Stadion, Hvidovre (DEN)",gemini-2.5-pro,prompt_v4,6,high,,,10,high
+1057,"Icahn Stadium, New York, NY (USA)",gemini-2.5-pro,prompt_v4,3,high,,,6,medium
+1058,"Jāņa Daliņa Manēža, Valmiera (LAT)",gemini-2.5-pro,prompt_v4,50,high,,,49,high
+1059,"Jāņa Daliņa Stadium, Valmiera (LAT)",gemini-2.5-pro,prompt_v4,51,high,,,39,high
+1060,"KMSHVSM Arena, Kyiv (UKR)",gemini-2.5-pro,prompt_v4,96,medium,,,158,high
+1061,"Kadrioru staadion, Tallinn (EST)",gemini-2.5-pro,prompt_v4,6,medium,,,8,high
+1062,"Kirani James Athletic Stadium, St. George's (GRN)",gemini-2.5-pro,prompt_v4,2,high,,,8,high
+1063,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",gemini-2.5-pro,prompt_v4,13,high,,,36,high
+1064,"LAZ Wien, Wien (AUT)",gemini-2.5-pro,prompt_v4,161,high,,,186,low
+1065,"Lakeside Stadium, Melbourne (AUS)",gemini-2.5-pro,prompt_v4,5,high,,,8,high
+1066,"Lantos Mihály Sportközpont, Budapest (HUN)",gemini-2.5-pro,prompt_v4,131,medium,,,108,high
+1067,"Laugardalshöll, Reykjavík (ISL)",gemini-2.5-pro,prompt_v4,18,medium,,,14,high
+1068,"Lee Valley Athletics Centre, London (GBR)",gemini-2.5-pro,prompt_v4,11,high,,,19,high
+1069,"Leichtathletikarena, Eisenstadt (AUT)",gemini-2.5-pro,prompt_v4,182,medium,,,157,high
+1070,"Liikuntamylly, Helsinki (FIN)",gemini-2.5-pro,prompt_v4,23,high,,,18,high
+1071,"Longford Stadium Trafford, Manchester (GBR)",gemini-2.5-pro,prompt_v4,35,medium,,,33,high
+1072,"Loughborough University Track, Loughborough (GBR)",gemini-2.5-pro,prompt_v4,51,high,,,55,high
+1073,"Mahinda Rajapaksha Stadium, Diyagama (SRI)",gemini-2.5-pro,prompt_v4,12,medium,,,16,high
+1074,"Manchester Regional Arena, Manchester (GBR)",gemini-2.5-pro,prompt_v4,37,medium,,,55,high
+1075,"Marsa Athletics Track, Marsa (MLT)",gemini-2.5-pro,prompt_v4,13,medium,,,5,high
+1076,"McArthur Stadium, Potchefstroom (RSA)",gemini-2.5-pro,prompt_v4,1351,high,,,1346,high
+1077,"Mestský Stadion, Ostrava (CZE)",gemini-2.5-pro,prompt_v4,233,high,,,230,high
+1078,Montevideo (URU),gemini-2.5-pro,prompt_v4,43,high,,,45,high
+1079,"Morton Stadium, Santry, Dublin (IRL)",gemini-2.5-pro,prompt_v4,51,medium,,,51,high
+1080,"Mt Smart Stadium, Auckland (NZL)",gemini-2.5-pro,prompt_v4,25,medium,,,18,medium
+1081,"Městský atletický stadion, Pardubice (CZE)",gemini-2.5-pro,prompt_v4,218,medium,,,220,high
+1082,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",gemini-2.5-pro,prompt_v4,58,high,,,9,high
+1083,"National Stadium, Kingston (JAM)",gemini-2.5-pro,prompt_v4,18,medium,,,78,low
+1084,"National Stadium, Tokyo (JPN)",gemini-2.5-pro,prompt_v4,34,high,,,38,high
+1085,"Newtown Park Stadium, Wellington (NZL)",gemini-2.5-pro,prompt_v4,34,high,,,39,low
+1086,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",gemini-2.5-pro,prompt_v4,117,medium,,,108,high
+1087,"Ocean Breeze Athl. Complex, New York, NY (USA)",gemini-2.5-pro,prompt_v4,3,high,,,5,high
+1088,"Olympiastadion, Stockholm (SWE)",gemini-2.5-pro,prompt_v4,21,high,,,25,high
+1089,"Omnisport, Apeldoorn (NED)",gemini-2.5-pro,prompt_v4,19,high,,,9,high
+1090,"Paavo Nurmen Stadion, Turku (FIN)",gemini-2.5-pro,prompt_v4,16,high,,,28,high
+1091,"Philsport Track Oval, Pasig (PHI)",gemini-2.5-pro,prompt_v4,16,medium,,,39,high
+1092,"Pilditch Stadium, Pretoria (RSA)",gemini-2.5-pro,prompt_v4,1275,high,,,1325,high
+1093,"Pista Atlética Mario Recordón, Santiago de Chile (CHI)",gemini-2.5-pro,prompt_v4,629,high,,,571,medium
+1094,"Pista Basilio Rodriguez, Carolina (PUR)",gemini-2.5-pro,prompt_v4,9,high,,,8,high
+1095,"Pista Carlos Lopes, Torres Vedras (POR)",gemini-2.5-pro,prompt_v4,31,high,,,85,high
+1096,"Pista Municipal Prof. Mário Moniz Pereira, Lisboa (POR)",gemini-2.5-pro,prompt_v4,90,high,,,61,high
+1097,"Pista da Sogipa, Porto Alegre (BRA)",gemini-2.5-pro,prompt_v4,4,high,,,32,high
+1098,"Pista de Atletismo Justo Román, Mar del Plata (ARG)",gemini-2.5-pro,prompt_v4,18,high,,,18,high
+1099,"Pista de Atletismo SND, Asunción (PAR)",gemini-2.5-pro,prompt_v4,97,medium,,,149,high
+1100,"Pista de Atletismo da Universidade Federal do Mato Grosso, Cuiaba (BRA)",gemini-2.5-pro,prompt_v4,177,medium,,,184,high
+1101,"Pista de Atletismo da Universidade Federal do Rio Grande do Norte, Natal (BRA)",gemini-2.5-pro,prompt_v4,51,medium,,,47,high
+1102,"Pista de Atletismo do CIEF, Brasilia (BRA)",gemini-2.5-pro,prompt_v4,1158,high,,,1115,high
+1103,"Pista de Atletismo do Parque Ayrton Senna, Campo Grande (BRA)",gemini-2.5-pro,prompt_v4,593,high,,,503,high
+1104,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",gemini-2.5-pro,prompt_v4,36,high,,,48,high
+1105,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",gemini-2.5-pro,prompt_v4,46,high,,,86,high
+1106,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",gemini-2.5-pro,prompt_v4,46,high,,,84,medium
+1107,"RG3 e Centro Desportivo da Madeira, Funchal (POR)",gemini-2.5-pro,prompt_v4,542,high,,,85,high
+1108,"Regional Sport Complex, Brest (BLR)",gemini-2.5-pro,prompt_v4,134,medium,,,142,high
+1109,"SA Athletic Stadium, Adelaide (AUS)",gemini-2.5-pro,prompt_v4,5,high,,,28,low
+1110,"SOPAC, Sydney (AUS)",gemini-2.5-pro,prompt_v4,9,high,,,30,high
+1111,"Sala de Atletism Ioan Soter, Bucureşti (ROU)",gemini-2.5-pro,prompt_v4,83,medium,,,78,high
+1112,"Sollentunavallen, Sollentuna (SWE)",gemini-2.5-pro,prompt_v4,24,high,,,25,high
+1113,"Spar Nord Arena, Skive (DEN)",gemini-2.5-pro,prompt_v4,12,high,,,6,high
+1114,"Sportanlage Sihlhölzli, Zürich (SUI)",gemini-2.5-pro,prompt_v4,410,high,,,417,high
+1115,"Sports Park Mladost, Zagreb (CRO)",gemini-2.5-pro,prompt_v4,117,high,,,116,high
+1116,"Staadion, Rakvere (EST)",gemini-2.5-pro,prompt_v4,83,medium,,,67,high
+1117,"Stade L. Achille, Fort-de-France (FRA)",gemini-2.5-pro,prompt_v4,4,medium,,,11,high
+1118,"Stade Olympique de la Pontaise, Lausanne (SUI)",gemini-2.5-pro,prompt_v4,620,high,,,592,medium
+1119,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",gemini-2.5-pro,prompt_v4,76,high,,,69,high
+1120,"Stadio Comunale, Bellinzona (SUI)",gemini-2.5-pro,prompt_v4,238,high,,,228,high
+1121,"Stadio Guidobaldi, Rieti (ITA)",gemini-2.5-pro,prompt_v4,405,high,,,386,high
+1122,"Stadio M.S. Cozzoli, Molfetta (ITA)",gemini-2.5-pro,prompt_v4,14,high,,,7,high
+1123,"Stadion BOSiR, Białystok (POL)",gemini-2.5-pro,prompt_v4,154,high,,,147,high
+1124,"Stadion Radés, Radés (TUN)",gemini-2.5-pro,prompt_v4,10,high,,,20,low
+1125,"Stadion Topolica, Bar (MNE)",gemini-2.5-pro,prompt_v4,5,high,,,4,medium
+1126,"Stadion Zygmunta Szelesta, Warszawa (POL)",gemini-2.5-pro,prompt_v4,108,high,,,98,high
+1127,"Stadion Śląski, Chorzów (POL)",gemini-2.5-pro,prompt_v4,284,high,,,276,medium
+1128,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",gemini-2.5-pro,prompt_v4,87,high,,,87,high
+1129,"Stadium Pierre-Quinon, Nantes (FRA)",gemini-2.5-pro,prompt_v4,28,high,,,24,high
+1130,"Suhaim bin Hamad Stadium, Doha (QAT)",gemini-2.5-pro,prompt_v4,11,high,,,11,medium
+1131,"T. Robinson Stadium, Nassau (BAH)",gemini-2.5-pro,prompt_v4,4,medium,,,6,high
+1132,"Tamme staadion, Tartu (EST)",gemini-2.5-pro,prompt_v4,67,medium,,,54,high
+1133,"Terry Fox AF, Ottawa (CAN)",gemini-2.5-pro,prompt_v4,81,medium,,,102,high
+1134,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",gemini-2.5-pro,prompt_v4,20,high,,,47,medium
+1135,"The Podium, Spokane, WA (USA)",gemini-2.5-pro,prompt_v4,576,high,,,577,high
+1136,"The Track at New Balance, Boston, MA (USA)",gemini-2.5-pro,prompt_v4,6,high,,,12,high
+1137,"TipsArena, Linz (AUT)",gemini-2.5-pro,prompt_v4,266,high,,,319,high
+1138,"Topsporthal Vlaanderen, Gent (BEL)",gemini-2.5-pro,prompt_v4,7,high,,,12,high
+1139,"Toše Proeski Arena, Skopje (MKD)",gemini-2.5-pro,prompt_v4,238,high,,,253,medium
+1140,"Track and Field Centre Outdoor Track, Toronto (CAN)",gemini-2.5-pro,prompt_v4,188,high,,,198,medium
+1141,"Track and Field Centre, Toronto (CAN)",gemini-2.5-pro,prompt_v4,188,high,,,198,medium
+1142,"Tullamore Harriers AC Stadium, Tullamore (IRL)",gemini-2.5-pro,prompt_v4,78,medium,,,52,low
+1143,"Uppsala Friidrottsarena, Uppsala (SWE)",gemini-2.5-pro,prompt_v4,15,high,,,20,high
+1144,"WA Athletics Stadium, Perth (AUS)",gemini-2.5-pro,prompt_v4,19,medium,,,21,high
+1145,"Woodside Stadium, Watford (GBR)",gemini-2.5-pro,prompt_v4,79,high,,,77,high
+1146,"Yanmar Stadium Nagai, Osaka (JPN)",gemini-2.5-pro,prompt_v4,13,high,,,23,high
+1147,"Športová hala Elán, Bratislava (SVK)",gemini-2.5-pro,prompt_v4,134,high,,,137,high
+1148,"Štadión SNP, Banská Bystrica (SVK)",gemini-2.5-pro,prompt_v4,344,high,,,343,medium
+1149,"Stadio Guidobaldi, Rieti (ITA)",gpt-5.2,prompt_v1,405,medium,,,386,high
+1150,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",gpt-5.2,prompt_v2,163,medium,,,239,high
+1151,Montevideo (URU),gpt-5.2,prompt_v2,43,medium,,,45,high
+1152,"Altice Forum, Braga (POR)",gpt-5.2,prompt_v3,190,low,,,160,high
+1153,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",gpt-5.2,prompt_v3,2240,medium,,,2228,high
+1154,"Gobierno Autónomo Municipal de Cochabamba, Cochabamba (BOL)",gpt-5.2,prompt_v3,2558,medium,,,2573,high
+1155,"Hayward Field, Eugene, OR (USA)",gpt-5.2,prompt_v3,131,medium,,,128,low
+1156,"McArthur Stadium, Potchefstroom (RSA)",gpt-5.2,prompt_v3,1349,medium,,,1346,high
+1157,Montevideo (URU),gpt-5.2,prompt_v3,43,medium,,,45,high
+1158,"Omnisport, Apeldoorn (NED)",gpt-5.2,prompt_v3,16,low,,,9,high
+1159,"Paavo Nurmen Stadion, Turku (FIN)",gpt-5.2,prompt_v3,22,medium,,,28,high
+1160,"Pista de Atletismo do Parque Ayrton Senna, Campo Grande (BRA)",gpt-5.2,prompt_v3,592,low,,,503,high
+1161,"Stade Olympique de la Pontaise, Lausanne (SUI)",gpt-5.2,prompt_v3,610,medium,,,592,medium
+1162,"Stadio Guidobaldi, Rieti (ITA)",gpt-5.2,prompt_v3,405,medium,,,386,high
+1163,"TipsArena, Linz (AUT)",gpt-5.2,prompt_v3,266,low,,,319,high
+1164,"Topsporthal Vlaanderen, Gent (BEL)",gpt-5.2,prompt_v3,7,medium,,,12,high
+1165,"Štadión SNP, Banská Bystrica (SVK)",gpt-5.2,prompt_v3,362,medium,,,343,medium
+1166,"Alexander Stadium, Birmingham (GBR)",gpt-5.2,prompt_v4,135,medium,,,100,medium
+1167,"Hayward Field, Eugene, OR (USA)",gpt-5.2,prompt_v4,134,high,,,128,low
+1168,"Icahn Stadium, New York, NY (USA)",gpt-5.2,prompt_v4,4,medium,,,6,medium
+1169,"Lakeside Stadium, Melbourne (AUS)",gpt-5.2,prompt_v4,7,medium,,,8,high
+1170,"Mestský Stadion, Ostrava (CZE)",gpt-5.2,prompt_v4,214,medium,,,230,high
+1171,"National Stadium, Kingston (JAM)",gpt-5.2,prompt_v4,18,medium,,,78,low
+1172,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",gpt-5.2,prompt_v4,108,low,,,108,high
+1173,"Pista Atlética Mario Recordón, Santiago de Chile (CHI)",gpt-5.2,prompt_v4,570,medium,,,571,medium
+1174,"Stade Olympique de la Pontaise, Lausanne (SUI)",gpt-5.2,prompt_v4,450,medium,,,592,medium
+1175,"Stadio Guidobaldi, Rieti (ITA)",gpt-5.2,prompt_v4,405,medium,,,386,high
+1176,"Toše Proeski Arena, Skopje (MKD)",gpt-5.2,prompt_v4,245,medium,,,253,medium
+1177,"Yanmar Stadium Nagai, Osaka (JPN)",gpt-5.2,prompt_v4,12,medium,,,23,high
+1178,"AIS Athletics Track, Canberra (AUS)",qwen3-8b,prompt_v1,134,high,,,609,medium
+1179,"Aftab Enghelab Sport Complex, Tehran (IRI)",qwen3-8b,prompt_v1,134,medium,,,1572,high
+1180,"Alexander Stadium, Birmingham (GBR)",qwen3-8b,prompt_v1,134,medium,,,100,medium
+1181,"Armory Track&Field Center, New York, NY (USA)",qwen3-8b,prompt_v1,134,medium,,,65,medium
+1182,"Atatürk Stadyumu, Izmir (TUR)",qwen3-8b,prompt_v1,134,medium,,,2,high
+1183,"Atletický stadion Slavia Praha, Praha (CZE)",qwen3-8b,prompt_v1,134,high,,,215,high
+1184,"Atletski stadion, Sremska Mitrovica (SRB)",qwen3-8b,prompt_v1,134,high,,,84,high
+1185,"Bislett Stadion, Oslo (NOR)",qwen3-8b,prompt_v1,134,medium,,,28,high
+1186,"Boudewijnstadion, Bruxelles (BEL)",qwen3-8b,prompt_v1,134,high,,,52,low
+1187,"CNDA, Bragança Paulista (BRA)",qwen3-8b,prompt_v1,134,high,,,855,high
+1188,"Camille Chamoun Sports City Stadium, Beirut (LBN)",qwen3-8b,prompt_v1,134,medium,,,53,high
+1189,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",qwen3-8b,prompt_v1,2240,high,,,2228,high
+1190,"Centro Desportivo Nacional do Jamor, Lisboa (POR)",qwen3-8b,prompt_v1,134,high,,,14,high
+1191,"Centro Nacional de Lançamentos, Leiria (POR)",qwen3-8b,prompt_v1,134,high,,,27,high
+1192,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",qwen3-8b,prompt_v1,134,high,,,239,high
+1193,"Complexo Desportivo de Lousada, Lousada (POR)",qwen3-8b,prompt_v1,134,medium,,,335,high
+1194,"Egyetemi Stadion, Veszprém (HUN)",qwen3-8b,prompt_v1,134,medium,,,276,medium
+1195,"Eläintarhan urheilukenttä, Helsinki (FIN)",qwen3-8b,prompt_v1,134,high,,,6,high
+1196,"Estadio Atlético de la VIDENA, Lima (PER)",qwen3-8b,prompt_v1,134,high,,,174,high
+1197,"Estadio Panamericano, La Habana (CUB)",qwen3-8b,prompt_v1,134,high,,,32,high
+1198,"Estadio Vallehermoso, Madrid (ESP)",qwen3-8b,prompt_v1,134,high,,,702,high
+1199,"Estádio 1o de Maio, Braga (POR)",qwen3-8b,prompt_v1,134,high,,,174,low
+1200,"Estádio Municipal de Vagos, Vagos (POR)",qwen3-8b,prompt_v1,134,medium,,,18,high
+1201,"Expocentro, Pombal (POR)",qwen3-8b,prompt_v1,134,high,,,117,high
+1202,"Foothills Athletic Park, Calgary (CAN)",qwen3-8b,prompt_v1,1340,high,,,1096,high
+1203,"Friidrottens Hus, Göteborg (SWE)",qwen3-8b,prompt_v1,134,high,,,21,high
+1204,"Gobierno Autónomo Municipal de Cochabamba, Cochabamba (BOL)",qwen3-8b,prompt_v1,2800,high,,,2573,high
+1205,"Hadar Yosef Stadium, Tel Aviv (ISR)",qwen3-8b,prompt_v1,134,medium,,,12,high
+1206,"Hayward Field, Eugene, OR (USA)",qwen3-8b,prompt_v1,134,high,,,128,low
+1207,"Icahn Stadium, New York, NY (USA)",qwen3-8b,prompt_v1,134,high,,,6,medium
+1208,"Jāņa Daliņa Manēža, Valmiera (LAT)",qwen3-8b,prompt_v1,134,high,,,49,high
+1209,"KMSHVSM Arena, Kyiv (UKR)",qwen3-8b,prompt_v1,134,high,,,158,high
+1210,"Kirani James Athletic Stadium, St. George's (GRN)",qwen3-8b,prompt_v1,134,high,,,8,high
+1211,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",qwen3-8b,prompt_v1,134,medium,,,36,high
+1212,"Laugardalshöll, Reykjavík (ISL)",qwen3-8b,prompt_v1,134,high,,,14,high
+1213,"Lee Valley Athletics Centre, London (GBR)",qwen3-8b,prompt_v1,134,medium,,,19,high
+1214,"Liikuntamylly, Helsinki (FIN)",qwen3-8b,prompt_v1,134,medium,,,18,high
+1215,"Loughborough University Track, Loughborough (GBR)",qwen3-8b,prompt_v1,134,high,,,55,high
+1216,"McArthur Stadium, Potchefstroom (RSA)",qwen3-8b,prompt_v1,1340,high,,,1346,high
+1217,"Mestský Stadion, Ostrava (CZE)",qwen3-8b,prompt_v1,134,high,,,230,high
+1218,"Morton Stadium, Santry, Dublin (IRL)",qwen3-8b,prompt_v1,134,high,,,51,high
+1219,"Mt Smart Stadium, Auckland (NZL)",qwen3-8b,prompt_v1,134,high,,,18,medium
+1220,"Městský atletický stadion, Pardubice (CZE)",qwen3-8b,prompt_v1,134,high,,,220,high
+1221,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",qwen3-8b,prompt_v1,134,medium,,,9,high
+1222,"National Stadium, Kingston (JAM)",qwen3-8b,prompt_v1,134,high,,,78,low
+1223,"National Stadium, Tokyo (JPN)",qwen3-8b,prompt_v1,134,high,,,38,high
+1224,"Newtown Park Stadium, Wellington (NZL)",qwen3-8b,prompt_v1,134,high,,,39,low
+1225,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",qwen3-8b,prompt_v1,134,medium,,,108,high
+1226,"Olympiastadion, Stockholm (SWE)",qwen3-8b,prompt_v1,134,high,,,25,high
+1227,"Pista Carlos Lopes, Torres Vedras (POR)",qwen3-8b,prompt_v1,134,high,,,85,high
+1228,"Pista da Sogipa, Porto Alegre (BRA)",qwen3-8b,prompt_v1,134,high,,,32,high
+1229,"Pista de Atletismo Justo Román, Mar del Plata (ARG)",qwen3-8b,prompt_v1,134,medium,,,18,high
+1230,"Pista de Atletismo do Parque Ayrton Senna, Campo Grande (BRA)",qwen3-8b,prompt_v1,134,high,,,503,high
+1231,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",qwen3-8b,prompt_v1,134,high,,,48,high
+1232,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",qwen3-8b,prompt_v1,134,high,,,86,high
+1233,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",qwen3-8b,prompt_v1,134,medium,,,84,medium
+1234,"RG3 e Centro Desportivo da Madeira, Funchal (POR)",qwen3-8b,prompt_v1,134,high,,,85,high
+1235,"SA Athletic Stadium, Adelaide (AUS)",qwen3-8b,prompt_v1,134,high,,,28,low
+1236,"SOPAC, Sydney (AUS)",qwen3-8b,prompt_v1,134,high,,,30,high
+1237,"Sportanlage Sihlhölzli, Zürich (SUI)",qwen3-8b,prompt_v1,134,high,,,417,high
+1238,"Sports Park Mladost, Zagreb (CRO)",qwen3-8b,prompt_v1,134,high,,,116,high
+1239,"Stade Olympique de la Pontaise, Lausanne (SUI)",qwen3-8b,prompt_v1,134,high,,,592,medium
+1240,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",qwen3-8b,prompt_v1,134,medium,,,69,high
+1241,"Stadion BOSiR, Białystok (POL)",qwen3-8b,prompt_v1,134,high,,,147,high
+1242,"Stadion Radés, Radés (TUN)",qwen3-8b,prompt_v1,134,high,,,20,low
+1243,"Stadion Topolica, Bar (MNE)",qwen3-8b,prompt_v1,134,high,,,4,medium
+1244,"Stadion Zygmunta Szelesta, Warszawa (POL)",qwen3-8b,prompt_v1,134,high,,,98,high
+1245,"Stadion Śląski, Chorzów (POL)",qwen3-8b,prompt_v1,134,high,,,276,medium
+1246,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",qwen3-8b,prompt_v1,134,high,,,87,high
+1247,"Stadium Pierre-Quinon, Nantes (FRA)",qwen3-8b,prompt_v1,134,high,,,24,high
+1248,"Suhaim bin Hamad Stadium, Doha (QAT)",qwen3-8b,prompt_v1,134,high,,,11,medium
+1249,"Terry Fox AF, Ottawa (CAN)",qwen3-8b,prompt_v1,134,high,,,102,high
+1250,"Topsporthal Vlaanderen, Gent (BEL)",qwen3-8b,prompt_v1,134,high,,,12,high
+1251,"Toše Proeski Arena, Skopje (MKD)",qwen3-8b,prompt_v1,134,high,,,253,medium
+1252,"Track and Field Centre Outdoor Track, Toronto (CAN)",qwen3-8b,prompt_v1,134,medium,,,198,medium
+1253,"Track and Field Centre, Toronto (CAN)",qwen3-8b,prompt_v1,134,medium,,,198,medium
+1254,"Tullamore Harriers AC Stadium, Tullamore (IRL)",qwen3-8b,prompt_v1,134,medium,,,52,low
+1255,"Uppsala Friidrottsarena, Uppsala (SWE)",qwen3-8b,prompt_v1,134,high,,,20,high
+1256,"WA Athletics Stadium, Perth (AUS)",qwen3-8b,prompt_v1,134,high,,,21,high
+1257,"AIS Athletics Track, Canberra (AUS)",qwen3-8b,prompt_v2,134,high,,,609,medium
+1258,"AIT International Arena, Athlone (IRL)",qwen3-8b,prompt_v2,134,high,,,44,high
+1259,"Alexander Stadium, Birmingham (GBR)",qwen3-8b,prompt_v2,134,high,,,100,medium
+1260,"Altice Forum, Braga (POR)",qwen3-8b,prompt_v2,134,high,,,160,high
+1261,"Arena, Toruń (POL)",qwen3-8b,prompt_v2,134,medium,,,48,medium
+1262,"Armory Track&Field Center, New York, NY (USA)",qwen3-8b,prompt_v2,134,high,,,65,medium
+1263,"Ataköy Arena, Istanbul (TUR)",qwen3-8b,prompt_v2,134,medium,,,7,high
+1264,"Atatürk Stadyumu, Izmir (TUR)",qwen3-8b,prompt_v2,134,high,,,2,high
+1265,"Atletická hala, Ostrava (CZE)",qwen3-8b,prompt_v2,134,high,,,231,high
+1266,"Atletický stadion Slavia Praha, Praha (CZE)",qwen3-8b,prompt_v2,134,high,,,215,high
+1267,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)",qwen3-8b,prompt_v2,134,high,,,2,high
+1268,"Atletska dvorana, Beograd (SRB)",qwen3-8b,prompt_v2,134,high,,,138,high
+1269,"Atletski Stadion, Kraljevo (SRB)",qwen3-8b,prompt_v2,134,medium,,,198,high
+1270,"Atletski stadion, Sremska Mitrovica (SRB)",qwen3-8b,prompt_v2,134,high,,,84,high
+1271,"Bislett Stadion, Oslo (NOR)",qwen3-8b,prompt_v2,134,high,,,28,high
+1272,"Boudewijnstadion, Bruxelles (BEL)",qwen3-8b,prompt_v2,134,high,,,52,low
+1273,"COTP Stadium, São Paulo (BRA)",qwen3-8b,prompt_v2,780,high,,,758,high
+1274,"Camille Chamoun Sports City Stadium, Beirut (LBN)",qwen3-8b,prompt_v2,134,high,,,53,high
+1275,"Campo Comunale, Modena (ITA)",qwen3-8b,prompt_v2,134,high,,,46,high
+1276,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",qwen3-8b,prompt_v2,2240,high,,,2228,high
+1277,"Centro Desportivo Nacional do Jamor, Lisboa (POR)",qwen3-8b,prompt_v2,134,high,,,14,high
+1278,"Centro Gabre Gabric, Brescia (ITA)",qwen3-8b,prompt_v2,134,medium,,,128,high
+1279,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",qwen3-8b,prompt_v2,134,high,,,239,high
+1280,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)",qwen3-8b,prompt_v2,134,high,,,135,high
+1281,"Complexo Desportivo de Lousada, Lousada (POR)",qwen3-8b,prompt_v2,134,high,,,335,high
+1282,"Coque Sport Center, Luxembourg (LUX)",qwen3-8b,prompt_v2,134,medium,,,336,medium
+1283,"Egyetemi Stadion, Veszprém (HUN)",qwen3-8b,prompt_v2,134,high,,,276,medium
+1284,"Estadio Atlético de la VIDENA, Lima (PER)",qwen3-8b,prompt_v2,134,high,,,174,high
+1285,"Estadio Vallehermoso, Madrid (ESP)",qwen3-8b,prompt_v2,134,medium,,,702,high
+1286,"Estádio 1o de Maio, Braga (POR)",qwen3-8b,prompt_v2,134,high,,,174,low
+1287,"Estádio Municipal Fontelo, Viseu (POR)",qwen3-8b,prompt_v2,134,high,,,461,high
+1288,"Estádio Municipal Manuela Machado, Viana do Castelo (POR)",qwen3-8b,prompt_v2,134,high,,,33,low
+1289,"Fana Stadion, Bergen (NOR)",qwen3-8b,prompt_v2,134,high,,,38,high
+1290,"Foothills Athletic Park, Calgary (CAN)",qwen3-8b,prompt_v2,1340,high,,,1096,high
+1291,"GPS Stadium, Nicosia (CYP)",qwen3-8b,prompt_v2,134,high,,,183,high
+1292,"Golęcin Stadion, Poznan (POL)",qwen3-8b,prompt_v2,134,high,,,71,high
+1293,"Hayward Field, Eugene, OR (USA)",qwen3-8b,prompt_v2,134,high,,,128,low
+1294,"Hvidovre Stadion, Hvidovre (DEN)",qwen3-8b,prompt_v2,134,high,,,10,high
+1295,"Jāņa Daliņa Manēža, Valmiera (LAT)",qwen3-8b,prompt_v2,134,medium,,,49,high
+1296,"Jāņa Daliņa Stadium, Valmiera (LAT)",qwen3-8b,prompt_v2,134,high,,,39,high
+1297,"KMSHVSM Arena, Kyiv (UKR)",qwen3-8b,prompt_v2,134,high,,,158,high
+1298,"Kadrioru staadion, Tallinn (EST)",qwen3-8b,prompt_v2,134,high,,,8,high
+1299,"Kirani James Athletic Stadium, St. George's (GRN)",qwen3-8b,prompt_v2,134,high,,,8,high
+1300,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",qwen3-8b,prompt_v2,134,high,,,36,high
+1301,"LAZ Wien, Wien (AUT)",qwen3-8b,prompt_v2,134,high,,,186,low
+1302,"Laugardalshöll, Reykjavík (ISL)",qwen3-8b,prompt_v2,134,high,,,14,high
+1303,"Leichtathletikarena, Eisenstadt (AUT)",qwen3-8b,prompt_v2,134,high,,,157,high
+1304,"McArthur Stadium, Potchefstroom (RSA)",qwen3-8b,prompt_v2,1340,high,,,1346,high
+1305,"Mestský Stadion, Ostrava (CZE)",qwen3-8b,prompt_v2,134,high,,,230,high
+1306,Montevideo (URU),qwen3-8b,prompt_v2,134,high,,,45,high
+1307,"Mt Smart Stadium, Auckland (NZL)",qwen3-8b,prompt_v2,134,high,,,18,medium
+1308,"Městský atletický stadion, Pardubice (CZE)",qwen3-8b,prompt_v2,134,high,,,220,high
+1309,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",qwen3-8b,prompt_v2,134,high,,,9,high
+1310,"National Stadium, Kingston (JAM)",qwen3-8b,prompt_v2,134,high,,,78,low
+1311,"National Stadium, Tokyo (JPN)",qwen3-8b,prompt_v2,134,high,,,38,high
+1312,"Newtown Park Stadium, Wellington (NZL)",qwen3-8b,prompt_v2,134,high,,,39,low
+1313,"Olympiastadion, Stockholm (SWE)",qwen3-8b,prompt_v2,134,high,,,25,high
+1314,"Omnisport, Apeldoorn (NED)",qwen3-8b,prompt_v2,134,high,,,9,high
+1315,"Paavo Nurmen Stadion, Turku (FIN)",qwen3-8b,prompt_v2,134,high,,,28,high
+1316,"Pista Atlética Mario Recordón, Santiago de Chile (CHI)",qwen3-8b,prompt_v2,134,high,,,571,medium
+1317,"Pista Basilio Rodriguez, Carolina (PUR)",qwen3-8b,prompt_v2,134,high,,,8,high
+1318,"Pista Carlos Lopes, Torres Vedras (POR)",qwen3-8b,prompt_v2,134,high,,,85,high
+1319,"Pista da Sogipa, Porto Alegre (BRA)",qwen3-8b,prompt_v2,134,high,,,32,high
+1320,"Pista de Atletismo SND, Asunción (PAR)",qwen3-8b,prompt_v2,134,high,,,149,high
+1321,"Pista de Atletismo do CIEF, Brasilia (BRA)",qwen3-8b,prompt_v2,1340,high,,,1115,high
+1322,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",qwen3-8b,prompt_v2,134,medium,,,48,high
+1323,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",qwen3-8b,prompt_v2,134,high,,,84,medium
+1324,"RG3 e Centro Desportivo da Madeira, Funchal (POR)",qwen3-8b,prompt_v2,134,high,,,85,high
+1325,"Regional Sport Complex, Brest (BLR)",qwen3-8b,prompt_v2,134,medium,,,142,high
+1326,"SA Athletic Stadium, Adelaide (AUS)",qwen3-8b,prompt_v2,134,high,,,28,low
+1327,"SOPAC, Sydney (AUS)",qwen3-8b,prompt_v2,134,high,,,30,high
+1328,"Sollentunavallen, Sollentuna (SWE)",qwen3-8b,prompt_v2,134,high,,,25,high
+1329,"Spar Nord Arena, Skive (DEN)",qwen3-8b,prompt_v2,134,high,,,6,high
+1330,"Sports Park Mladost, Zagreb (CRO)",qwen3-8b,prompt_v2,134,high,,,116,high
+1331,"Stade L. Achille, Fort-de-France (FRA)",qwen3-8b,prompt_v2,134,medium,,,11,high
+1332,"Stade Olympique de la Pontaise, Lausanne (SUI)",qwen3-8b,prompt_v2,134,high,,,592,medium
+1333,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",qwen3-8b,prompt_v2,134,high,,,69,high
+1334,"Stadio Comunale, Bellinzona (SUI)",qwen3-8b,prompt_v2,134,high,,,228,high
+1335,"Stadio Guidobaldi, Rieti (ITA)",qwen3-8b,prompt_v2,134,high,,,386,high
+1336,"Stadio M.S. Cozzoli, Molfetta (ITA)",qwen3-8b,prompt_v2,134,high,,,7,high
+1337,"Stadion BOSiR, Białystok (POL)",qwen3-8b,prompt_v2,134,high,,,147,high
+1338,"Stadion Radés, Radés (TUN)",qwen3-8b,prompt_v2,134,medium,,,20,low
+1339,"Stadion Topolica, Bar (MNE)",qwen3-8b,prompt_v2,134,high,,,4,medium
+1340,"Stadion Zygmunta Szelesta, Warszawa (POL)",qwen3-8b,prompt_v2,134,high,,,98,high
+1341,"Stadion Śląski, Chorzów (POL)",qwen3-8b,prompt_v2,134,high,,,276,medium
+1342,"Stadium Pierre-Quinon, Nantes (FRA)",qwen3-8b,prompt_v2,134,medium,,,24,high
+1343,"Suhaim bin Hamad Stadium, Doha (QAT)",qwen3-8b,prompt_v2,134,high,,,11,medium
+1344,"T. Robinson Stadium, Nassau (BAH)",qwen3-8b,prompt_v2,134,high,,,6,high
+1345,"Tamme staadion, Tartu (EST)",qwen3-8b,prompt_v2,134,high,,,54,high
+1346,"Terry Fox AF, Ottawa (CAN)",qwen3-8b,prompt_v2,134,high,,,102,high
+1347,"TipsArena, Linz (AUT)",qwen3-8b,prompt_v2,134,high,,,319,high
+1348,"Topsporthal Vlaanderen, Gent (BEL)",qwen3-8b,prompt_v2,134,high,,,12,high
+1349,"Toše Proeski Arena, Skopje (MKD)",qwen3-8b,prompt_v2,134,high,,,253,medium
+1350,"Track and Field Centre Outdoor Track, Toronto (CAN)",qwen3-8b,prompt_v2,134,high,,,198,medium
+1351,"Track and Field Centre, Toronto (CAN)",qwen3-8b,prompt_v2,134,high,,,198,medium
+1352,"Uppsala Friidrottsarena, Uppsala (SWE)",qwen3-8b,prompt_v2,134,high,,,20,high
+1353,"WA Athletics Stadium, Perth (AUS)",qwen3-8b,prompt_v2,134,high,,,21,high
+1354,"Yanmar Stadium Nagai, Osaka (JPN)",qwen3-8b,prompt_v2,134,high,,,23,high
+1355,"Športová hala Elán, Bratislava (SVK)",qwen3-8b,prompt_v2,134,high,,,137,high
+1356,"Štadión SNP, Banská Bystrica (SVK)",qwen3-8b,prompt_v2,134,high,,,343,medium
+1357,"AIS Athletics Track, Canberra (AUS)",qwen3-8b,prompt_v3,134,medium,,,609,medium
+1358,"AIT International Arena, Athlone (IRL)",qwen3-8b,prompt_v3,134,medium,,,44,high
+1359,"Alexander Stadium, Birmingham (GBR)",qwen3-8b,prompt_v3,134,high,,,100,medium
+1360,"Arena Stade Couvert, Liévin (FRA)",qwen3-8b,prompt_v3,134,high,,,71,high
+1361,"Armory Track&Field Center, New York, NY (USA)",qwen3-8b,prompt_v3,134,medium,,,65,medium
+1362,"Atatürk Stadyumu, Izmir (TUR)",qwen3-8b,prompt_v3,134,high,,,2,high
+1363,"Atletická hala, Ostrava (CZE)",qwen3-8b,prompt_v3,134,high,,,231,high
+1364,"Atletický stadion Slavia Praha, Praha (CZE)",qwen3-8b,prompt_v3,134,high,,,215,high
+1365,"Atletska dvorana, Beograd (SRB)",qwen3-8b,prompt_v3,134,medium,,,138,high
+1366,"Atletski stadion, Sremska Mitrovica (SRB)",qwen3-8b,prompt_v3,134,medium,,,84,high
+1367,"Bislett Stadion, Oslo (NOR)",qwen3-8b,prompt_v3,134,high,,,28,high
+1368,"Bærum Idrettspark, Rud, Bærum (NOR)",qwen3-8b,prompt_v3,134,medium,,,33,high
+1369,"CNDA, Bragança Paulista (BRA)",qwen3-8b,prompt_v3,134,high,,,855,high
+1370,"COTP Stadium, São Paulo (BRA)",qwen3-8b,prompt_v3,780,high,,,758,high
+1371,"Camille Chamoun Sports City Stadium, Beirut (LBN)",qwen3-8b,prompt_v3,134,high,,,53,high
+1372,"Campo Comunale, Modena (ITA)",qwen3-8b,prompt_v3,134,high,,,46,high
+1373,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",qwen3-8b,prompt_v3,2240,high,,,2228,high
+1374,"Centro Desportivo Nacional do Jamor, Lisboa (POR)",qwen3-8b,prompt_v3,134,high,,,14,high
+1375,"Centro Nacional de Lançamentos, Leiria (POR)",qwen3-8b,prompt_v3,134,high,,,27,high
+1376,"Egyetemi Stadion, Veszprém (HUN)",qwen3-8b,prompt_v3,134,medium,,,276,medium
+1377,"Estadio Atlético de la VIDENA, Lima (PER)",qwen3-8b,prompt_v3,134,high,,,174,high
+1378,"Estádio 1o de Maio, Braga (POR)",qwen3-8b,prompt_v3,134,high,,,174,low
+1379,"Estádio Municipal Manuela Machado, Viana do Castelo (POR)",qwen3-8b,prompt_v3,134,medium,,,33,low
+1380,"Fana Stadion, Bergen (NOR)",qwen3-8b,prompt_v3,134,high,,,38,high
+1381,"Foothills Athletic Park, Calgary (CAN)",qwen3-8b,prompt_v3,1340,medium,,,1096,high
+1382,"Friidrottens Hus, Göteborg (SWE)",qwen3-8b,prompt_v3,134,medium,,,21,high
+1383,"Givat Ram Stadium, Jerusalem (ISR)",qwen3-8b,prompt_v3,134,high,,,747,medium
+1384,"Hadar Yosef Stadium, Tel Aviv (ISR)",qwen3-8b,prompt_v3,134,medium,,,12,high
+1385,"Hayward Field, Eugene, OR (USA)",qwen3-8b,prompt_v3,134,high,,,128,low
+1386,"Hvidovre Stadion, Hvidovre (DEN)",qwen3-8b,prompt_v3,134,high,,,10,high
+1387,"Jāņa Daliņa Stadium, Valmiera (LAT)",qwen3-8b,prompt_v3,134,medium,,,39,high
+1388,"KMSHVSM Arena, Kyiv (UKR)",qwen3-8b,prompt_v3,134,high,,,158,high
+1389,"Kadrioru staadion, Tallinn (EST)",qwen3-8b,prompt_v3,134,high,,,8,high
+1390,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",qwen3-8b,prompt_v3,134,high,,,36,high
+1391,"LAZ Wien, Wien (AUT)",qwen3-8b,prompt_v3,134,medium,,,186,low
+1392,"Laugardalshöll, Reykjavík (ISL)",qwen3-8b,prompt_v3,134,high,,,14,high
+1393,"Leichtathletikarena, Eisenstadt (AUT)",qwen3-8b,prompt_v3,134,medium,,,157,high
+1394,"McArthur Stadium, Potchefstroom (RSA)",qwen3-8b,prompt_v3,1340,medium,,,1346,high
+1395,"Mestský Stadion, Ostrava (CZE)",qwen3-8b,prompt_v3,134,high,,,230,high
+1396,Montevideo (URU),qwen3-8b,prompt_v3,134,high,,,45,high
+1397,"Mt Smart Stadium, Auckland (NZL)",qwen3-8b,prompt_v3,134,high,,,18,medium
+1398,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",qwen3-8b,prompt_v3,134,high,,,9,high
+1399,"National Stadium, Kingston (JAM)",qwen3-8b,prompt_v3,134,high,,,78,low
+1400,"National Stadium, Tokyo (JPN)",qwen3-8b,prompt_v3,134,high,,,38,high
+1401,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",qwen3-8b,prompt_v3,134,medium,,,108,high
+1402,"Olympiastadion, Stockholm (SWE)",qwen3-8b,prompt_v3,134,high,,,25,high
+1403,"Omnisport, Apeldoorn (NED)",qwen3-8b,prompt_v3,134,high,,,9,high
+1404,"Philsport Track Oval, Pasig (PHI)",qwen3-8b,prompt_v3,134,medium,,,39,high
+1405,"Pilditch Stadium, Pretoria (RSA)",qwen3-8b,prompt_v3,1340,high,,,1325,high
+1406,"Pista da Sogipa, Porto Alegre (BRA)",qwen3-8b,prompt_v3,134,medium,,,32,high
+1407,"Pista de Atletismo SND, Asunción (PAR)",qwen3-8b,prompt_v3,134,high,,,149,high
+1408,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",qwen3-8b,prompt_v3,134,medium,,,48,high
+1409,"RG3 e Centro Desportivo da Madeira, Funchal (POR)",qwen3-8b,prompt_v3,134,medium,,,85,high
+1410,"SA Athletic Stadium, Adelaide (AUS)",qwen3-8b,prompt_v3,134,medium,,,28,low
+1411,"SOPAC, Sydney (AUS)",qwen3-8b,prompt_v3,134,high,,,30,high
+1412,"Sollentunavallen, Sollentuna (SWE)",qwen3-8b,prompt_v3,134,medium,,,25,high
+1413,"Sports Park Mladost, Zagreb (CRO)",qwen3-8b,prompt_v3,134,high,,,116,high
+1414,"Stade L. Achille, Fort-de-France (FRA)",qwen3-8b,prompt_v3,134,medium,,,11,high
+1415,"Stade Olympique de la Pontaise, Lausanne (SUI)",qwen3-8b,prompt_v3,134,high,,,592,medium
+1416,"Stadio Comunale, Bellinzona (SUI)",qwen3-8b,prompt_v3,134,medium,,,228,high
+1417,"Stadio M.S. Cozzoli, Molfetta (ITA)",qwen3-8b,prompt_v3,134,high,,,7,high
+1418,"Stadion Radés, Radés (TUN)",qwen3-8b,prompt_v3,134,medium,,,20,low
+1419,"Stadion Topolica, Bar (MNE)",qwen3-8b,prompt_v3,134,high,,,4,medium
+1420,"Stadion Śląski, Chorzów (POL)",qwen3-8b,prompt_v3,134,high,,,276,medium
+1421,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",qwen3-8b,prompt_v3,134,high,,,87,high
+1422,"Stadium Pierre-Quinon, Nantes (FRA)",qwen3-8b,prompt_v3,134,high,,,24,high
+1423,"Suhaim bin Hamad Stadium, Doha (QAT)",qwen3-8b,prompt_v3,134,medium,,,11,medium
+1424,"T. Robinson Stadium, Nassau (BAH)",qwen3-8b,prompt_v3,134,medium,,,6,high
+1425,"Terry Fox AF, Ottawa (CAN)",qwen3-8b,prompt_v3,134,medium,,,102,high
+1426,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",qwen3-8b,prompt_v3,134,medium,,,47,medium
+1427,"TipsArena, Linz (AUT)",qwen3-8b,prompt_v3,134,high,,,319,high
+1428,"Toše Proeski Arena, Skopje (MKD)",qwen3-8b,prompt_v3,134,high,,,253,medium
+1429,"Track and Field Centre Outdoor Track, Toronto (CAN)",qwen3-8b,prompt_v3,134,high,,,198,medium
+1430,"Tullamore Harriers AC Stadium, Tullamore (IRL)",qwen3-8b,prompt_v3,134,high,,,52,low
+1431,"Uppsala Friidrottsarena, Uppsala (SWE)",qwen3-8b,prompt_v3,134,high,,,20,high
+1432,"WA Athletics Stadium, Perth (AUS)",qwen3-8b,prompt_v3,134,medium,,,21,high
+1433,"Yanmar Stadium Nagai, Osaka (JPN)",qwen3-8b,prompt_v3,134,high,,,23,high
+1434,"Športová hala Elán, Bratislava (SVK)",qwen3-8b,prompt_v3,134,high,,,137,high
+1435,"Alexander Stadium, Birmingham (GBR)",qwen3-8b,prompt_v4,134,high,,,100,medium
+1436,"Atletický stadion Slavia Praha, Praha (CZE)",qwen3-8b,prompt_v4,134,high,,,215,high
+1437,"Bislett Stadion, Oslo (NOR)",qwen3-8b,prompt_v4,134,high,,,28,high
+1438,"Centro Gabre Gabric, Brescia (ITA)",qwen3-8b,prompt_v4,134,medium,,,128,high
+1439,"Estadio Atlético de la VIDENA, Lima (PER)",qwen3-8b,prompt_v4,134,high,,,174,high
+1440,"Estádio 1o de Maio, Braga (POR)",qwen3-8b,prompt_v4,134,high,,,174,low
+1441,"Fana Stadion, Bergen (NOR)",qwen3-8b,prompt_v4,134,high,,,38,high
+1442,"Hayward Field, Eugene, OR (USA)",qwen3-8b,prompt_v4,134,high,,,128,low
+1443,"LAZ Wien, Wien (AUT)",qwen3-8b,prompt_v4,134,high,,,186,low
+1444,"Laugardalshöll, Reykjavík (ISL)",qwen3-8b,prompt_v4,134,high,,,14,high
+1445,"Mt Smart Stadium, Auckland (NZL)",qwen3-8b,prompt_v4,134,high,,,18,medium
+1446,"Městský atletický stadion, Pardubice (CZE)",qwen3-8b,prompt_v4,134,high,,,220,high
+1447,"National Stadium, Tokyo (JPN)",qwen3-8b,prompt_v4,134,high,,,38,high
+1448,"Paavo Nurmen Stadion, Turku (FIN)",qwen3-8b,prompt_v4,134,high,,,28,high
+1449,"Stade L. Achille, Fort-de-France (FRA)",qwen3-8b,prompt_v4,10,high,,,11,high
+1450,"Stade Olympique de la Pontaise, Lausanne (SUI)",qwen3-8b,prompt_v4,350,medium,,,592,medium
+1451,"Stadion BOSiR, Białystok (POL)",qwen3-8b,prompt_v4,134,high,,,147,high
+1452,"Stadion Zygmunta Szelesta, Warszawa (POL)",qwen3-8b,prompt_v4,134,high,,,98,high
+1453,"Stadion Śląski, Chorzów (POL)",qwen3-8b,prompt_v4,134,medium,,,276,medium
+1454,"Suhaim bin Hamad Stadium, Doha (QAT)",qwen3-8b,prompt_v4,10,medium,,,11,medium
+1455,"Toše Proeski Arena, Skopje (MKD)",qwen3-8b,prompt_v4,500,medium,,,253,medium
+1456,"Športová hala Elán, Bratislava (SVK)",qwen3-8b,prompt_v4,134,high,,,137,high
+1457,"Štadión SNP, Banská Bystrica (SVK)",qwen3-8b,prompt_v4,300,medium,,,343,medium
