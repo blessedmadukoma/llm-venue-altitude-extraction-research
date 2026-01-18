@@ -212,3 +212,4 @@ allCountries.txt
 geonames_athletics_relevant.parquet
 geoname_extraction/
 openrouter_activity_2026-01-15_old.csv
+.DS_Store
