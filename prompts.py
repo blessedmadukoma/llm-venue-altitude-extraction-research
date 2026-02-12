@@ -19,7 +19,7 @@ Response format (JSON object, no extra text):
 }}
 """
 
-# Variant B: With recent mentions (sweet spot — adds context without overload)
+# Variant B: With recent mentions (adds context without overload)
 PROMPT_2_TEMPLATE_RECENT = """
 You are a sports geography expert. Provide ONE best altitude (meters above sea level) representing this venue across uses. Prefer most recent/common if relocated/renovated.
 
@@ -42,7 +42,7 @@ Response format (JSON object, no extra text):
 }}
 """
 
-# Variant C: Old + new mentions (for relocation detection)
+# Variant C: Old + new mentions (includes relocation detection)
 PROMPT_3_TEMPLATE_OLD_NEW = """
 You are a sports geography expert. Determine ONE representative altitude (meters above sea level) for this venue. If mentions show relocation/major change, prefer most recent and note in source.
 
