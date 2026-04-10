@@ -5,7 +5,7 @@ You are a sports geography expert. Determine the best single altitude (meters ab
 Venue: {canonical_venue}
 
 CRITICAL RULES:
-- If uncertain, use "Unknown" for altitude_meters rather than guessing
+- altitude_meters MUST be an integer. If uncertain, use -1 instead of guessing.
 - Prioritize official stadium/venue elevation over city average
 - For indoor venues, use building/floor elevation
 - Consider performance impact (e.g., Mexico City ~2240m)
@@ -13,7 +13,7 @@ CRITICAL RULES:
 Response format (JSON object, no extra text):
 {{
     "canonical_venue": "{canonical_venue}",
-    "altitude_meters": 134 or "Unknown",
+    "altitude_meters": 134,
     "confidence": "High" or "Medium" or "Low",
     "source": "Brief reasoning/source"
 }}
@@ -28,7 +28,7 @@ Canonical venue: {canonical_venue}
 Recent/important competitions: {recent_mentions}
 
 CRITICAL RULES:
-- If uncertain, use "Unknown" for altitude_meters rather than guessing
+- altitude_meters MUST be an integer. If uncertain, use -1 instead of guessing.
 - Prioritize official stadium/venue elevation over city average
 - For indoor venues, use building/floor elevation
 - Historical context: some venues renovated/relocated
@@ -36,7 +36,7 @@ CRITICAL RULES:
 Response format (JSON object, no extra text):
 {{
 "canonical_venue": "{canonical_venue}",
-"altitude_meters": 134 or "Unknown",
+"altitude_meters": 134,
 "confidence": "High" or "Medium" or "Low",
 "source": "Reasoning/source, note any changes"
 }}
@@ -52,7 +52,7 @@ Oldest competitions: {oldest_mentions}
 Newest competitions: {newest_mentions}
 
 CRITICAL RULES:
-- If uncertain, use "Unknown" for altitude_meters rather than guessing
+- altitude_meters MUST be an integer. If uncertain, use -1 instead of guessing.
 - Prioritize official stadium/venue elevation over city average
 - For indoor venues, use building/floor elevation
 - Altitude affects performance (e.g., high altitude like Nairobi ~1795m)
@@ -60,7 +60,7 @@ CRITICAL RULES:
 Response format (JSON object, no extra text):
 {{
 "canonical_venue": "{canonical_venue}",
-"altitude_meters": 134 or "Unknown",
+"altitude_meters": 134,
 "confidence": "High" or "Medium" or "Low",
 "source": "Reasoning/source, including any historical changes"
 }}
@@ -76,13 +76,13 @@ Examples:
 - Venue: Estadio Olímpico Universitario, Mexico City (MEX)
   Altitude: 2240, Confidence: High, Source: High-altitude venue, consistent across Olympics/competitions
 - Venue: Unknown Local Track, Small Town (XYZ)
-  Altitude: Unknown, Confidence: Low, Source: No reliable data found
+  Altitude: -1, Confidence: Low, Source: No reliable data found
 
 Now for: {canonical_venue}
 Mentions: {recent_mentions}
 
 CRITICAL RULES:
-- If uncertain, use "Unknown" for altitude_meters rather than guessing
+- altitude_meters MUST be an integer. If uncertain, use -1 instead of guessing.
 - Prioritize official stadium/venue elevation over city average
 - For indoor venues, use building/floor elevation
 - Altitude affects performance (e.g., high altitude like Nairobi ~1795m)
@@ -90,8 +90,46 @@ CRITICAL RULES:
 Response format (JSON object, no extra text):
 {{
 "canonical_venue": "{canonical_venue}",
-"altitude_meters": 134 or "Unknown",
+"altitude_meters": 134,
 "confidence": "High" or "Medium" or "Low",
 "source": "Reasoning/source, including any historical changes"
+}}
+"""
+
+# Bulk inference: raw crawled venue string → canonical name + altitude
+# Used for the ~4k unmatched competition venues in venue_altitudes pipeline.
+# Returns -1 for unknown so altitude_m is always a parseable integer.
+PROMPT_BULK_TEMPLATE = """
+You are a sports geography expert specialising in athletics venues worldwide.
+
+Given a raw venue string scraped from a competition database, you must:
+1. Produce a normalised canonical venue name (Title Case, no parenthetical country codes, no special characters)
+2. Estimate the altitude in metres above sea level
+
+Examples:
+- Raw: "Hayward Field, Eugene (USA)"
+  canonical_venue: "Hayward Field, Eugene", altitude_meters: 134, confidence: "high"
+- Raw: "Estadio Olímpico Universitario, Ciudad de México (MEX)"
+  canonical_venue: "Estadio Olimpico Universitario, Mexico City", altitude_meters: 2240, confidence: "high"
+- Raw: "Stade du Roi Baudouin, Bruxelles (BEL)"
+  canonical_venue: "Stade du Roi Baudouin, Brussels", altitude_meters: 15, confidence: "high"
+- Raw: "Some Unknown Track, Smallville (XYZ)"
+  canonical_venue: "Unknown Track, Smallville", altitude_meters: -1, confidence: "low"
+
+Venue to process: {raw_venue}
+
+CRITICAL RULES:
+- altitude_meters MUST be an integer. NEVER a string or null.
+- If altitude cannot be determined with reasonable confidence, use -1. Do NOT guess.
+- Prioritise official stadium/venue elevation over city average elevation.
+- For indoor venues, use the building/floor elevation.
+
+Respond with ONLY a JSON object, no extra text or markdown fences:
+{{
+    "raw_venue_string": "{raw_venue}",
+    "canonical_venue": "Normalised venue name",
+    "altitude_meters": 134,
+    "confidence": "high",
+    "reasoning": "Brief source or reasoning"
 }}
 """

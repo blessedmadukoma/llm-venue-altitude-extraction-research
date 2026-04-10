@@ -1,0 +1,136 @@
+venue,n_competitions,first_seen,last_seen
+"Stadion Míru, Tábor (CZE)",15,2023-06-10,2025-09-20
+"Mestský Stadion Sletište, Kladno (CZE)",14,2020-09-16,2025-08-30
+"National Stadium, Gaborone (BOT)",13,2021-05-15,2025-05-16
+"Franklin Field, Philadelphia, PA (USA)",13,2022-04-28,2025-07-19
+"Stadio Quercia, Rovereto (ITA)",12,2020-09-08,2025-09-13
+"Tsirio Stadium, Limassol (CYP)",11,2021-04-17,2025-07-04
+"Yecheon Stadium, Yecheon (KOR)",11,2023-04-13,2025-09-03
+"Truman Bodden Sports Complex, George Town (CAY)",11,2023-01-28,2025-06-27
+"Mandela National Stadium, Kampala (UGA)",9,2019-07-26,2025-07-24
+"Werner-von-Linde-Halle, München (GER)",9,2023-01-15,2025-01-25
+"Ishin Me-Life Stadium, Yamaguchi (JPN)",8,2021-10-16,2025-09-26
+"Estadi Olímpic Camilo Cano, La Nucia (ESP)",7,2019-08-31,2025-10-04
+"Stadion Trinermatten, Zofingen (SUI)",7,2021-06-05,2025-09-12
+"Drake Stadium, Des Moines, IA (USA)",7,2018-06-21,2025-04-23
+"HFC Bank Stadium, Suva (FIJ)",5,2024-06-01,2024-06-06
+"Stadion Lachen, Thun (SUI)",5,2023-06-10,2025-05-24
+"Mike A. Myers Stadium, Austin, TX (USA)",5,2023-03-04,2025-05-01
+"Stade Pierre de Coubertin, Montgeron (FRA)",5,2023-07-05,2025-06-27
+"Paula Radcliffe Stadium, Loughborough (GBR)",4,2023-06-10,2025-06-21
+"x-bionic sphere, Šamorín (SVK)",4,2020-09-11,2025-05-31
+"Dinamo National Olympic Stadium, Minsk (BLR)",4,2019-09-09,2024-06-27
+"Alumni Stadium, Guelph (CAN)",4,2022-06-08,2025-07-20
+"Coral Gables, FL (USA)",3,2016-04-08,2017-04-07
+"Iharos Sándor Atlétikai Pálya, Budapest (HUN)",3,2023-07-01,2025-07-11
+"Cooks Gardens, Whanganui (NZL)",3,2021-01-30,2025-11-08
+"Sannerudsvallen, Kil (SWE)",3,2023-06-06,2025-09-06
+Hamilton (NZL),3,2018-02-10,2019-02-09
+"Stade Sottevillais 76, Sotteville-lès-Rouen (FRA)",3,2021-07-11,2023-07-07
+Pireaus (GRE),2,2018-02-10,2019-02-09
+Réduit (MRI),2,2016-05-28,2018-07-06
+"Polideportivo Municipal, Andújar (ESP)",2,2021-05-22,2024-05-17
+Montreuil (FRA),2,2018-06-19,2019-06-11
+Santa Cruz de la Sierra (BOL),2,2024-05-25,2025-10-11
+"Independence Stadium, Windhoek (NAM)",2,2019-04-05,2024-04-26
+Karlstad (SWE),2,2018-07-25,2019-07-03
+Jyväskylä (FIN),2,2018-07-19,2019-06-19
+Luzern (SUI),2,2018-07-09,2019-07-09
+"Strovolos, GPS Stadium, Nicosia (CYP)",2,2020-08-06,2022-03-04
+Miramas (FRA),2,2019-01-19,2019-02-16
+Hangzhou (CHN),2,2019-03-19,2025-05-24
+Elbasan (ALB),1,2018-05-29,2018-05-29
+"Iharos Sándor Atlétikai Pálya futófolyosó, Budapest (HUN)",1,2024-02-03,2024-02-03
+"Ergo Arena, Sopot (POL)",1,2014-03-07,2014-03-07
+Suva (FIJ),1,2018-08-21,2018-08-21
+Burnaby (CAN),1,2018-06-26,2018-06-26
+Napoli (ITA),1,2019-07-08,2019-07-08
+Arak (IRI),1,2021-05-22,2021-05-22
+"Zoufftgen, Dudelange (LUX)",1,2024-04-21,2025-04-05
+"National Stadium, Baku (AZE)",1,2015-06-21,2015-06-21
+Bhubaneshwar (IND),1,2018-09-25,2018-09-25
+Colombo (SRI),1,2018-08-03,2021-10-30
+Stara Zagora (BUL),1,2018-07-20,2018-07-20
+Leonora (GUY),1,2018-06-22,2018-06-22
+Uppsala (SWE),1,2018-02-11,2018-02-11
+Cork City (IRL),1,2019-08-14,2019-08-14
+Nembro (ITA),1,2019-06-28,2019-06-28
+Hobart (AUS),1,2019-03-15,2019-03-15
+Encarnación (PAR),1,2021-09-25,2021-09-25
+Soria (ESP),1,2023-07-22,2023-07-22
+"Morodok Techo National Stadium, Phnom Penh (CAM)",1,2023-05-06,2023-05-06
+Gimhae (KOR),1,2024-08-17,2024-08-17
+Pitesti (ROU),1,2018-07-26,2019-07-30
+Bydgoszcz (POL),1,2018-05-29,2018-05-29
+"Kombank Arena, Beograd (SRB)",1,2017-03-03,2017-03-03
+Łomża (POL),1,2018-04-28,2018-04-28
+"Bressanone, Trentino-Alto Adige (ITA)",1,2019-07-26,2019-07-26
+Cheboksary (RUS),1,2019-07-24,2019-07-24
+"Stade du 04 Aout, Ouagadougou (BUR)",1,2021-05-15,2025-09-27
+"Sparbanken Arena, Skara (SWE)",1,2021-06-06,2025-06-06
+Hawassa (ETH),1,2022-03-28,2022-03-28
+Trikala (GRE),1,2023-05-13,2023-05-13
+"Stade de France, Paris (FRA)",1,2024-08-01,2024-08-01
+"Atletiekclub AAC Amsterdam, Sportpark Ookmeer, Amsterdam (NED)",1,2025-04-25,2025-04-25
+Beijing (CHN),1,2024-07-06,2024-07-06
+Iksan (KOR),1,2024-07-06,2024-07-06
+"Deveti Septemvri Stadium, Plovdiv (BUL)",1,2023-07-18,2023-07-18
+Khorramabad (IRI),1,2022-05-12,2022-05-12
+"Østerbro, Copenhagen (DEN)",1,2012-08-18,2012-08-18
+Uddevalla (SWE),1,2018-09-08,2018-09-08
+Mashhad (IRI),1,2018-06-15,2022-06-01
+Pliezhausen (GER),1,2018-05-12,2018-05-12
+"Knoxville, TN (USA)",1,2018-04-12,2018-04-12
+Berlin (GER),1,2019-08-03,2019-08-03
+Cergy-Pontoise (FRA),1,2019-06-10,2019-06-10
+Lisse (NED),1,2019-05-18,2019-05-18
+Victoria (CAN),1,2021-06-09,2021-06-09
+"Allmend, Meilen (SUI)",1,2021-05-29,2025-06-14
+Karlsruhe (GER),1,2022-05-21,2022-05-21
+Busan (KOR),1,2022-08-19,2022-08-19
+Shanghai (CHN),1,2022-09-03,2022-09-03
+"Fayetteville, AR (USA)",1,2010-04-30,2017-05-05
+Cairns (AUS),1,2010-09-25,2010-09-25
+St-Maur (FRA),1,2015-04-29,2015-04-29
+Kaduna (NGR),1,2019-07-25,2019-07-25
+Cluj-Napoca (ROU),1,2019-07-02,2019-07-02
+Rehlingen (GER),1,2019-06-09,2019-06-09
+St. Pölten (AUT),1,2019-05-30,2019-05-30
+"Stade Du Moulin Boisseau, Carquefou (FRA)",1,2021-06-11,2025-06-28
+Daegu (KOR),1,2022-04-19,2022-04-19
+"Glasgow Arena, Glasgow (GBR)",1,2024-03-01,2024-03-01
+"Centro de Atletismo de Tenerife, Tenerife (ESP)",1,2025-04-26,2025-04-26
+"Stadion RKS Skra, Warszawa (POL)",1,2025-04-26,2025-04-26
+"Peace and Friendship Indoor Hall, Piraeus (GRE)",1,2025-02-22,2025-02-22
+Sandnes (NOR),1,2019-02-23,2019-02-23
+Nerja (ESP),1,2019-12-21,2019-12-21
+Vieux-Fort (LCA),1,2018-06-17,2018-06-17
+Kaohsiung (TPE),1,2018-10-19,2018-10-19
+Sasolburg (RSA),1,2014-03-15,2014-03-15
+Getafe (ESP),1,2018-07-21,2018-07-21
+Santry (IRL),1,2019-07-26,2019-07-26
+Trieste (ITA),1,2019-07-06,2019-07-06
+Amiens (FRA),1,2019-03-02,2019-03-02
+Vilnius (LTU),1,2019-01-26,2019-01-26
+"Stade du 26 Mars, Bamako (MLI)",1,2020-09-26,2020-09-26
+"Bottnaryds IP, Bottnaryd (SWE)",1,2021-07-10,2025-06-21
+"Irvine, CA (USA)",1,2021-05-14,2021-05-14
+"Stadion, Verden (GER)",1,2023-06-10,2023-06-10
+Schwechat (AUT),1,2010-05-23,2017-06-04
+"Manhattan, KS (USA)",1,2015-01-17,2015-01-17
+Manzini (SWZ),1,2019-05-18,2019-05-18
+Paramaribo (SUR),1,2018-08-18,2018-08-18
+Ptuj (SLO),1,2019-02-24,2019-02-24
+Savona (ITA),1,2019-05-29,2019-05-29
+St-Etienne (FRA),1,2019-07-26,2019-07-26
+Albi (FRA),1,2018-07-06,2018-07-06
+"Chula Vista, CA (USA)",1,2021-05-29,2021-05-29
+Coimbra (POR),1,2021-04-10,2021-04-10
+Lahti (FIN),1,2022-05-25,2022-05-25
+"My Dinh National Stadium, Hanoi (VIE)",1,2022-05-14,2022-05-14
+Lefkosia (CYP),1,2017-03-25,2017-03-25
+"Stadium, Vladimir (RUS)",1,2024-09-21,2024-09-21
+"Wiedigsburghalle, Nordhausen (GER)",1,2024-01-28,2025-01-25
+Thessaloniki (GRE),1,2025-05-24,2025-05-24
+"Bad Cannstatt Stadion, Stuttgart (GER)",1,2025-05-03,2025-05-03
+"Festivalna, Sofia (BUL)",1,2025-01-18,2025-01-18
